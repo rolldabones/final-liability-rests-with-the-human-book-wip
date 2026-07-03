@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/28528998/README.md)
 # Final Liability Rests with the Human
 
 *A Practitioner's Guide to Governed AI in the Age of Agentic Systems*
@@ -38,27 +37,25 @@ The manuscript runs to twenty-two chapters across six parts, with a Conclusion a
 - Part VI, The Governance Test. Chapter 22.
 - Conclusion and Epilogue.
 
-Appendices D, E, F, H, K and L are included in the manuscript. They are working instruments rather than supplements: an assumption register, an agent registry, a Fundamental Rights Impact Assessment template, the Why Slow AI essay, the Berkeley Adopter's Checklist and the GRC next doctrine. Appendices I (AI Audit and Due Diligence Checklist), J (AI GRC Master Reference) and M (GRC Workbook) are maintained as separate documents.
+Appendices D, E, F, H, K and L are included in the manuscript. They are working instruments rather than supplements: an assumption register, an agent registry, a Fundamental Rights Impact Assessment template, the Why Slow AI essay, the Berkeley Adopter's Checklist and the GRCnext™ doctrine. Appendices I (AI Audit and Due Diligence Checklist), J (AI GRC Master Reference) and M (GRC Workbook) are maintained as separate documents.
 
 ## Files in this repository
 
 `Final_Liability_Rests_with_the_Human.md` is the manuscript. It renders in the browser, so you can read the whole book from the repository page.
 
-A Word version of the same text is available for readers who want it.
-
 ## How it was written
 
 This book argues that AI must be used with discipline, with Informed Intent and with a named human carrying Final Liability for what it produces. It was written that way. The author worked heavily with AI to draft, structure, stress-test and refine the manuscript, under intent specifications he wrote and against evidentiary standards he set. Every chapter and every line passed through his judgment before it appeared. The AI was a tool. The doctrine governing its use, and the responsibility for the result, are his.
 
-A short song that compresses the three doctrines, with lyrics by the author and an AI-generated rendering, is linked in the Preface.
+A short song that compresses the three doctrines, with lyrics by the author and an AI-generated rendering, is described in the Preface.
 
 ## A note on accuracy
 
-The book leans on doctrine that does not depend on which regulation is in force this season. Where it cites current law, the regulatory and case claims were independently verified, most recently in the June 2026 revision. Time-sensitive legal points still move, so confirm any specific obligation against current sources before relying on it. Nothing here is legal advice, and reading it creates no attorney-client relationship.
+The book leans on doctrine that does not depend on which regulation is in force this season. Where it cites current law, the regulatory and case claims were independently verified, most recently in the July 2026 revision. Time-sensitive legal points still move, so confirm any specific obligation against current sources before relying on it. Nothing here is legal advice, and reading it creates no attorney-client relationship.
 
 ## Status
 
-First edition, June 2026. Revisions are tracked through this repository's commit history.
+First edition, June 2026. Revised July 2026. Revisions are tracked through this repository's commit history.
 
 ---
 
