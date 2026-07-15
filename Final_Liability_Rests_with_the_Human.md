@@ -10,97 +10,95 @@ CEO, GRC Solutions Korea
 
 # Table of Contents
 
-**Master Contents (Static Reference)**
-
 **PART I: THE PROBLEM**
 
-Chapter 1: When AI Eliminates Coordination Work, It Reveals Your Governance Gap ✓
+Chapter 1: When AI Eliminates Coordination Work, It Reveals Your Governance Gap
 
-Chapter 2: Fast AI Creates Compliance Debt. Slow AI Builds Compliance Capital. ✓
+Chapter 2: Fast AI Creates Compliance Debt. Slow AI Builds Compliance Capital.
 
-Chapter 3: The Compliance Theater Problem ✓
+Chapter 3: The Compliance Theater Problem
 
-Chapter 4: Agentic AI Will Make Weak GRC Fail Fast ✓
+Chapter 4: Agentic AI Will Make Weak GRC Fail Fast
 
-Chapter 5: You Cannot Audit What You Cannot Slow Down ✓
+Chapter 5: You Cannot Audit What You Cannot Slow Down
 
 **PART II: THE DOCTRINE**
 
-Chapter 6: What Slow AI Means (And What It Does Not) ✓
+Chapter 6: What Slow AI Means (And What It Does Not)
 
-Chapter 7: What Final Liability Means ✓
+Chapter 7: What Final Liability Means
 
-Chapter 8: The Standard Is a Clock, Not a Stopwatch ✓
+Chapter 8: The Standard Is a Clock, Not a Stopwatch
 
-Chapter 9: Informed Intent ✓
+Chapter 9: Informed Intent
 
 **PART III: THE PRINCIPAL WAS ALWAYS HUMAN**
 
-Chapter 10: Culture as Code: How Agentic AI Reshapes the Organizational Operating System ✓
+Chapter 10: Culture as Code: How Agentic AI Reshapes the Organizational Operating System
 
-Chapter 11: The Agent in the Room ✓
+Chapter 11: The Agent in the Room
 
-Chapter 12: The Human in the Loop Is Not a Shaman ✓
+Chapter 12: The Human in the Loop Is Not a Shaman
 
-Chapter 13: Agents Have No Reputational Skin in the Game ✓
+Chapter 13: Agents Have No Reputational Skin in the Game
 
-Chapter 14: The Three Lines and the Trust Boundary ✓
+Chapter 14: The Three Lines and the Trust Boundary
 
-Chapter 15: Principal-Agent Risk at Machine Speed ✓
+Chapter 15: Principal-Agent Risk at Machine Speed
 
-Chapter 16: Running the Governance ✓
+Chapter 16: Running the Governance
 
 **PART IV: THE CONTRACT WAS ALWAYS THE WORKFLOW**
 
-Chapter 17: A Contract Is Not Paper. It Is a Mechanism for Future Performance. ✓
+Chapter 17: A Contract Is Not Paper. It Is a Mechanism for Future Performance.
 
-Chapter 18: A Contract Is a Set of Clocks ✓
+Chapter 18: A Contract Is a Set of Clocks
 
 **PART V: THE EVIDENCE PROBLEM**
 
-Chapter 19: Enterprise AI Is Purchased, Insured and Defended on Proof ✓
+Chapter 19: Enterprise AI Is Purchased, Insured and Defended on Proof
 
-Chapter 20: You Cannot Prove That Nothing Happened ✓
+Chapter 20: You Cannot Prove That Nothing Happened
 
-Chapter 21: Audit-Grade Evidence in the Agentic Environment ✓
+Chapter 21: Audit-Grade Evidence in the Agentic Environment
 
 **PART VI: THE GOVERNANCE TEST**
 
-Chapter 22: The Governance Test: A Punchlist for the Boardroom ✓
+Chapter 22: The Governance Test: A Punchlist for the Boardroom
 
 **CONCLUSION**
 
-The Wrapper Is Still the Human ✓
+The Wrapper Is Still the Human
 
-The Workshop ✓
+The Workshop
 
-Lamp, Bench, Seal ✓
+Lamp, Bench, Seal
 
-Premium Will Mean Handmade ✓
+Premium Will Mean Handmade
 
 **EPILOGUE**
 
-On Economics, Sufficiency and the Human Declaration ✓
+On Economics, Sufficiency and the Human Declaration
 
 **APPENDICES**
 
-Appendix D: The Assumption Register Template ✓
+Appendix D: The Assumption Register Template
 
-Appendix E: The Agent Registry Template ✓
+Appendix E: The Agent Registry Template
 
-Appendix F: Fundamental Rights Impact Assessment (FRIA), Working Template ✓
+Appendix F: Fundamental Rights Impact Assessment (FRIA), Working Template
 
-Appendix H: Why Slow AI? ✓
+Appendix H: Why Slow AI?
 
-Appendix I: AI Audit and Due Diligence Checklist (current version) ✓ (separate file)
+Appendix I: AI Audit and Due Diligence Checklist (current version) (separate file)
 
-Appendix J: AI GRC Master Reference (current version) ✓ (separate file)
+Appendix J: AI GRC Master Reference (current version) (separate file)
 
-Appendix K: Berkeley Adopter’s Checklist ✓
+Appendix K: Berkeley Adopter’s Checklist
 
-Appendix L: GRCnext™, Optionality as Executable Governance ✓
+Appendix L: GRCnext™, Optionality as Executable Governance
 
-Appendix M: GRC Workbook (current version) ✓ (separate file)
+Appendix M: GRC Workbook (current version) (separate file)
 
 # PREFACE: Four Years. Daily.
 

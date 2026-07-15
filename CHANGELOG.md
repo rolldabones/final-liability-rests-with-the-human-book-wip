@@ -2,6 +2,13 @@
 
 All notable changes to this repository are documented here. Versioning follows [Semantic Versioning](https://semver.org/). The README and this file version in lockstep; prior versions are superseded, never silently overwritten.
 
+## v1.3.0 (2026-07-15)
+
+Manuscript housekeeping release. No content changes.
+
+### Changed
+- Manuscript (Final_Liability_Rests_with_the_Human.md): drafting-workflow completion marks (36 checkmarks) and the "Master Contents (Static Reference)" label removed from the Table of Contents. Chapter titles, structure and all body text unchanged.
+
 ## v1.2.0 (2026-07-15)
 
 Same-day release versioning both appendix instruments following a full review pass, and correcting the omnibus procedural posture in both new versions by same-day in-place amendment, recorded here so that no versioned document is silently edited.
