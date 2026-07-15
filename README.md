@@ -5,6 +5,8 @@
 **Son-U Michael Paik**
 General Counsel, BABL AI. CEO, GRC Solutions Korea.
 
+**v1.1.0 · 15 July 2026 · License: [CC BY-NC-SA 4.0](LICENSE.md) · Changes: [CHANGELOG.md](CHANGELOG.md)**
+
 ---
 
 ## What this is
@@ -51,11 +53,25 @@ A short song that compresses the three doctrines, with lyrics by the author and 
 
 ## A note on accuracy
 
-The book leans on doctrine that does not depend on which regulation is in force this season. Where it cites current law, the regulatory and case claims were independently verified, most recently in the July 2026 revision. Time-sensitive legal points still move, so confirm any specific obligation against current sources before relying on it. Nothing here is legal advice, and reading it creates no attorney-client relationship.
+The book leans on doctrine that does not depend on which regulation is in force this season. Where it cites current law, the regulatory and case claims were independently verified, most recently in the July 2026 revision, with the EU AI Act status re-checked on 15 July 2026: the Digital Omnibus on AI amending Regulation (EU) 2024/1689 was endorsed by the European Parliament on 16 June 2026 and approved by the Council on 29 June 2026, with Official Journal publication pending at that date, so the original AI Act timeline remains the binding law until publication. The appendix instruments state their own reference frameworks in their headers; their in-file currency notes are re-dated when each instrument next versions, so that versioned documents are never edited in place. Time-sensitive legal points still move, so confirm any specific obligation against current sources before relying on it. Nothing here is legal advice, and reading it creates no attorney-client relationship.
 
 ## Status
 
 First edition, June 2026. Revised July 2026. Revisions are tracked through this repository's commit history.
+
+## License
+
+Released under [CC BY-NC-SA 4.0](LICENSE.md): free to share and adapt for non-commercial purposes with attribution, under the same license, per the note above that the book is released free and for non-commercial use.
+
+## Part of the ecosystem
+
+This manuscript is the doctrinal core of a larger body of AI governance, risk management and compliance work. The canonical map of all repositories is [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md) in the profile repository.
+
+Nearest neighbors:
+- [grc-workbook](https://github.com/rolldabones/grc-workbook): applies the book's three doctrines in its Part II and is maintained as the book's Appendix M in standalone form
+- [slow-ai-kitchen](https://github.com/rolldabones/slow-ai-kitchen): the operating instantiation of Slow AI for task and team work
+- [ai-governance-for-boards](https://github.com/rolldabones/ai-governance-for-boards): the board-altitude formulation of the three doctrines, with jurisdiction guides
+- [definition-of-done](https://github.com/rolldabones/definition-of-done): the acceptance doctrine that closes the loop the book's Evidence Problem (Part V) opens: no reliance until a named human confirms the work against tests defined in advance
 
 ---
 
