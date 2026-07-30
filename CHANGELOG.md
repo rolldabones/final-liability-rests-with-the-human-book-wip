@@ -2,6 +2,24 @@
 
 All notable changes to this repository are documented here. Versioning follows [Semantic Versioning](https://semver.org/). The README and this file version in lockstep; prior versions are superseded, never silently overwritten.
 
+## v1.4.0 (2026-07-30)
+
+Minor release. Substantive review of both appendix instruments against the published text of Regulation (EU) 2026/1744.
+
+### Changed
+- `AI_Audit_Due_Diligence_Checklist_v4_8.md` reissued as `AI_Audit_Due_Diligence_Checklist_v4_9.md`. The risk-tier key stated that the Digital Omnibus was awaiting Official Journal publication and that "the enacted dates remain binding", which would have directed an auditor to scope Annex III high-risk obligations as applying from 2 August 2026. That instruction was correct when written and became wrong on 27 July 2026. It is replaced with the in-force position: deferrals to 2 December 2027 (Article 6(2) and Annex III) and 2 August 2028 (Article 6(1) and Annex I) per Recital 40, with the general application date of 2 August 2026 unchanged. The Article 50 note now records the four-month Article 50(2) transitional period ending 2 December 2026, available to providers only and only for systems placed on the market before 2 August 2026 (Recital 38). The Article 50 marking question is split so that the Article 50(2) provider marking duty and the Article 50(4) disclosure duty are tested separately. The Article 25 alert carries the amended value-chain duties. Nine questions added: three on the new Article 5(1)(ba) and (bb) prohibitions and their Article 5(1a) scoping, one on Article 4 AI literacy as replaced, one on the Article 3(14) and Article 6(1a) to (1c) safety-component narrowing, one on Article 2(13) limitations, one on the Article 4a bias-detection legal basis replacing the deleted Article 10(5), one on the Article 42(3) cybersecurity presumption, and one from the Article 50 split. Count moves from 187 to 196 across the same 11 domains. No existing question was renumbered; the instrument carries no question numbers and new rows were appended within their sub-blocks so that ordinal positions of existing rows are preserved.
+- `AI_GRC_Master_Reference_v7_8.md` reissued as `AI_GRC_Master_Reference_v7_9.md`. A dated amendment note was added rather than re-dating the reference wholesale, consistent with the practice adopted across the account on 30 July 2026 and with the file's own design of citing obligations by article rather than by date. The note enumerates thirteen changes made by Regulation (EU) 2026/1744 with article and recital citations. The Part 21 enforcement-timeline paragraph carried the same superseded "pending publication" wording as the Checklist and is corrected. The Part 4.2 prohibited-uses list gains the two new Article 5 prohibitions. The Article 4 references in Part 1 and Appendix A are re-based to the replaced text. The Appendix D crosswalk row still named the repealed Colorado SB 24-205 and now names the SB 26-189 ADMT Act, matching Part 12. The Part 12 Colorado entry gains the *xAI v. Weiser* enforcement stay and the Chatbot Safety Act (HB 26-1263).
+- README masthead updated to v1.4.0 in lockstep, with the accuracy note recording the reissue of both instruments.
+
+### Removed
+- `AI_Audit_Due_Diligence_Checklist_v4_8.md` and `AI_GRC_Master_Reference_v7_8.md` deleted, per the v1.2.0 precedent that superseded versioned instruments are removed rather than retained alongside their successors.
+
+### Recorded as Unknown
+- Four points are flagged for external counsel and recorded as Unknown in both instruments rather than resolved: whether a deployer offering a general-purpose interface falls within the Article 5(1a)(b) purpose test; whether the Article 63 simplified quality-management route extends to small mid-cap enterprises as well as SMEs, Recital 28 naming SMEs only; the status of the Article 50(7) implementing-act empowerment, Recital 41 stating it is removed while the operative text retains it; and the application date of the new Article 5 prohibitions, widely reported as 2 December 2026 but not confirmed against the operative amendment to Article 113.
+
+### Unchanged
+- The manuscript, byte for byte.
+
 ## v1.3.1 (2026-07-30)
 
 Patch release. Regulatory currency in the README only.

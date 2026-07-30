@@ -5,7 +5,7 @@
 **Son-U Michael Paik**
 General Counsel, BABL AI. CEO, GRC Solutions Korea.
 
-**v1.3.1 · 30 July 2026 · License: [CC BY-NC-SA 4.0](LICENSE.md) · Changes: [CHANGELOG.md](CHANGELOG.md)**
+**v1.4.0 · 30 July 2026 · License: [CC BY-NC-SA 4.0](LICENSE.md) · Changes: [CHANGELOG.md](CHANGELOG.md)**
 
 ---
 
@@ -53,7 +53,7 @@ A short song that compresses the three doctrines, with lyrics by the author and 
 
 ## A note on accuracy
 
-The book leans on doctrine that does not depend on which regulation is in force this season. Where it cites current law, the regulatory and case claims were independently verified, most recently in the July 2026 revision, with the EU AI Act status re-checked on 30 July 2026: the Digital Omnibus on AI amending Regulation (EU) 2024/1689 was adopted as Regulation (EU) 2026/1744 of 8 July 2026, published in the Official Journal on 24 July 2026 (OJ L, 2026/1744, 24.7.2026) and in force since 27 July 2026. It defers stand-alone (Annex III) high-risk obligations to 2 December 2027 and obligations for AI embedded in Annex I regulated products to 2 August 2028. Those deferrals are now binding law. The Act's general application date of 2 August 2026 is unchanged. The appendix instruments state their own reference frameworks in their headers; their in-file currency notes are re-dated when each instrument next versions, so that versioned documents are never edited in place. Time-sensitive legal points still move, so confirm any specific obligation against current sources before relying on it. Nothing here is legal advice, and reading it creates no attorney-client relationship.
+The book leans on doctrine that does not depend on which regulation is in force this season. Where it cites current law, the regulatory and case claims were independently verified, most recently in the July 2026 revision, with the EU AI Act status re-checked on 30 July 2026: the Digital Omnibus on AI amending Regulation (EU) 2024/1689 was adopted as Regulation (EU) 2026/1744 of 8 July 2026, published in the Official Journal on 24 July 2026 (OJ L, 2026/1744, 24.7.2026) and in force since 27 July 2026. It defers stand-alone (Annex III) high-risk obligations to 2 December 2027 and obligations for AI embedded in Annex I regulated products to 2 August 2028. Those deferrals are now binding law. The Act's general application date of 2 August 2026 is unchanged. The appendix instruments state their own reference frameworks in their headers. Both were substantively reviewed against the published text of Regulation (EU) 2026/1744 on 30 July 2026 and reissued: the AI Audit and Due Diligence Checklist at v4.9 and the AI GRC Master Reference at v7.9. Versioned documents are never edited in place; each carries its own dated currency note, and points that the published text leaves open are recorded as Unknown with a counsel flag rather than resolved in-house. Time-sensitive legal points still move, so confirm any specific obligation against current sources before relying on it. Nothing here is legal advice, and reading it creates no attorney-client relationship.
 
 ## Status
 
