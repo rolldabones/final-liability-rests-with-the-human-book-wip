@@ -2,6 +2,18 @@
 
 All notable changes to this repository are documented here. Versioning follows [Semantic Versioning](https://semver.org/). The README and this file version in lockstep; prior versions are superseded, never silently overwritten.
 
+## v1.3.1 (2026-07-30)
+
+Patch release. Regulatory currency in the README only.
+
+### Changed
+- A note on accuracy: the EU AI Act status re-checked on 30 July 2026 and the sentence rewritten. The Digital Omnibus on AI was adopted as Regulation (EU) 2026/1744 of 8 July 2026, published in the Official Journal on 24 July 2026 (OJ L, 2026/1744, 24.7.2026) and in force since 27 July 2026. The prior wording, that the original AI Act timeline remains the binding law until publication, ceased to be accurate on 27 July 2026. The note now records the binding deferrals (stand-alone Annex III high-risk obligations to 2 December 2027, AI embedded in Annex I regulated products to 2 August 2028) and that the general application date of 2 August 2026 is unchanged.
+- README masthead updated to v1.3.1 in lockstep.
+
+### Unchanged
+- The manuscript, byte for byte.
+- Both appendix instruments (AI Audit and Due Diligence Checklist v4.8, AI GRC Master Reference v7.8), byte for byte. Their in-file currency notes re-date when each instrument next versions, per the v1.1.0 policy. Both are queued for a substantive v4.9 and v7.9 pass triggered by the Official Journal publication.
+
 ## v1.3.0 (2026-07-15)
 
 Manuscript housekeeping release. No content changes.
