@@ -4,7 +4,7 @@
 
 **Son-U Michael Paik**
 
-General Counsel, BABL AI
+Former General Counsel, BABL AI
 
 CEO, GRC Solutions Korea
 
@@ -3835,7 +3835,7 @@ Field color coding in Section D: mandatory rights assessment fields are shaded. 
 
 *On governance, countervailing power and the conditions under which AI accountability remains possible*
 
-Son-U Michael Paik \| General Counsel, BABL AI
+Son-U Michael Paik \| former General Counsel, BABL AI
 
 **Governance has a speed problem. AI does not.**
 
@@ -4001,7 +4001,7 @@ Slow AI gives them that time.
 
 *Son-U Michael Paik*
 
-General Counsel, BABL AI
+Former General Counsel, BABL AI
 
 **Citation**
 

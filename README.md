@@ -3,7 +3,7 @@
 *A Practitioner's Guide to Governed AI in the Age of Agentic Systems*
 
 **Son-U Michael Paik**
-General Counsel, BABL AI. CEO, GRC Solutions Korea.
+Former General Counsel, BABL AI. CEO, GRC Solutions Korea.
 
 **v1.4.0 · 30 July 2026 · License: [CC BY-NC-SA 4.0](LICENSE.md) · Changes: [CHANGELOG.md](CHANGELOG.md)**
 
