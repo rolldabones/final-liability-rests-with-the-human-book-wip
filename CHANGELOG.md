@@ -2,6 +2,15 @@
 
 All notable changes to this repository are documented here. Versioning follows [Semantic Versioning](https://semver.org/). The README and this file version in lockstep; prior versions are superseded, never silently overwritten.
 
+## v1.5.0 (2026-08-13)
+
+Checklist v4.10, closing the Article 50(3) tier-note gap.
+
+- `AI_Audit_Due_Diligence_Checklist_v4_9.md` reissued as `AI_Audit_Due_Diligence_Checklist_v4_10.md`. v4_9 is deleted per the supersession convention; prior versions remain retrievable from the tag chain.
+- **New question row, Art. 50(3).** The risk-tier key already listed emotion recognition and biometric categorization among the Article 50 categories, but no question row covered them. The Checklist carried Art. 50(1), 50(2), 50(4) and 50(7) and skipped 50(3). That gap is now closed. Question count 196 to 197.
+- The new row states the point that makes Art. 50(3) different: it is a **deployer** duty. Unlike Art. 50(1) and Art. 50(2), it is not discharged upstream by the provider, so an organization that merely procures and switches on an emotion recognition or biometric categorization system holds it directly. Verification guidance covers the GDPR lawful basis and the Article 9 special-category condition, which biometric and emotion data will usually engage, and requires that reliance on the law-enforcement derogation be authorized and recorded.
+- License metadata sweep folded into this release: `SPDX-License-Identifier: CC-BY-NC-SA-4.0` and the canonical Creative Commons legal code added inside the existing license file, filename unchanged, human summary retained above the legal code.
+
 ## v1.4.0 (2026-07-30)
 
 Minor release. Substantive review of both appendix instruments against the published text of Regulation (EU) 2026/1744.
