@@ -4,6 +4,12 @@
 
 *Released July 2026. Supersedes Version 7.7 (May 2026).*
 
+### Amendment note, 17 August 2026 (KST)
+
+*Citation correction. No change to the analysis or to any drafting guidance in this reference.*
+
+**Republic of Korea, instruments in force.** *[Binding law. Pinpoint: Act No. 21311; Presidential Decree No. 36506. As at 17 August 2026 (KST).]* The Part 12 Korea entry cited **Act No. 20676** and **Presidential Decree No. 36053** as the operative instruments. **That is struck.** Both were amended before this note. The Act in force is **Act No. 21311 of 20 January 2026** (partial amendment), in force 21 July 2026. The Enforcement Decree in force is **Presidential Decree No. 36506 of 20 July 2026** (partial amendment), in force 21 July 2026. The original enactments took effect on 22 January 2026 and are retained in the entry as the commencement record only. The substantive description of the Act in this reference, including the development-operator and utilization-operator distinction and the Article 31, 32 and 33 to 35 duties, was checked against the amended text and is unaffected.
+
 ### Amendment note, 30 July 2026
 
 *This version is not a wholesale re-dating. The body of this reference was written to cite obligations by article rather than by date, and that design holds. This note records what changed in the underlying law and where, so that a reader can see the scope of the amendment rather than infer it from a new date on the cover.*
@@ -1226,7 +1232,7 @@ Organizations operating across US states must treat compliance as a multi-jurisd
 
 *United Kingdom.* The UK does not have a horizontal AI-specific statute as of the date of this version. The government’s approach to date has combined pro-innovation sector-regulator guidance, voluntary commitments to the AI Safety Institute (AISI, now the AI Security Institute following renaming), and selective legislative activity. Key elements: (a) sector-regulator AI guidance from the ICO (data protection), FCA and PRA (financial services), Ofcom (online safety and media), MHRA (medical devices), CMA (competition and markets), and others, operating under the Department for Science, Innovation and Technology (DSIT) AI Regulation Principles published in the 2023 White Paper and successor papers; (b) the AISI’s voluntary pre-deployment testing regime for frontier AI models and related commitments from major model providers; (c) the Online Safety Act 2023 which imposes duties on user-to-user services including those using AI for content generation and moderation; and (d) UK GDPR and Data Protection Act 2018 which apply to AI processing personal data. UK providers placing AI systems on the EU market remain subject to the EU AI Act. A UK AI Bill has been anticipated in successive legislative programs; drafters should confirm current status before advising on a specifically UK regulatory regime.
 
-*Republic of Korea.* The Act on the Development of Artificial Intelligence and the Establishment of a Foundation for Trust (AI Basic Act, Act No. 20676) is the world’s second comprehensive AI-specific statute after the EU AI Act. Detailed implementation is delegated to subordinate legislation, principally the AI Basic Act Enforcement Decree (Presidential Decree No. 36053). The Act distinguishes between AI Development Business Operators (developers) and AI Utilization Business Operators (deployers), with most substantive obligations applying to both categories.
+*Republic of Korea.* The Act on the Development of Artificial Intelligence and the Establishment of a Foundation for Trust (AI Basic Act) is the world’s second comprehensive AI-specific statute after the EU AI Act. The instruments in force are **Act No. 21311 of 20 January 2026** and, for the subordinate legislation to which detailed implementation is delegated, the AI Basic Act Enforcement Decree, **Presidential Decree No. 36506 of 20 July 2026**, both in force 21 July 2026. The original enactments, Act No. 20676 and Presidential Decree No. 36053, took effect on 22 January 2026 and are no longer the operative texts. *[Binding law. As at 17 August 2026 (KST).]* The Act distinguishes between AI Development Business Operators (developers) and AI Utilization Business Operators (deployers), with most substantive obligations applying to both categories.
 
 Key operative articles for compliance drafting:
 
