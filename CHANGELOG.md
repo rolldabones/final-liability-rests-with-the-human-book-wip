@@ -2,13 +2,25 @@
 
 All notable changes to this repository are documented here. Versioning follows [Semantic Versioning](https://semver.org/). The README and this file version in lockstep; prior versions are superseded, never silently overwritten.
 
+## v1.5.2 (2026-08-17)
+
+Decision recorded. No change to any instrument, to the manuscript or to the analysis.
+
+**The `v7_9` reissue question is answered: `v7_9` stands.** v1.5.1 carried the Korea citation correction as a dated amendment note rather than reissuing `AI_GRC_Master_Reference_v7_9.md` as `v7_10`, and flagged the choice as open. It is now decided.
+
+**The rule, going forward, for both appendix instruments.** The reissue convention that governed `v7_8` to `v7_9` and `v4_9` to `v4_10` is reserved for changes to **the analysis, the question set or the obligation mapping**. A corrected instrument number, carried in a dated amendment note that names what was struck, does not meet it. Reissuing an 1,800-line reference to correct two statute numbers would bury the correction in a whole-file diff, which is the opposite of what the supersession convention is for.
+
+**Why this is a release and not a silent edit.** The open question was published in the v1.5.1 changelog. Answering it in place would have re-written a released entry. The v1.5.1 entry stands as written and this entry supersedes it on the point.
+
+**Unchanged.** `AI_GRC_Master_Reference_v7_9.md`, `AI_Audit_Due_Diligence_Checklist_v4_10.md` and the manuscript, all byte for byte.
+
 ## v1.5.1 (2026-08-17)
 
 Maintenance. Korea instrument citations in the Master Reference corrected to the texts in force.
 
 **Correction of substance.** *[Binding law. Pinpoint: Act No. 21311; Presidential Decree No. 36506. As at 17 August 2026 (KST).]* `AI_GRC_Master_Reference_v7_9.md` Part 12 named **Act No. 20676** and **Presidential Decree No. 36053** as the operative Korean instruments. **That is struck.** The Act in force is **Act No. 21311 of 20 January 2026**; the Enforcement Decree in force is **Presidential Decree No. 36506 of 20 July 2026**; both in force 21 July 2026. The original enactments are retained as the commencement record. This correction was made in `ai-governance-for-boards` v1.5.0 on 13 August 2026 and did not propagate here at the time.
 
-**Recorded as an amendment note, not a reissue.** The correction is carried as a dated amendment note at the head of the file, following the practice adopted for this instrument on 30 July 2026. The filename is unchanged and `v7_9` is not reissued as `v7_10`: the correction is to a citation, not to the analysis, and the reference is designed to cite obligations by article rather than by date. ⧉ If you would rather a citation correction trigger a reissue under the supersession convention that governed `v7_8` to `v7_9`, say so and this will be redone as `v7_10` with the predecessor deleted.
+**Recorded as an amendment note, not a reissue.** The correction is carried as a dated amendment note at the head of the file, following the practice adopted for this instrument on 30 July 2026. The filename is unchanged and `v7_9` is not reissued as `v7_10`: the correction is to a citation, not to the analysis, and the reference is designed to cite obligations by article rather than by date.
 
 **Unchanged.** The manuscript, byte for byte. `AI_Audit_Due_Diligence_Checklist_v4_10.md`, byte for byte; it carries no Korean instrument numbers.
 

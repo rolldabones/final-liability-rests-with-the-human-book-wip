@@ -5,7 +5,7 @@
 **Son-U Michael Paik**
 Former General Counsel, BABL AI. CEO, GRC Solutions Korea.
 
-**v1.5.1 · 17 August 2026 · License: [CC BY-NC-SA 4.0](LICENSE.md) · Changes: [CHANGELOG.md](CHANGELOG.md)**
+**v1.5.2 · 17 August 2026 · License: [CC BY-NC-SA 4.0](LICENSE.md) · Changes: [CHANGELOG.md](CHANGELOG.md)**
 
 ---
 
