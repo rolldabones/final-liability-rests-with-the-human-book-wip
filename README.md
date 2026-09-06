@@ -5,7 +5,7 @@
 **Son-U Michael Paik**
 Former General Counsel, BABL AI. CEO, GRC Solutions Korea.
 
-**v1.5.2 · 17 August 2026 · License: [CC BY-NC-SA 4.0](LICENSE.md) · Changes: [CHANGELOG.md](CHANGELOG.md)**
+**v1.6.0 · 6 September 2026 · License: [CC BY-NC-SA 4.0](LICENSE.md) · Changes: [CHANGELOG.md](CHANGELOG.md)**
 
 ---
 
@@ -39,11 +39,13 @@ The manuscript runs to twenty-two chapters across six parts, with a Conclusion a
 - Part VI, The Governance Test. Chapter 22.
 - Conclusion and Epilogue.
 
+The reading index in [manuscript/README.md](manuscript/README.md) lists every chapter with its title.
+
 Appendices D, E, F, H, K and L are included in the manuscript. They are working instruments rather than supplements: an assumption register, an agent registry, a Fundamental Rights Impact Assessment template, the Why Slow AI essay, the Berkeley Adopter's Checklist and the GRCnext™ doctrine. Appendices I (AI Audit and Due Diligence Checklist), J (AI GRC Master Reference) and M (GRC Workbook) are maintained as separate documents.
 
 ## Files in this repository
 
-`Final_Liability_Rests_with_the_Human.md` is the manuscript. It renders in the browser, so you can read the whole book from the repository page.
+`Final_Liability_Rests_with_the_Human.md` is the manuscript and the file of record: cite it and download it from there. GitHub does not render a markdown file of this size in the browser, so for reading it is published in parts under [manuscript/](manuscript/README.md), one file per chapter, derived from the manuscript and verified to rebuild it byte for byte. The two appendix instruments render as they are.
 
 ## How it was written
 
