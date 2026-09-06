@@ -5,7 +5,7 @@
 **Son-U Michael Paik**
 Former General Counsel, BABL AI. CEO, GRC Solutions Korea.
 
-**v1.6.0 · 6 September 2026 · License: [CC BY-NC-SA 4.0](LICENSE.md) · Changes: [CHANGELOG.md](CHANGELOG.md)**
+**v1.6.1 · 6 September 2026 · License: [CC BY-NC-SA 4.0](LICENSE.md) · Changes: [CHANGELOG.md](CHANGELOG.md)**
 
 ---
 
@@ -61,6 +61,12 @@ The book leans on doctrine that does not depend on which regulation is in force 
 
 First edition, June 2026. Revised July 2026. Revisions are tracked through this repository's commit history.
 
+## How to Cite
+
+> Paik, Son-U Michael. *Final Liability Rests with the Human*, v1.6.1. GRC Solutions Korea, 2026. https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip
+
+A machine-readable citation is in [CITATION.cff](CITATION.cff).
+
 ## License
 
 Released under [CC BY-NC-SA 4.0](LICENSE.md): free to share and adapt for non-commercial purposes with attribution, under the same license, per the note above that the book is released free and for non-commercial use.
@@ -68,6 +74,8 @@ Released under [CC BY-NC-SA 4.0](LICENSE.md): free to share and adapt for non-co
 ## Part of the ecosystem
 
 This manuscript is the doctrinal core of a larger body of AI governance, risk management and compliance work. The canonical map of all repositories is [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md) in the profile repository.
+
+The three doctrines are used in this repository as stated in [DOCTRINE.md](https://github.com/rolldabones/rolldabones/blob/main/DOCTRINE.md), the account's single normative statement. Where this repository restates a doctrine, it restates it at its own altitude and adds instruments, not doctrine (ECOSYSTEM.md protocol item 6).
 
 Nearest neighbors:
 - [grc-workbook](https://github.com/rolldabones/grc-workbook): applies the book's three doctrines in its Part II and is maintained as the book's Appendix M in standalone form
