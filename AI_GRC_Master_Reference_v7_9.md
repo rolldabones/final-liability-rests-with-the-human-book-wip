@@ -62,7 +62,7 @@ The three doctrines are not redundant. Slow AI describes how the work must be do
 
 ### 4P: Principles, People, Policies, Systems (added v7.5)
 
-4P is a reading lens for the AI governance literature, added to this DOCTRINAL FRAME as a navigation aid for practitioners reading the literature against the doctrine. It is not a fourth owned doctrine alongside Slow AI, Final Liability, Informed Intent and the GRC next™ primitives in the companion Master’s Appendix L. Drafters who use the file in conjunction with the synthesizing reference works added at Part 25 may find the four-element scaffold useful for organizing the harmonized recommendations and action-subject pairs against this file’s structure.
+4P is a reading lens for the AI governance literature, added to this DOCTRINAL FRAME as a navigation aid for practitioners reading the literature against the doctrine. It is not a fourth owned doctrine alongside Slow AI, Final Liability, Informed Intent and the GRCnext™ primitives in the companion Master’s Appendix L. Drafters who use the file in conjunction with the synthesizing reference works added at Part 25 may find the four-element scaffold useful for organizing the harmonized recommendations and action-subject pairs against this file’s structure.
 
 **Principles.** The harmonized framework objectives in Source \#7 (Governance, Safety, Security, Privacy, Detection and Response). The AI GRC triad (Slow AI, Final Liability, Informed Intent). Sectoral norms applicable in the organization’s operating jurisdictions. Principles state what the organization is trying to do.
 

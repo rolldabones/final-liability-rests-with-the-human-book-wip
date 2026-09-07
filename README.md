@@ -5,7 +5,7 @@
 **Son-U Michael Paik**
 Former General Counsel, BABL AI. CEO, GRC Solutions Korea.
 
-**v1.6.1 · 6 September 2026 · License: [CC BY-NC-SA 4.0](LICENSE.md) · Changes: [CHANGELOG.md](CHANGELOG.md)**
+**v1.7.0 · 7 September 2026 · License: [CC BY-NC-SA 4.0](LICENSE.md) · Changes: [CHANGELOG.md](CHANGELOG.md)**
 
 ---
 
@@ -45,7 +45,9 @@ Appendices D, E, F, H, K and L are included in the manuscript. They are working 
 
 ## Files in this repository
 
-`Final_Liability_Rests_with_the_Human.md` is the manuscript and the file of record: cite it and download it from there. GitHub does not render a markdown file of this size in the browser, so for reading it is published in parts under [manuscript/](manuscript/README.md), one file per chapter, derived from the manuscript and verified to rebuild it byte for byte. The two appendix instruments render as they are.
+`Final_Liability_Rests_with_the_Human.md` is the manuscript and the file of record: cite it and download it from there. GitHub does not render a markdown file of this size in the browser, so for reading it is published in parts under [manuscript/](manuscript/README.md), one file per chapter, derived from the manuscript and verified to rebuild it byte for byte.
+
+`AI_GRC_Master_Reference_v7_9.md` is Appendix J and is likewise the file of record: cite it and download it from there. It sits above the account's 240,000-byte splitting ceiling, so for reading it is published in parts under [master-reference/](master-reference/README.md), derived from it and verified to rebuild it byte for byte. The AI Audit and Due Diligence Checklist renders as it is.
 
 ## How it was written
 
@@ -63,7 +65,7 @@ First edition, June 2026. Revised July 2026. Revisions are tracked through this 
 
 ## How to Cite
 
-> Paik, Son-U Michael. *Final Liability Rests with the Human*, v1.6.1. GRC Solutions Korea, 2026. https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip
+> Paik, Son-U Michael. *Final Liability Rests with the Human*, v1.7.0. GRC Solutions Korea, 2026. https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip
 
 A machine-readable citation is in [CITATION.cff](CITATION.cff).
 
