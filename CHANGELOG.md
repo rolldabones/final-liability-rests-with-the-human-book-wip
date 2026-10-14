@@ -2,6 +2,15 @@
 
 All notable changes to this repository are documented here. Versioning follows [Semantic Versioning](https://semver.org/). The README and this file version in lockstep; prior versions are superseded, never silently overwritten.
 
+## v1.7.1 (2026-10-15)
+
+Byline correction, on the author's instruction of 15 October 2026 (KST). No change to the analysis.
+
+- **`README.md` masthead:** "Former General Counsel, BABL AI. CEO, GRC Solutions Korea." now reads "CEO, GRC Solutions Korea."
+- **`Final_Liability_Rests_with_the_Human.md`, three lines.** Title page: the line "Former General Counsel, BABL AI" and the blank line after it are removed, so the title page reads name, then "CEO, GRC Solutions Korea". Appendix H byline: "Son-U Michael Paik \| former General Counsel, BABL AI" now reads "Son-U Michael Paik \| CEO, GRC Solutions Korea". Appendix H sign-off: "Former General Counsel, BABL AI" now reads "CEO, GRC Solutions Korea". SHA-256 `b7de127791f1575edf04e58b49910d5d07d5484fd88791eb978e2f1404cc955c`, 823,287 bytes; it was `8892648a7cd63eae8665baca474554d88a48a26b286dd293eab8542506c783f4`, 823,334 bytes.
+- **`manuscript/` regenerated in the same release**, under the standing rule. `split_markdown.py` at a 240,000-byte ceiling, same 32 part file names. The 32 parts rebuild the manuscript byte for byte, 823,287 bytes, verified before commit. Two parts change in their text (`00-table-of-contents.md`, `29-appendix-h-why-slow-ai.md`). The reading index `manuscript/README.md` also changes: 26 of its 32 Size (KB) figures read 1 higher. Run against the v1.7.0 manuscript, the current tool reproduces all 32 parts byte for byte and gives the same 26 higher figures, so the index committed at v1.6.0 came from an earlier version of the tool and the difference is not caused by this edit.
+- Biography prose naming the former role is unchanged. Masthead, How to Cite and `CITATION.cff` move to v1.7.1 in lockstep. `AI_Audit_Due_Diligence_Checklist_v4_10.md`, `AI_GRC_Master_Reference_v7_9.md`, `master-reference/` and `LICENSE.md` are unchanged byte for byte.
+
 ## v1.7.0 (2026-09-07)
 
 Structure release, and one correction of substance in the Master Reference. Same shape as v1.6.0 for the manuscript: a new publication surface, no change to the analysis.

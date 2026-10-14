@@ -7,7 +7,7 @@
 
 *On governance, countervailing power and the conditions under which AI accountability remains possible*
 
-Son-U Michael Paik \| former General Counsel, BABL AI
+Son-U Michael Paik \| CEO, GRC Solutions Korea
 
 **Governance has a speed problem. AI does not.**
 
@@ -173,7 +173,7 @@ Slow AI gives them that time.
 
 *Son-U Michael Paik*
 
-Former General Counsel, BABL AI
+CEO, GRC Solutions Korea
 
 **Citation**
 

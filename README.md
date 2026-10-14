@@ -3,9 +3,9 @@
 *A Practitioner's Guide to Governed AI in the Age of Agentic Systems*
 
 **Son-U Michael Paik**
-Former General Counsel, BABL AI. CEO, GRC Solutions Korea.
+CEO, GRC Solutions Korea.
 
-**v1.7.0 · 7 September 2026 · License: [CC BY-NC-SA 4.0](LICENSE.md) · Changes: [CHANGELOG.md](CHANGELOG.md)**
+**v1.7.1 · 15 October 2026 · License: [CC BY-NC-SA 4.0](LICENSE.md) · Changes: [CHANGELOG.md](CHANGELOG.md)**
 
 ---
 
@@ -65,7 +65,7 @@ First edition, June 2026. Revised July 2026. Revisions are tracked through this 
 
 ## How to Cite
 
-> Paik, Son-U Michael. *Final Liability Rests with the Human*, v1.7.0. GRC Solutions Korea, 2026. https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip
+> Paik, Son-U Michael. *Final Liability Rests with the Human*, v1.7.1. GRC Solutions Korea, 2026. https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip
 
 A machine-readable citation is in [CITATION.cff](CITATION.cff).
 
