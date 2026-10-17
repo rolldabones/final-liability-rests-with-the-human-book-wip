@@ -2,6 +2,19 @@
 
 All notable changes to this repository are documented here. Versioning follows [Semantic Versioning](https://semver.org/). The README and this file version in lockstep; prior versions are superseded, never silently overwritten.
 
+## v1.8.1 (2026-10-17)
+
+README doctrine conformance, session T3 of the whole-account review of 15 October 2026 (doc section 1; reviewer report 05, Elegance item 7). README only; the manuscript, its parts, the Checklist and the Master Reference are unchanged byte for byte.
+
+### Changed
+- **README, The argument in three doctrines:** the Slow AI paragraph stated the doctrine as a speed rule ("running at speed everywhere else"), which DOCTRINE.md section 1 disclaims; the Informed Intent and Final Liability paragraphs compressed the doctrines without the instrument's four elements or the three attributes. Each paragraph now carries the sentence form of DOCTRINE.md v1.2.0 section 8, keeping the book's own closing clause, and a sentence points to DOCTRINE.md.
+- **README, Part of the ecosystem:** computational-drafting added as the fifth nearest neighbor, returning the pointer it gives this repository (ECOSYSTEM.md protocol item 9).
+- `CITATION.cff`, the README masthead and How to Cite move to v1.8.1 in lockstep.
+
+### Not changed, and why
+- The Checklist and Master Reference mechanical items the review lists (MR masthead and Part cross-references, "Chapter 25", literal asterisks, "(Article 17(see Part 6.7))", UK spellings in both instruments) wait for session T8, which re-versions both instruments in one release (Checklist v5.0.0, Master Reference v7.11), so neither re-versions twice in a week and the versioned filenames other repositories link to stay valid until then.
+- The manuscript's doctrine variants and house-style lines are report-only under ruling 1 of 15 October 2026; T8 corrects only its legal pinpoints, Q-citations and the FRIA Section D matrix.
+
 ## v1.8.0 (2026-10-15)
 
 Legal currency release for the two appendix instruments, session T1 of the whole-account review of 15 October 2026 (KST). Corrections only; the structural changes the review scheduled (Checklist IDs and a Master Reference Part column, Master Reference currency head section) wait for session T8. Every correction of substance is struck in place and itemized in a dated amendment note on the instrument's face; nothing is silently re-dated. The manuscript is unchanged byte for byte.

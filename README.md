@@ -5,7 +5,7 @@
 **Son-U Michael Paik**
 CEO, GRC Solutions Korea.
 
-**v1.8.0 · 15 October 2026 · License: [CC BY-NC-SA 4.0](LICENSE.md) · Changes: [CHANGELOG.md](CHANGELOG.md)**
+**v1.8.1 · 17 October 2026 · License: [CC BY-NC-SA 4.0](LICENSE.md) · Changes: [CHANGELOG.md](CHANGELOG.md)**
 
 ---
 
@@ -19,13 +19,13 @@ The book is released free and for non-commercial use.
 
 ## The argument in three doctrines
 
-**Slow AI.** Not slow operation and not a refusal to use AI. The discipline of placing inspection at the points where the system crosses a governance boundary, and running at speed everywhere else.
+**Slow AI.** AI that cannot be governed, explained and audited is not deployed; the three tests are conjunctive, and the doctrine is a precondition, not a speed limit. Nor is it a refusal to use AI.
 
-**Informed Intent.** The condition under which the authorizing human genuinely understands what they are approving, before they approve it, rather than receiving a briefing optimized for their confidence.
+**Informed Intent.** No AI system acts without prior authorization stating its purpose, authority, boundaries and exit, given by a human who meets the five authorizer conditions: the authorizing human understands what they are approving before they approve it, rather than receiving a briefing optimized for their confidence.
 
-**Final Liability.** A named human carries the outcome of every AI deployment, regardless of how many layers stand between the authorization and the consequence.
+**Final Liability.** Every material outcome attaches to a named human owner with decision rights, oversight and the power to intervene, regardless of how many layers stand between the authorization and the consequence.
 
-The three are not separable. Slow AI produces the evidence that makes Final Liability assignable. Final Liability creates the incentive to build the governance Slow AI requires. Informed Intent closes the gap the other two leave open.
+Each statement above is the sanctioned short form of [DOCTRINE.md](https://github.com/rolldabones/rolldabones/blob/main/DOCTRINE.md#8-short-forms), the account's single normative statement; the manuscript develops them at length. The three are not separable. Slow AI produces the evidence that makes Final Liability assignable. Final Liability creates the incentive to build the governance Slow AI requires. Informed Intent closes the gap the other two leave open.
 
 ## How the book is organized
 
@@ -65,7 +65,7 @@ First edition, June 2026. Revised July 2026. Revisions are tracked through this 
 
 ## How to Cite
 
-> Paik, Son-U Michael. *Final Liability Rests with the Human*, v1.8.0. GRC Solutions Korea, 2026. https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip
+> Paik, Son-U Michael. *Final Liability Rests with the Human*, v1.8.1. GRC Solutions Korea, 2026. https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip
 
 A machine-readable citation is in [CITATION.cff](CITATION.cff).
 
@@ -84,6 +84,7 @@ Nearest neighbors:
 - [slow-ai-kitchen](https://github.com/rolldabones/slow-ai-kitchen): the operating instantiation of Slow AI for task and team work
 - [ai-governance-for-boards](https://github.com/rolldabones/ai-governance-for-boards): the board-altitude formulation of the three doctrines, with jurisdiction guides
 - [definition-of-done](https://github.com/rolldabones/definition-of-done): the acceptance doctrine that closes the loop the book's Evidence Problem (Part V) opens: no reliance until a named human confirms the work against tests defined in advance
+- [computational-drafting](https://github.com/rolldabones/computational-drafting): the drafting layer that writes the named human into the specification an agent executes
 
 ---
 
