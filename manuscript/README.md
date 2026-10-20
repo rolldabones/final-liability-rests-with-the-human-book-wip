@@ -25,7 +25,7 @@ Derived from [Final_Liability_Rests_with_the_Human.md](../Final_Liability_Rests_
 | 19 | [PART IV: THE CONTRACT WAS ALWAYS THE WORKFLOW · CHAPTER 17: A Contract Is Not Paper. It Is a Mechanism for Future Performance.](18-chapter-17-a-contract-is-not-paper-it-is-a-mechanism-for.md) | 19 |
 | 20 | [CHAPTER 18: A Contract Is a Set of Clocks](19-chapter-18-a-contract-is-a-set-of-clocks.md) | 15 |
 | 21 | [PART V: THE EVIDENCE PROBLEM · CHAPTER 19: Enterprise AI Is Purchased, Insured and Defended on Proof](20-chapter-19-enterprise-ai-is-purchased-insured-and-defended.md) | 29 |
-| 22 | [CHAPTER 20: You Cannot Prove That Nothing Happened](21-chapter-20-you-cannot-prove-that-nothing-happened.md) | 24 |
+| 22 | [CHAPTER 20: You Cannot Prove That Nothing Happened](21-chapter-20-you-cannot-prove-that-nothing-happened.md) | 25 |
 | 23 | [CHAPTER 21: Audit-Grade Evidence in the Agentic Environment](22-chapter-21-audit-grade-evidence-in-the-agentic-environment.md) | 68 |
 | 24 | [PART VI: THE GOVERNANCE TEST · CHAPTER 22: The Governance Test: A Punchlist for the Boardroom](23-chapter-22-the-governance-test-a-punchlist-for-the-boardroom.md) | 32 |
 | 25 | [CONCLUSION](24-conclusion.md) | 9 |

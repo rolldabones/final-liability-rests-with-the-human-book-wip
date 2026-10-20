@@ -61,7 +61,7 @@ The book leans on doctrine that does not depend on which regulation is in force 
 
 ## Status
 
-First edition, June 2026. Revised July 2026. Revisions are tracked through this repository's commit history.
+First edition, June 2026. Revised July 2026; corrected 15 and 18 October 2026. Revisions are tracked through this repository's commit history.
 
 ## How to Cite
 

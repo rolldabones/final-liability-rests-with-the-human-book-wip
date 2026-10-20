@@ -25,35 +25,19 @@ Complementary frameworks: NIST AI Risk Management Framework and ISO/IEC 23894.
 
 - What model is underneath the product? Is it proprietary, open-weight, open-source, hosted, fine-tuned or embedded through another application? Is the vendor the model developer, deployer, reseller or application-layer provider?
 
-<!-- -->
-
 - What third-party models, tools, datasets, plug-ins or infrastructure sit behind the product? Is there an AI Bill of Materials or equivalent component inventory?
-
-<!-- -->
 
 - What training data, fine-tuning data or retrieval data is relevant to the product?
 
-<!-- -->
-
 - What are the model’s known limitations? What assumptions does the vendor make about intended use? What uses are prohibited? What foreseeable misuse did the vendor assess?
-
-<!-- -->
 
 - What red-teaming or adversarial testing was performed? Were external evaluators or auditors involved? What vulnerabilities, biases or limitations have been identified? How are customer-reported risks, vulnerabilities and biases handled?
 
-<!-- -->
-
 - What documentation is available? Is there a model card, system card, security white paper, audit report or trust-center evidence?
-
-<!-- -->
 
 - What logs are retained? Who can access those logs? Can prompts, outputs, files or user activity be used for training? What privacy, security and confidentiality controls apply?
 
-<!-- -->
-
 - What happens when the model changes? How much notice does the customer receive? Can the customer opt out, roll back, freeze a version or disable a feature?
-
-<!-- -->
 
 - What incident-response process applies? What happens if a third-party dependency fails?
 
@@ -63,23 +47,13 @@ Complementary frameworks: NIST AI Risk Management Framework and ISO/IEC 23894.
 
 - Intended use. Business purpose. Business owner. Technical owner. Legal or compliance reviewer.
 
-<!-- -->
-
 - Model or vendor used. Third-party dependencies. Data inputs. Data outputs. Data retention.
-
-<!-- -->
 
 - Users. Affected parties. Decision or work product influenced. Jurisdictions involved. Applicable laws, policies or customer commitments.
 
-<!-- -->
-
 - Foreseeable misuse. High-impact failure modes.
 
-<!-- -->
-
 - Human review point. Override procedure. Escalation trigger. Monitoring owner. Stop rule.
-
-<!-- -->
 
 - Evidence retained. Date for re-review.
 
@@ -89,27 +63,15 @@ Complementary frameworks: NIST AI Risk Management Framework and ISO/IEC 23894.
 
 - What AI functionality is approved? What uses are prohibited? What data may not be submitted?
 
-<!-- -->
-
 - What customer data may be used for training? What customer data may be retained? What deletion rights apply?
-
-<!-- -->
 
 - What performance commitments apply? What quality standards apply?
 
-<!-- -->
-
 - What transparency documentation must be provided? What model-change notices are required?
-
-<!-- -->
 
 - What security controls apply? What privacy controls apply? What content provenance commitments apply? What intellectual property terms apply?
 
-<!-- -->
-
 - What incident notice period applies? What audit rights exist? What subcontractor controls apply? What third-party dependency disclosures are required?
-
-<!-- -->
 
 - What service suspension or rollback rights exist? What happens at termination?
 
@@ -119,31 +81,17 @@ Complementary frameworks: NIST AI Risk Management Framework and ISO/IEC 23894.
 
 - AI roles and responsibilities are documented. Lines of communication are clear.
 
-<!-- -->
-
 - AI risk thresholds are defined before deployment. Intended uses are documented. Prohibited uses are documented. Foreseeable uses, misuses and abuses are assessed. High-impact failure modes are documented. Significant, severe or catastrophic risks are considered.
-
-<!-- -->
 
 - Red-teaming or adversarial testing is performed where appropriate. External feedback and third-party evaluation are considered.
 
-<!-- -->
-
 - Model and system documentation is retained. AI supply-chain components are inventoried. Third-party AI dependencies are reviewed.
-
-<!-- -->
 
 - Data collection, retention and quality rules are documented. Privacy risks are monitored. Intellectual property claims have a response process.
 
-<!-- -->
-
 - Human oversight is assigned. Appeal, override and escalation paths are clear.
 
-<!-- -->
-
 - Incidents are tracked. Post-deployment monitoring is performed. Material changes trigger re-review. Stop, rollback or deactivation procedures exist.
-
-<!-- -->
 
 - Residual-risk acceptance is documented by an accountable human. Evidence is retained for audit.
 
@@ -153,31 +101,17 @@ Complementary frameworks: NIST AI Risk Management Framework and ISO/IEC 23894.
 
 - Approved AI use-case inventory. AI system owner list.
 
-<!-- -->
-
 - Vendor diligence file. AI Bill of Materials or equivalent inventory. Data-flow record.
-
-<!-- -->
 
 - Risk assessment. Misuse assessment. Impact assessment. Legal and policy review.
 
-<!-- -->
-
 - Test results. Red-team summary. External evaluation record.
-
-<!-- -->
 
 - Human oversight procedure. User training record.
 
-<!-- -->
-
 - Monitoring log. Incident log. Change log. Exception register.
 
-<!-- -->
-
 - Vulnerability or bias reporting channel. Customer or stakeholder feedback record.
-
-<!-- -->
 
 - Residual-risk sign-off. Rollback, deactivation or decommissioning plan.
 
@@ -187,23 +121,13 @@ Complementary frameworks: NIST AI Risk Management Framework and ISO/IEC 23894.
 
 - What are we trying to do? Why is AI needed? What model or vendor are we relying on?
 
-<!-- -->
-
 - What could go wrong? Who could be harmed? Who is accountable?
-
-<!-- -->
 
 - What is the approved use? What is outside scope?
 
-<!-- -->
-
 - What evidence supports release? What risk threshold would stop release?
 
-<!-- -->
-
 - What happens after release? What triggers escalation? What triggers rollback? What triggers shutdown?
-
-<!-- -->
 
 - What will we tell customers, regulators or affected parties if something fails?
 

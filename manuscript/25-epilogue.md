@@ -29,7 +29,7 @@ Slow AI is a satisficing discipline. It does not ask what is the maximum this sy
 
 ## The Bliss Point and the Middle Way
 
-Economics has a concept for the optimal level of a good: the bliss point. It is the consumption bundle at which utility is maximized, the point beyond which more of something makes you worse off rather than better. The concept originated in food science, the precise combination of salt, sugar and fat at which pleasure peaks before tipping into aversion. But it extends to any domain where more is not always better. It is the natural limit that optimization ignores at its peril.
+Economics has a concept for the optimal level of a good: the bliss point. It is the consumption bundle at which utility is maximized, the point beyond which more of something makes you worse off rather than better. The concept originated in economics and was later applied to food formulation, the precise combination of salt, sugar and fat at which pleasure peaks before tipping into aversion. But it extends to any domain where more is not always better. It is the natural limit that optimization ignores at its peril.
 
 The Buddha understood this as the Middle Way. Between the extreme of indulgence and the extreme of deprivation lies a path of disciplined sufficiency, the recognition that enough is a real destination and that the craving for more beyond that point produces not satisfaction but its diminishment. The second noble truth holds that suffering arises from craving, from the insistence on more, from the refusal to accept that a legitimate stopping point exists. The bliss point is the economic expression of that teaching.
 

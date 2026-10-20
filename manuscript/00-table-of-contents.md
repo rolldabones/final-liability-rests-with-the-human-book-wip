@@ -83,7 +83,7 @@ On Economics, Sufficiency and the Human Declaration
 
 **APPENDICES**
 
-Appendix D: The Assumption Register Template
+Appendix D: The Assumption Register: Working Template
 
 Appendix E: The Agent Registry Template
 
@@ -97,7 +97,7 @@ Appendix J: AI GRC Master Reference (current version) (separate file)
 
 Appendix K: Berkeley Adopter’s Checklist
 
-Appendix L: GRCnext™, Optionality as Executable Governance
+Appendix L: GRCnext™: Optionality as Executable Governance
 
 Appendix M: GRC Workbook (current version) (separate file)
 

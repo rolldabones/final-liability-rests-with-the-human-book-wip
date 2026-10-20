@@ -80,7 +80,7 @@ On Economics, Sufficiency and the Human Declaration
 
 **APPENDICES**
 
-Appendix D: The Assumption Register Template
+Appendix D: The Assumption Register: Working Template
 
 Appendix E: The Agent Registry Template
 
@@ -94,7 +94,7 @@ Appendix J: AI GRC Master Reference (current version) (separate file)
 
 Appendix K: Berkeley Adopter’s Checklist
 
-Appendix L: GRCnext™, Optionality as Executable Governance
+Appendix L: GRCnext™: Optionality as Executable Governance
 
 Appendix M: GRC Workbook (current version) (separate file)
 
@@ -429,7 +429,7 @@ The KRW 30 million cap confirms the interpretation. A regulator who had designed
 
 The United States has the opposite problem. It has enforcement without architecture, the structural inverse of Korea’s architecture without enforcement muscle. The federal government has not produced a comprehensive AI statute. The states, the agencies and the municipalities have filled the vacuum with a patchwork of narrowly scoped obligations, most of which tell organizations what to file and almost none of which tell organizations what to build.
 
-Colorado’s AI Act, signed in 2024 and originally scheduled to take effect on February 1, 2026, was first postponed to June 30, 2026 by an August 2025 special session in which the legislature could not agree on what the law should actually require, then, on May 14, 2026, repealed and replaced outright by Senate Bill 26-189, weeks before it was due to take effect. The original Act had mandated algorithmic impact assessments and a duty of care for high-risk AI systems used in consequential decisions. Senate Bill 189 discards that architecture and substitutes a lighter transparency and disclosure regime governing automated decision-making technology, with an effective date of January 1, 2027 and a federal court challenge still pending, in which the Attorney General is ordered not to initiate enforcement under Senate Bill 24-205 or its replacement for violations occurring on or before 14 days after the court rules on xAI’s forthcoming preliminary injunction motion (X.AI LLC v. Weiser, D. Colo. No. 1:26-cv-01515, minute order of April 27, 2026, ECF No. 24). The original Act never specified what the assessment had to contain, how it was to be validated, what evidence had to accompany it or what operational architecture the deploying organization had to maintain. The assessment was the filing. What it documented was between the organization and its attorneys. A law that had to be postponed and then repealed and rewritten before it ever applied, because neither legislators nor industry could agree on what it required, has already told you most of what the theater problem is.
+Colorado’s AI Act, signed in 2024 and originally scheduled to take effect on February 1, 2026, was first postponed to June 30, 2026 by an August 2025 special session in which the legislature could not agree on what the law should actually require, then, on May 14, 2026, weeks before that date, repealed and replaced outright by Senate Bill 26-189, with the repeal taking effect on January 1, 2027. The original Act had mandated algorithmic impact assessments and a duty of care for high-risk AI systems used in consequential decisions. Senate Bill 189 discards that architecture and substitutes a lighter transparency and disclosure regime governing automated decision-making technology, with an effective date of January 1, 2027 and a federal court challenge still pending, in which the Attorney General is ordered not to initiate enforcement under Senate Bill 24-205 or its replacement for violations occurring on or before 14 days after the court rules on xAI’s forthcoming preliminary injunction motion (X.AI LLC v. Weiser, D. Colo. No. 1:26-cv-01515, minute order of April 27, 2026, ECF No. 24). The original Act never specified what the assessment had to contain, how it was to be validated, what evidence had to accompany it or what operational architecture the deploying organization had to maintain. The assessment was the filing. What it documented was between the organization and its attorneys. A law that had to be postponed, and was then repealed and rewritten before its delayed effective date arrived, because neither legislators nor industry could agree on what it required, has already told you most of what the theater problem is.
 
 Illinois’s Biometric Information Privacy Act created a private right of action for the collection, storage and use of biometric data without written informed consent. It is one of the most actively litigated privacy statutes in the country. It specifies notice and consent procedures and requires a written retention policy. It does not specify what operational governance the collector must build to implement, monitor and verify those procedures at scale. The statute produces enforcement pressure without producing an operational template. Organizations facing BIPA exposure build the governance they think the statute requires and discover, in litigation, whether their interpretation was defensible.
 
@@ -709,7 +709,7 @@ The three doctrines are not separable. The slowdown without the human is a delay
 
 The chapter has stated the rule that organizes the rest of the book. You cannot audit what you cannot slow down.
 
-The chapter has named the five inspection points where the system crosses a governance boundary, scope, deployment, decision, change and exit, and shown that each exists to produce an evidence artifact in advance of the question.
+The chapter has named the five inspection points where the system crosses a governance boundary, specification, deployment, decision, change and exit, and shown that each exists to produce an evidence artifact in advance of the question.
 
 The chapter has not yet defined the doctrine those inspection points serve. Chapter 6 does that.
 
@@ -765,7 +765,7 @@ This is why scope-as-first-control matters more than any of the runtime controls
 
 ## The Literature’s Name for the Same Posture
 
-The 2026 Center for Security and Emerging Technology brief by Crichton, Reddy and Ji, Operationalizing AI Guidance, maps the AI adoption lifecycle into eighteen stages. The first two of those stages are Self-Assess and Define. They precede every other stage in the lifecycle. They precede Plan, which precedes Promote, which precedes Map, which precedes everything technical. The CSET work synthesizes a large body of voluntary standards and best practices into a unified framework. The framework’s shape is not the contribution this chapter borrows. The contribution this chapter borrows is the observation that the synthesized literature, taken as a whole, places the gate before deployment rather than after it.
+The 2026 Center for Security and Emerging Technology brief by Crichton, Reddy and Ji, Operationalizing AI Guidance, maps the AI adoption lifecycle into eighteen steps, grouped under a smaller set of top-level stages. The first two of those steps are Self-Assess and Define. They precede every other step in the lifecycle. They precede Plan, which precedes Promote, which precedes Map, which precedes everything technical. The CSET work synthesizes a large body of voluntary standards and best practices into a unified framework. The framework’s shape is not the contribution this chapter borrows. The contribution this chapter borrows is the observation that the synthesized literature, taken as a whole, places the gate before deployment rather than after it.
 
 Self-Assess and Define are the literature’s structural name for what this book has been calling scope-as-first-control. Self-Assess is the discipline of asking what the organization is and is not ready to do. Define is the discipline of specifying what any particular system will and will not do. Together they constitute a gate. The gate is not a checklist item. It is the position the organization occupies before it commits to a deployment. An organization that has not been through Self-Assess and Define before Plan has not done the work the synthesized literature places before deployment. The organization has skipped the gate. Slow AI is what the gate looks like in the present book’s vocabulary. CSET’s lifecycle stages are what the gate looks like in the literature’s vocabulary. The two are saying the same thing in different idioms.
 
@@ -1033,7 +1033,7 @@ The chapter has not addressed what happens when the system, in operation, surfac
 >
 > *Soetsu Yanagi, The Way of Tea*
 
-**The doctrine of Informed Consent entered medical ethics through the Nuremberg Code and the trials that produced it. A patient may authorize a procedure only if they have been given an accurate account of what the procedure involves, its risks, its alternatives and its consequences, at a level they can actually evaluate. A signature on a consent form without those conditions is not consent. It is paperwork. The doctrine did not arise from a preference for thorough documentation. It arose from the discovery that authorizations given under conditions of informational asymmetry, time pressure and authority produce results that no civilized legal system can defend.**
+**The doctrine of Informed Consent is older than the Nuremberg Code. The legal requirement of consent predates it (*Schloendorff v. Society of New York Hospital*, 1914), the term “informed consent” entered the law with *Salgo* in 1957 and the Nuremberg Code made the voluntary consent of the human subject the first condition of research. A patient may authorize a procedure only if they have been given an accurate account of what the procedure involves, its risks, its alternatives and its consequences, at a level they can actually evaluate. A signature on a consent form without those conditions is not consent. It is paperwork. The doctrine did not arise from a preference for thorough documentation. It arose from the discovery that authorizations given under conditions of informational asymmetry, time pressure and authority produce results that no civilized legal system can defend.**
 
 AI governance is now at the same point. The authorizations are being given. The forms are being signed. The board resolutions are being filed. And the humans whose names are on the authorizations are being briefed under conditions that would not meet the Informed Consent standard in any jurisdiction that has adopted it. Informed Intent is the transposition of that older doctrine into the governance of machine systems. It names the conditions under which a human authorization of an AI deployment can be treated as genuine rather than formal.
 
@@ -2161,7 +2161,7 @@ If the consequence lands on the principal and the agent has nothing to vouch for
 
 Documentation in this sense is not the policy that describes what the system is supposed to do. It is the record that shows what the system did, what it produced, what the human saw, what the human decided and why the decision was reasonable at the time it was made. The standard for that record is whether the right person can use it to make a better decision before harm occurs or before harm repeats. A model card that is beautifully written and that nobody reads at the moment of decision is not a control. An incident log that begins on the wrong date is not a record. An audit report that summarizes what should have been true rather than what actually was is not evidence.
 
-The literature on what useful AI documentation looks like has converged on a small set of features. Crichton and colleagues, in the 2026 CSET issue brief distilling AI governance recommendations into a unified framework, organized the field’s documentation requirements under a Transparency & Oversight category and a Traceability category. The first emphasizes that documentation must enable the next person in the chain to act in time, must record the change history of the system and must be retrievable under the cadence the relevant regime requires. The second emphasizes that the record must connect inputs, intermediate signals, outputs and human actions in a way that survives the kind of inspection that occurs months or years later, when the system that produced the output has changed and the people who deployed it have moved on. The two categories together describe what a control looks like when the document is the only evidence the agent can produce of itself.
+The literature on what useful AI documentation looks like has converged on a small set of features. Crichton and colleagues, in the September 2025 CSET issue brief distilling AI governance recommendations into a unified framework, organized the field’s documentation requirements under two topic areas, Transparency & Oversight and Traceability. The first emphasizes that documentation must enable the next person in the chain to act in time, must record the change history of the system and must be retrievable under the cadence the relevant regime requires. The second emphasizes that the record must connect inputs, intermediate signals, outputs and human actions in a way that survives the kind of inspection that occurs months or years later, when the system that produced the output has changed and the people who deployed it have moved on. The two topic areas together describe what a control looks like when the document is the only evidence the agent can produce of itself.
 
 The shape of the requirement is the same shape Slow AI describes. Specify the documentation requirement before deployment. State the standard the documentation must meet. Run the production of documentation as part of the workflow rather than as an after-the-fact reconstruction. Defend the record under inspection. The pipeline that produces the documentation has to be inspected at least as carefully as the pipeline that produces the output, because the documentation is the only thing the principal will have when the question is asked.
 
@@ -2331,7 +2331,7 @@ The chapter has left the societal questions the agentic shift raises to the Epil
 >
 > *Soetsu Yanagi, The Beauty of Everyday Things*
 
-In 2025, Glass Lewis reviewed the proxy statements of all S&P 100 companies and found that only twenty-eight percent disclosed both board-level oversight of artificial intelligence and a formal AI policy. Forty-six percent of those boards had no disclosed AI oversight structure at all. Meanwhile, over sixty-five percent of U.S. investors responding to Glass Lewis’s policy survey reported that they expected every company to provide clear disclosure of board oversight of AI governance and AI ethics. The gap between what shareholders expected and what companies delivered was thirty-seven percentage points. The gap was not closing.
+In February 2026, Glass Lewis published its review of the 2025 proxy statements of S&P 100 companies. Fifty-four percent disclosed board-level oversight of artificial intelligence and forty-five percent disclosed an AI policy, but only twenty-eight percent disclosed both. Meanwhile, sixty-five percent of U.S. investors responding to Glass Lewis’s policy survey reported that they expected every company to provide clear disclosure of board oversight of AI governance and AI ethics. The gap between what shareholders expected and what companies delivered was thirty-seven percentage points. The gap was not closing.
 
 That number measures something specific. It measures the distance between a principal who expects governance and an agent who has not built it. The shareholders are the principals. The boards are their agents. The boards, in turn, are principals relative to the management teams they oversee. And the management teams are deploying AI systems that none of these layers fully understand, at a speed none of them can fully monitor, with incentive structures that reward deployment over restraint. This is not a technology problem. It is a principal-agent problem compounded at every level of the corporate governance stack.
 
@@ -2397,7 +2397,7 @@ The reason education cannot close this gap is organizational, not pedagogical. A
 
 That dynamic was uncomfortable but manageable when the middle management layer still performed three distinct functions: routing information through the organization, making sense of ambiguous inputs in context, and carrying personal accountability for outcomes over time. AI is now eliminating the first of those functions with real efficiency. Information can be aggregated, summarized, distributed and surfaced by systems rather than by people. But the second and third functions, sensemaking and accountability, are not automatable in the same way, and they are not being preserved with the same care.
 
-In early 2026, Block announced a restructuring that cut over four thousand employees and explicitly replaced permanent middle management with AI coordination. Jack Dorsey and Roelof Botha, in an essay titled “From Hierarchy to Intelligence,” argued that corporate hierarchy exists to solve one problem, routing information through organizations too large for any single person to oversee, and that AI can now perform that function continuously and at scale. Block’s replacement structure has three roles: individual contributors who build, Directly Responsible Individuals who own specific outcomes on ninety-day cycles, and player-coaches who combine building with developing people. No permanent middle management layer. Meta pursued a similar compression, keeping management intact in substance but reducing layers and widening spans of control. The results in both cases included speed, but also reports of strain, ambiguity and a loss of clarity about who carries the load.
+In early 2026, Block announced a restructuring that cut about four thousand employees and explicitly replaced permanent middle management with AI coordination. Jack Dorsey and Roelof Botha, in an essay titled “From Hierarchy to Intelligence,” argued that corporate hierarchy exists to solve one problem, routing information through organizations too large for any single person to oversee, and that AI can now perform that function continuously and at scale. Block’s replacement structure has three roles: individual contributors who build, Directly Responsible Individuals who own specific outcomes on ninety-day cycles, and player-coaches who combine building with developing people. No permanent middle management layer. Meta pursued a similar compression, keeping management intact in substance but reducing layers and widening spans of control. The results in both cases included speed, but also reports of strain, ambiguity and a loss of clarity about who carries the load.
 
 The governance risk is specific. When companies remove the management layers that performed sensemaking and accountability between the board and the AI systems, they do not eliminate the need for those functions. They displace them, often upward onto founders and executives who are already overextended, or downward onto individual contributors who have no governance mandate. The board, meanwhile, loses the interpretive layer that used to translate technical reality into governance-grade information. The information pipeline does not just become biased toward the deployment narrative. It becomes thinner, less filtered and less accountable. A company that mistakes a solved coordination problem for a solved governance problem will discover the difference when the system fails and no one in the compressed hierarchy can explain what happened, who decided or what the controls were supposed to be.
 
@@ -2407,7 +2407,7 @@ Researchers at BetterUp Labs and the Stanford Social Media Lab introduced a usef
 
 The governance failures described above are not hypothetical legal risks. They are materializing inside an established and expanding body of Delaware fiduciary duty law.
 
-The trajectory runs through four cases. In 1996, the Delaware Court of Chancery decided *In re Caremark International*, establishing that directors may be liable for breach of the duty of loyalty if they fail to make a good-faith effort to implement and oversee corporate information and reporting systems. The court described this theory as “possibly the most difficult theory in corporation law upon which a plaintiff might hope to win a judgment,” because it requires a showing of “sustained or systematic failure” amounting to “utter failure to attempt to assure a reasonable information and reporting system exists.” The bar was set high. It has been coming down.
+The trajectory runs through four cases. In 1996, the Delaware Court of Chancery decided *In re Caremark International*, establishing that directors may be liable if they fail to make a good-faith effort to implement and oversee corporate information and reporting systems. *Caremark* framed that claim in terms of the duty of care and good faith; it was the Delaware Supreme Court in *Stone v. Ritter* (2006) that placed oversight liability within the duty of loyalty. The court described this theory as “possibly the most difficult theory in corporation law upon which a plaintiff might hope to win a judgment,” because it requires a showing of “sustained or systematic failure” amounting to “utter failure to attempt to assure a reasonable information and reporting system exists.” The bar was set high. It has been coming down.
 
 In 2019, the Delaware Supreme Court decided *Marchand v. Barnhill*, reversing the dismissal of *Caremark* claims against the directors of Blue Bell Creameries after a food safety crisis. The court found that the board had failed to implement a compliance monitoring system for what was clearly a “mission critical” risk. The case established that the nature of the company’s business defines the scope of the board’s oversight duty: if a risk goes to the core of the enterprise, the board must have a corresponding oversight infrastructure, and the absence of that infrastructure can support an inference of bad faith.
 
@@ -2815,7 +2815,7 @@ The EU AI Act’s actor classification framework addresses this directly. An org
 
 The supply chain risk is structural. Third-party model dependencies create concentration risk where the organization’s AI capability is contingent on a vendor’s continued operation, terms of service and technical decisions. Single vendor or model provider dependency must be recorded in the AI risk register with named owners and a treatment plan. Vendor contracts must include change notification obligations so that a model update that materially changes system behavior triggers a governance review before the changed system continues in operation. The organization that discovers a model has been updated by reviewing its outputs rather than receiving a contractual notification has a vendor management problem and a governance gap simultaneously.
 
-Vendor governance assessment before procurement is not optional for medium and high impact systems. It is the starting point for the governance chain. An organization that deploys an AI system from a vendor whose own governance practices it has not assessed has outsourced its risk without transferring its accountability. Accountability cannot be delegated to vendors, automated systems or the AI itself. The Audit and Due Diligence Checklist in Appendix I addresses vendor governance assessment across Sections 1 and 2, with specific questions on contractual protections, change notification, audit rights and supply chain concentration risk. The checklist’s vendor and third-party DD pathway, covering Sections 3, 4 and 5 on security, explainability and TEVV, is the operational instrument for ongoing vendor assurance after procurement.
+Vendor governance assessment before procurement is not optional for medium and high impact systems. It is the starting point for the governance chain. An organization that deploys an AI system from a vendor whose own governance practices it has not assessed has outsourced its risk without transferring its accountability. Accountability cannot be delegated to vendors, automated systems or the AI itself. The Audit and Due Diligence Checklist in Appendix I addresses vendor governance assessment in Section 1 (Checklist IDs 1.17 to 1.19), with specific questions on contractual protections, change notification, audit rights and supply chain concentration risk. The checklist’s vendor and third-party DD pathway, covering Sections 3, 4 and 5 on security, explainability and TEVV, is the operational instrument for ongoing vendor assurance after procurement.
 
 ## Proof as Competitive Advantage
 
@@ -2877,7 +2877,7 @@ Privacy enforcement also illustrates what happens when the pipeline is absent. T
 
 If the negative proof problem is difficult in privacy, it is structurally impossible in fairness. And that impossibility is not a matter of insufficient data or immature tooling. It is a mathematical fact.
 
-The impossibility results in fairness metrics, established independently by Chouldechova (2017) and Kleinberg, Mullainathan and Raghavan (2016), demonstrate that when base rates differ across demographic groups, as they nearly always do in real-world data, it is not possible to simultaneously satisfy all common definitions of algorithmic fairness. A system cannot be simultaneously calibrated across groups, equalised in its false positive rates and equalised in its false negative rates when the underlying prevalence of the predicted outcome differs between those groups. The definitions are mathematically incompatible. There is no engineering solution. There is no model architecture that resolves the tension. The trade-off is inherent.
+The impossibility results in fairness metrics, established independently by Chouldechova (2017) and Kleinberg, Mullainathan and Raghavan (2017), demonstrate that when base rates differ across demographic groups, as they nearly always do in real-world data, it is not possible to simultaneously satisfy all common definitions of algorithmic fairness. A system cannot be simultaneously calibrated across groups, equalized in its false positive rates and equalized in its false negative rates when the underlying prevalence of the predicted outcome differs between those groups. The definitions are mathematically incompatible. There is no engineering solution. There is no model architecture that resolves the tension. The trade-off is inherent.
 
 This means that no organization can produce evidence that its AI system is “fair” in an unqualified sense. The word, standing alone, is not a provable property of a system operating on data with unequal base rates. Any claim of fairness that does not specify which definition was selected, which trade-offs were accepted and which groups were measured is not an assurance claim. It is marketing.
 
@@ -2909,7 +2909,7 @@ This is not new. Safety-critical engineering has been doing exactly this work fo
 
 The discipline has a name. It is the assurance case. Aerospace, rail, defense, nuclear and medical-device industries all use them, in some form, when they need to demonstrate that a system they built or are about to deploy will not cause specific harms. The argument is structured. The evidence is bound to claims, not stockpiled separately. The assumptions are surfaced, not buried. The reasoning steps are visible, so a reviewer can challenge the strategy, not only the conclusions. The Goal Structuring Notation, maintained by the Safety-Critical Systems Club Assurance Case Working Group, is the most widely adopted notation for this work. Its core elements are precisely what AI governance has been groping toward without naming: goals, strategies, solutions, contexts, assumptions, justifications. When the pipeline produces a defensible record of choices made under constraint, what it is producing, properly structured, is an assurance case.
 
-Medical devices reached the same operational answer through a different path. United States Code of Federal Regulations Title 21 design controls require manufacturers to maintain a Design History File: an accurate, traceable record of design inputs, outputs, reviews, verification, validation, transfer and changes, alongside risk assessment and post-market surveillance. The Design History File is the answer to the same negative-proof problem the AI deployer now faces. Internal algorithmic auditing scholarship, drawing explicitly on this medical-device tradition, has begun to articulate an Algorithmic Design History File for AI systems, structured along the same lines. The form is the same. The discipline is the same. The transposition is straightforward.
+Medical devices reached the same operational answer through a different path. United States Code of Federal Regulations Title 21 design controls long required manufacturers to maintain a Design History File: an accurate, traceable record of design inputs, outputs, reviews, verification, validation, transfer and changes, alongside risk assessment and post-market surveillance. Since February 2, 2026, the Quality Management System Regulation (89 FR 7496) has reserved the former design-controls section, 21 CFR 820.30, and incorporates ISO 13485:2016, whose clause 7.3 on design and development carries the same record discipline. The design record is the answer to the same negative-proof problem the AI deployer now faces. Internal algorithmic auditing scholarship, drawing explicitly on this medical-device tradition, has begun to articulate an Algorithmic Design History File for AI systems, structured along the same lines. The form is the same. The discipline is the same. The transposition is straightforward.
 
 The UK government’s introduction to AI assurance, published in February 2024, frames the underlying conceptual move in three words: trust, trustworthiness and justified trust. Trust is whether someone relies on a system. Trustworthiness is whether the system deserves that reliance, on the merits. Justified trust is reliance based on reliable evidence. The assurance case is the engineering grammar of justified trust. Without it, the deployer asserts trustworthiness. With it, the deployer demonstrates the structured argument that reliable evidence supports.
 
@@ -3131,7 +3131,7 @@ The engagement letter is the primary risk lever for the auditor, and it must be 
 
 The assurance model the AI audit field is converging toward is the indirect engagement structure used in international assurance standards: the client prepares the subject matter information, including the underlying data, calculations and supporting documentation, and the auditor provides independent assurance by evaluating that client-prepared material and forming a conclusion based on evidence, including reperformance of calculations and testing of inputs and controls where needed. This structure clarifies a boundary that scope vagueness routinely blurs. The client is responsible for the completeness and accuracy of the underlying data, transformations and assumptions. The auditor is responsible for the independence of the evaluation and the adequacy of the evidence supporting the conclusion. The auditor does not certify the client’s data. The auditor does not remediate findings. Any advisory or remediation support must be scoped separately and may be restricted to preserve the independence on which the audit’s value depends. An auditor who blurs this boundary does not gain a client. They gain a liability.
 
-Adversarial testing requires its own independence standard. The threat modeling that informs red teaming must draw on established taxonomies of AI attack classes. The OWASP Top 10 for Large Language Model Applications and the OWASP Top 10 for Agentic AI Applications catalogue the most critical security vulnerabilities in LLM and agentic systems respectively, covering prompt injection, training data poisoning, model extraction, evasion attacks, excessive agency and goal hijacking among others. The MITRE ATLAS framework provides a complementary adversarial threat taxonomy specifically mapped to machine learning systems and their attack surfaces. An adversarial testing program designed without reference to these taxonomies may test the failure modes the development team anticipated while missing the ones that matter most in production. The value of the red team is specifically that it brings an external threat model, not the development team’s assumptions about how the system might be attacked. A red team that shares the development team’s assumptions is not independent. It is expensive internal testing with a different job title.
+Adversarial testing requires its own independence standard. The threat modeling that informs red teaming must draw on established taxonomies of AI attack classes. The OWASP Top 10 for Large Language Model Applications and the OWASP Top 10 for Agentic AI Applications catalog the most critical security vulnerabilities in LLM and agentic systems respectively, covering prompt injection, training data poisoning, model extraction, evasion attacks, excessive agency and goal hijacking among others. The MITRE ATLAS framework provides a complementary adversarial threat taxonomy specifically mapped to machine learning systems and their attack surfaces. An adversarial testing program designed without reference to these taxonomies may test the failure modes the development team anticipated while missing the ones that matter most in production. The value of the red team is specifically that it brings an external threat model, not the development team’s assumptions about how the system might be attacked. A red team that shares the development team’s assumptions is not independent. It is expensive internal testing with a different job title.
 
 The sequencing requirement reinforces the independence requirement. An auditor examining an AI system must have access to the pre-deployment specification before examining the operational record. Without the specification, there is no baseline against which operational behavior can be assessed. This is the same principle that governs adversarial testing: requirements and risk documentation must be complete before testing begins, because findings cannot be interpreted without a prior definition of what constitutes a deviation from the governance standard. An audit that begins with the operational record and works backward to infer what the specification must have been is not an audit. It is reconstruction, and reconstruction produced after a loss is not evidence of governance. It is evidence of its absence.
 
@@ -3147,7 +3147,7 @@ The ecosystem operates across two related standards of conduct. Due diligence is
 
 Every relationship in this ecosystem is a contractual relationship, and the contract is where risk allocation actually happens. Insurance coverage is purchased through a contract that specifies what losses are covered, under what conditions, subject to what exclusions and with what obligations the insured must satisfy to maintain coverage. Audit and assurance services are engaged through contracts that define scope, deliverables, the standard of care the auditor must meet, what the client is responsible for and what happens when either party fails to perform. Vendor AI systems are procured through contracts that determine what governance obligations the vendor carries, what audit rights the deploying organization retains and what remedies are available when the system fails to perform as represented. A contract does not eliminate risk. It decides where the risk will sit and how far each party’s exposure will extend. At the same time, a contract does more than shift liability. It functions as a business plan written in legal form, forcing the parties to state their expectations clearly before performance begins. Most disputes in the AI governance ecosystem arise not because the parties failed to reach a deal but because the written contract did not accurately capture how each party expected the relationship to work. The engagement letter that is vague about audit scope, the vendor contract that is silent on change notification, the insurance policy that has not been reviewed against the organization’s actual AI deployment: each of these is a contract that failed its second function before its first function was ever tested.
 
-Standards bodies establish what adequate governance looks like for both due diligence and due care: ISO 42001 defines the management system requirements, NIST AI RMF provides the risk identification and measurement methodology, OWASP and MITRE catalogue the adversarial threat classes that due diligence testing must cover. Certification bodies verify that organizations have built management systems that meet the ISO standard. Independent auditors evaluate whether those systems are operating with due care in specific deployments. Insurers price the residual governance risk that neither certification nor audit has eliminated. Regulators set minimum requirements, enforce against non-compliance and create the liability exposure that makes the rest of the ecosystem function. Enterprise clients use procurement processes to demand proof that vendors have satisfied due diligence obligations sufficient to be trusted. Courts and civil litigation provide the ultimate accountability mechanism when the other actors fail to catch a governance failure before it produces harm.
+Standards bodies establish what adequate governance looks like for both due diligence and due care: ISO 42001 defines the management system requirements, NIST AI RMF provides the risk identification and measurement methodology, OWASP and MITRE catalog the adversarial threat classes that due diligence testing must cover. Certification bodies verify that organizations have built management systems that meet the ISO standard. Independent auditors evaluate whether those systems are operating with due care in specific deployments. Insurers price the residual governance risk that neither certification nor audit has eliminated. Regulators set minimum requirements, enforce against non-compliance and create the liability exposure that makes the rest of the ecosystem function. Enterprise clients use procurement processes to demand proof that vendors have satisfied due diligence obligations sufficient to be trusted. Courts and civil litigation provide the ultimate accountability mechanism when the other actors fail to catch a governance failure before it produces harm.
 
 Each actor in this ecosystem reinforces the others. The auditor needs standards to audit against; without them, the audit has no baseline. The standards need regulatory backing to have teeth; without enforcement, compliance is voluntary and uneven. The regulator needs auditors to produce evidence it can examine; without independent evaluation, market surveillance is a document review. The insurer needs audit results to price governance posture; without them, premiums are based on representations rather than verified evidence. The enterprise client needs the insurer’s pricing signal to understand its actual exposure; without it, governance quality is invisible in procurement. The organization that understands this ecosystem does not treat each actor’s requirements as a separate compliance burden. It builds governance once, in audit-grade form, and lets the evidence serve multiple audiences simultaneously. That is what compliance capital looks like in practice: due diligence done thoroughly before deployment, due care maintained continuously afterward, contracts drafted to govern every relationship in the ecosystem and evidence preserved in a form that satisfies the most demanding party when the question is eventually asked.
 
@@ -3155,7 +3155,7 @@ Each actor in this ecosystem reinforces the others. The auditor needs standards 
 
 Monitoring is not a governance activity that begins after deployment. It is the continuation of the validation process that began before deployment, by different means. The pre-deployment TEVV program establishes what the system is capable of under controlled conditions. Post-deployment monitoring asks whether the system continues to perform at that standard under real operational conditions, with real users, real data and the full range of edge cases that controlled testing cannot anticipate. The monitoring program is not a separate governance function. It is the extension of the pre-deployment evidence record into the operational phase.
 
-NIST AI 800-4 proposes six monitoring categories that organize the post-deployment monitoring landscape: functionality monitoring, which asks whether the system continues to work as intended; operational monitoring, which asks whether the system maintains consistent service across its infrastructure; human factors monitoring, which asks whether the system is transparent to humans and high quality; security monitoring, which asks whether the system is secure against attacks and misuse; compliance monitoring, which asks whether the system adheres to relevant regulations and guidelines; and large-scale impacts monitoring, which asks whether the system promotes human flourishing. All six correspond to dimensions of the governance monitoring record described in this chapter. The pre-deployment specification commits to what the system is authorized to do across each of these dimensions. The monitoring program verifies that the commitments are being met. The sampling methodology must be designed to surface failures across all six, not only the ones that are easiest to measure. The NIST finding that compliance monitoring challenges appear focused on what to monitor for rather than how to monitor underscores the problem this book identifies throughout: organizations are still asking the governance question at the level of topic selection rather than evidentiary standard. Knowing what to monitor for is not governance. Knowing what evidence of compliance looks like, produced prospectively, in a form that survives independent review, is.
+NIST AI 800-4 proposes six monitoring categories that organize the post-deployment monitoring landscape: functionality monitoring, which asks whether the system continues to work as intended; operational monitoring, which asks whether the system maintains consistent service across its infrastructure; human factors monitoring, which asks whether the system is transparent to humans and high quality; security monitoring, which asks whether the system is secure against attacks and misuse; compliance monitoring, which asks whether the system adheres to relevant regulations and directives; and large-scale impacts monitoring, which asks whether the system promotes human flourishing. All six correspond to dimensions of the governance monitoring record described in this chapter. The pre-deployment specification commits to what the system is authorized to do across each of these dimensions. The monitoring program verifies that the commitments are being met. The sampling methodology must be designed to surface failures across all six, not only the ones that are easiest to measure. The NIST finding that compliance monitoring challenges appear focused on what to monitor for rather than how to monitor underscores the problem this book identifies throughout: organizations are still asking the governance question at the level of topic selection rather than evidentiary standard. Knowing what to monitor for is not governance. Knowing what evidence of compliance looks like, produced prospectively, in a form that survives independent review, is.
 
 The conditions that justify re-validation are specific and should be documented in the governance record before deployment, so that the triggers for re-validation are prospective governance commitments rather than retrospective judgments made after a problem has already been identified. Material changes to the model, the training data or the operating configuration trigger re-validation because they change the system whose governance was originally assessed. Detected drift beyond a defined threshold triggers re-validation because it signals that the system is no longer operating within the parameters for which governance was established. Significant incidents trigger re-validation because they reveal failure modes that the original testing program did not surface. And the passage of time, at a cadence proportionate to the system’s risk profile and the rate of change in its operational domain, triggers re-validation because the context evolves even when the system does not. The appropriate cadence is not a universal standard. It is a governance judgment that must be documented and justified for each deployment.
 
@@ -3165,7 +3165,7 @@ The evidence architecture for a governed agentic deployment has four components 
 
 ISO 42001’s lifecycle documentation requirements provide the standard against which the completeness of each record component is assessed. In practice, that documentation is not a single document. It is a layered corpus, traversable by an auditor from the organization’s top-level AI policy down to a specific model version and its last material change. The pre-deployment governance record corresponds to the concept, design and validation stages of the ISO 42001 lifecycle: business case, risk-benefit analysis, system architecture documentation, data lineage records, threat models and the stage-gate validation package that must be complete and approved before the system can proceed to deployment. The operational evidence record corresponds to the operational documentation ISO 42001 requires once the system is live: runbooks, monitoring reports, alert definitions and the periodic review records that show when the last model evaluation on real-world data was conducted, when the last incident drill occurred and when the last bias re-test was completed. A long gap in these records with no documented activity is a governance signal, not a clean finding. The change management record corresponds to the change management artifacts ISO 42001 requires for every material modification to the system: change requests, impact assessments, approvals and post-implementation reviews that show which lifecycle controls were re-applied before the change reached production. The lifecycle corpus closes with decommissioning documentation: formal decommissioning plans, data retention or deletion confirmation and the post-mortem record that feeds lessons learned back into concept-stage guidance for future systems. ISO 42001’s value as an audit framework is that it converts each of these components from a discretionary best practice into a documented, time-stamped and accountable requirement with a named owner, a review date and an evidence trail an auditor can follow.
 
-The Audit and Due Diligence Checklist in Appendix I provides the practical instrument for assessing each record component. Section 0’s Pre-Audit Scoping questions map directly to the pre-deployment governance record: does the organization maintain a centralized inventory of all AI systems including embedded AI features, is registration in the inventory required before deployment, is the inventory reviewed for completeness by a named mechanism owner at defined intervals. These questions can only be answered with reference to a pre-deployment governance record that exists in the required form. If those questions have no answers, the record does not exist in the form audit requires. Section 5’s TEVV and monitoring questions map to the monitoring and re-validation record: are AI models tested under varied conditions and edge cases, are historical performance reports available to auditors on request, is AI lifecycle management aligned with ISO 42001 and NIST AI RMF requirements. The question “are historical performance reports available to auditors on request” is the precise operational test of whether the monitoring record is audit-grade: not whether the data exists internally, but whether it is accessible to an independent party who did not generate it. The vendor and third-party due diligence pathway in Sections 1 and 2 maps to the change management record: do vendor contracts include change notification obligations requiring the vendor to notify before material changes, and is the organization’s process for assessing whether a vendor change triggers the Article 25 substantial modification threshold documented and owned. An organization that can answer every question in the relevant sections of Appendix I with a document reference, a named owner and a review date has built the evidence architecture. An organization that cannot is discovering its gaps at audit time rather than before deployment.
+The Audit and Due Diligence Checklist in Appendix I provides the practical instrument for assessing each record component. Section 0’s Pre-Audit Scoping questions map directly to the pre-deployment governance record: does the organization maintain a centralized inventory of all AI systems including embedded AI features, is registration in the inventory required before deployment, is the inventory reviewed for completeness by a named mechanism owner at defined intervals. These questions can only be answered with reference to a pre-deployment governance record that exists in the required form. If those questions have no answers, the record does not exist in the form audit requires. Section 5’s TEVV and monitoring questions map to the monitoring and re-validation record: are AI models tested under varied conditions and edge cases, are historical performance reports available to auditors on request, is AI lifecycle management aligned with ISO 42001 and NIST AI RMF requirements. The question “are historical performance reports available to auditors on request” is the precise operational test of whether the monitoring record is audit-grade: not whether the data exists internally, but whether it is accessible to an independent party who did not generate it. The vendor questions in Section 1 (Checklist IDs 1.17 to 1.19) and the Article 25 question in Section 0 (Checklist ID 0.06) map to the change management record: do vendor contracts include change notification obligations requiring the vendor to notify before material changes, and is the organization’s process for assessing whether a vendor change triggers the Article 25 substantial modification threshold documented and owned. An organization that can answer every question in the relevant sections of Appendix I with a document reference, a named owner and a review date has built the evidence architecture. An organization that cannot is discovering its gaps at audit time rather than before deployment.
 
 The pre-deployment governance record contains the specification, the risk assessment with its causal pathway analysis, the TEVV plan and results, the acceptance threshold documentation, the oversight mode assignment and the governance approvals. This is the record of the organization’s governance judgment before the system acted. Without it, audit-grade evidence of what followed cannot be assessed because the baseline does not exist. Every subsequent record in the architecture derives its meaning from this one.
 
@@ -3199,7 +3199,7 @@ The chapter has stated the lesson plainly. Same old management, much faster cons
 >
 > *Soetsu Yanagi, The Unknown Craftsman*
 
-A note on authority. The fifty questions that follow are not this author’s invention of what governance should require. They are derived from the governance architecture this book develops across twenty-one chapters, the AI Audit and Due Diligence Checklist in Appendix I, ForHumanity’s CORE Governance, Oversight and Accountability pillars and the requirements of ISO 42001, the NIST AI RMF and the EU AI Act. They are also, notably, the questions that NIST AI 800-4, the March 2026 publication from the Center for AI Standards and Innovation cataloguing the gaps, barriers and open questions in post-deployment AI system monitoring as identified by more than 250 practitioners across government, industry and academia, found that organizations cannot currently answer. NIST’s open questions ask: were performance baselines established; who is responsible for monitoring; who is responsible for remediating incidents; what is the right cadence for monitoring; how do we enable ongoing external and third-party testing. These are not aspirational governance goals. They are the specific questions that experienced practitioners reported they cannot answer about their own deployed AI systems. The Punchlist converts those open questions into binary governance tests. Either the answer exists as documented evidence with a named owner, or the item is open.
+A note on authority. The fifty questions that follow are not this author’s invention of what governance should require. They are derived from the governance architecture this book develops across twenty-one chapters, the AI Audit and Due Diligence Checklist in Appendix I, ForHumanity’s CORE Governance, Oversight and Accountability pillars and the requirements of ISO 42001, the NIST AI RMF and the EU AI Act. They are also, notably, the questions that NIST AI 800-4, the March 2026 publication from the Center for AI Standards and Innovation cataloguing the gaps, barriers and open questions in post-deployment AI system monitoring, drawing on workshops totaling over 250 participants from government, industry, academia and civil society, found that organizations cannot currently answer. NIST’s open questions ask: were performance baselines established; who is responsible for monitoring; who is responsible for remediating incidents; what is the right cadence for monitoring; how do we enable ongoing external and third-party testing. These are not aspirational governance goals. They are the specific questions that experienced practitioners reported they cannot answer about their own deployed AI systems. The Punchlist converts those open questions into binary governance tests. Either the answer exists as documented evidence with a named owner, or the item is open.
 
 **The ship does not sail until the Punchlist is complete.** That is not a metaphor. It is a contractual and operational reality that anyone who has managed large-scale projects learns the hard way, or learns from someone who did.
 
@@ -3251,115 +3251,115 @@ The questions below are organized by governance layer: board and leadership, pol
 
 **Board and Leadership (Questions 1–10)**
 
-**1.** Has the board explicitly adopted an AI governance policy that assigns accountability for AI risk to named senior leaders and specifies the board’s oversight role?\* \[Owner: Board Chair / General Counsel\]
+**1.** Has the board explicitly adopted an AI governance policy that assigns accountability for AI risk to named senior leaders and specifies the board’s oversight role? \[Owner: Board Chair / General Counsel\]
 
-**2.** Has the board received a briefing in the past twelve months on the organization’s AI risk profile, including the specific systems deployed, their risk tier and their current governance status?\* \[Owner: Chief Risk Officer / Chief AI Officer\]
+**2.** Has the board received a briefing in the past twelve months on the organization’s AI risk profile, including the specific systems deployed, their risk tier and their current governance status? \[Owner: Chief Risk Officer / Chief AI Officer\]
 
-**3.** Has the board approved a documented risk appetite statement for AI, specifying what categories and levels of AI-related risk the organization is willing to accept?\* \[Owner: Board Risk Committee\]
+**3.** Has the board approved a documented risk appetite statement for AI, specifying what categories and levels of AI-related risk the organization is willing to accept? \[Owner: Board Risk Committee\]
 
-**4.** Is there a named executive who is accountable for the organization’s AI governance program, with that accountability reflected in their performance objectives and compensation structure?\* \[Owner: CEO / Board Compensation Committee\]
+**4.** Is there a named executive who is accountable for the organization’s AI governance program, with that accountability reflected in their performance objectives and compensation structure? \[Owner: CEO / Board Compensation Committee\]
 
-**5.** Has the organization established an expert oversight function, committee or role with the mandate, competence and access to oversee AI systems, including demonstrable influence on deployment decisions?\* \[Owner: Chief AI Officer / General Counsel\]
+**5.** Has the organization established an expert oversight function, committee or role with the mandate, competence and access to oversee AI systems, including demonstrable influence on deployment decisions? \[Owner: Chief AI Officer / General Counsel\]
 
-**6.** Are AI-related risks formally integrated into the enterprise risk management framework and reported to the board through the same risk governance mechanisms as other material risks?\* \[Owner: Chief Risk Officer\]
+**6.** Are AI-related risks formally integrated into the enterprise risk management framework and reported to the board through the same risk governance mechanisms as other material risks? \[Owner: Chief Risk Officer\]
 
-**7.** Has the board reviewed and approved the organization’s approach to AI regulatory compliance, including the jurisdictions in which its AI systems operate and the applicable legal obligations in each?\* \[Owner: General Counsel / Chief Compliance Officer\]
+**7.** Has the board reviewed and approved the organization’s approach to AI regulatory compliance, including the jurisdictions in which its AI systems operate and the applicable legal obligations in each? \[Owner: General Counsel / Chief Compliance Officer\]
 
-**8.** Is there a documented process by which the board receives notification of material AI incidents, regulatory inquiries or significant governance failures within a defined timeframe?\* \[Owner: General Counsel / Chief Risk Officer\]
+**8.** Is there a documented process by which the board receives notification of material AI incidents, regulatory inquiries or significant governance failures within a defined timeframe? \[Owner: General Counsel / Chief Risk Officer\]
 
-**9.** Has the organization allocated budget for its AI governance program as a named line item, reflecting the actual cost of the governance work the policy requires?\* \[Owner: CFO / Chief AI Officer\]
+**9.** Has the organization allocated budget for its AI governance program as a named line item, reflecting the actual cost of the governance work the policy requires? \[Owner: CFO / Chief AI Officer\]
 
-**10.** Has the board conducted or commissioned an independent assessment of the organization’s AI governance maturity in the past twenty-four months?\* \[Owner: Board Audit Committee\]
+**10.** Has the board conducted or commissioned an independent assessment of the organization’s AI governance maturity in the past twenty-four months? \[Owner: Board Audit Committee\]
 
 **Policy and Management System (Questions 11–20)**
 
-**11.** Does the organization maintain a documented AI policy that has been approved by top management, version-controlled and communicated to all relevant personnel?\* \[Owner: Chief AI Officer / General Counsel\]
+**11.** Does the organization maintain a documented AI policy that has been approved by top management, version-controlled and communicated to all relevant personnel? \[Owner: Chief AI Officer / General Counsel\]
 
-**12.** Does the organization maintain a centralized inventory of all AI systems including embedded AI features, with registration in the inventory required before deployment?\* \[Owner: Chief Technology Officer / Chief Risk Officer\]
+**12.** Does the organization maintain a centralized inventory of all AI systems including embedded AI features, with registration in the inventory required before deployment? \[Owner: Chief Technology Officer / Chief Risk Officer\]
 
-**13.** Has the organization documented a lifecycle management procedure for AI systems specifying the stages from concept through decommissioning, the accountability at each stage and the governance artifacts required before each stage-gate?\* \[Owner: Chief AI Officer\]
+**13.** Has the organization documented a lifecycle management procedure for AI systems specifying the stages from concept through decommissioning, the accountability at each stage and the governance artifacts required before each stage-gate? \[Owner: Chief AI Officer\]
 
-**14.** Does the organization’s AI management system align with ISO 42001 and NIST AI RMF requirements, and has that alignment been assessed by a qualified reviewer?\* \[Owner: Chief Compliance Officer / Chief Risk Officer\]
+**14.** Does the organization’s AI management system align with ISO 42001 and NIST AI RMF requirements, and has that alignment been assessed by a qualified reviewer? \[Owner: Chief Compliance Officer / Chief Risk Officer\]
 
-**15.** Are all personnel who interact with AI systems trained at a level appropriate to their role, with training records maintained and refresh cycles defined?\* \[Owner: Chief People Officer / Chief AI Officer\]
+**15.** Are all personnel who interact with AI systems trained at a level appropriate to their role, with training records maintained and refresh cycles defined? \[Owner: Chief People Officer / Chief AI Officer\]
 
-**16.** Does the organization have documented procedures for AI incident management, including definitions of what constitutes an AI-related incident, intake channels, triage, investigation, remediation and lessons learned?\* \[Owner: Chief Risk Officer / Chief Technology Officer\]
+**16.** Does the organization have documented procedures for AI incident management, including definitions of what constitutes an AI-related incident, intake channels, triage, investigation, remediation and lessons learned? \[Owner: Chief Risk Officer / Chief Technology Officer\]
 
-**17.** Does the organization have a documented change management procedure for AI systems that requires governance assessment and approval before material changes reach production?\* \[Owner: Chief Technology Officer / Chief AI Officer\]
+**17.** Does the organization have a documented change management procedure for AI systems that requires governance assessment and approval before material changes reach production? \[Owner: Chief Technology Officer / Chief AI Officer\]
 
-**18.** Does the organization have a documented decommissioning procedure for AI systems specifying data retention or deletion requirements, access revocation, user communication and post-mortem documentation?\* \[Owner: Chief Technology Officer / General Counsel\]
+**18.** Does the organization have a documented decommissioning procedure for AI systems specifying data retention or deletion requirements, access revocation, user communication and post-mortem documentation? \[Owner: Chief Technology Officer / General Counsel\]
 
-**19.** Are vendor and third-party AI providers subject to governance requirements equivalent to those applied internally, enforced through contractual obligations with audit rights?\* \[Owner: Chief Procurement Officer / General Counsel\]
+**19.** Are vendor and third-party AI providers subject to governance requirements equivalent to those applied internally, enforced through contractual obligations with audit rights? \[Owner: Chief Procurement Officer / General Counsel\]
 
-**20.** Does the organization conduct scheduled internal audits of its AI management system with documented findings, corrective actions and management review?\* \[Owner: Chief Audit Executive / Board Audit Committee\]
+**20.** Does the organization conduct scheduled internal audits of its AI management system with documented findings, corrective actions and management review? \[Owner: Chief Audit Executive / Board Audit Committee\]
 
 **Operations and Deployment (Questions 21–30)**
 
-**21.** Does every AI system in production have a pre-deployment specification documenting its authorized purpose, acceptance thresholds, action scope, data access boundaries, escalation conditions and oversight mode?\* \[Owner: Chief AI Officer / System Owner\]
+**21.** Does every AI system in production have a pre-deployment specification documenting its authorized purpose, acceptance thresholds, action scope, data access boundaries, escalation conditions and oversight mode? \[Owner: Chief AI Officer / System Owner\]
 
-**22.** Was the specification for each system in production completed and approved before the system began operating in production?\* \[Owner: Chief AI Officer / Chief Technology Officer\]
+**22.** Was the specification for each system in production completed and approved before the system began operating in production? \[Owner: Chief AI Officer / Chief Technology Officer\]
 
-**23.** Does the organization maintain real-time action logs for each AI system that are comprehensive enough to reconstruct what the system did, what data it accessed, what decisions it produced and what actions it took?\* \[Owner: Chief Technology Officer / System Owner\]
+**23.** Does the organization maintain real-time action logs for each AI system that are comprehensive enough to reconstruct what the system did, what data it accessed, what decisions it produced and what actions it took? \[Owner: Chief Technology Officer / System Owner\]
 
-**24.** Are the action logs for each AI system maintained in a form that cannot be modified by the system generating them, and are they accessible to independent reviewers?\* \[Owner: Chief Technology Officer / Chief Audit Executive\]
+**24.** Are the action logs for each AI system maintained in a form that cannot be modified by the system generating them, and are they accessible to independent reviewers? \[Owner: Chief Technology Officer / Chief Audit Executive\]
 
-**25.** Does the organization maintain exception reports for each AI system documenting out-of-scope conditions, escalation events and human interventions, and is the absence of exception reports treated as a finding requiring explanation?\* \[Owner: System Owner / Chief Risk Officer\]
+**25.** Does the organization maintain exception reports for each AI system documenting out-of-scope conditions, escalation events and human interventions, and is the absence of exception reports treated as a finding requiring explanation? \[Owner: System Owner / Chief Risk Officer\]
 
-**26.** Does each AI system deployment include an explicit Definition of Done specifying the criteria that determine when an authorized task is complete and the conditions under which the system should stop?\* \[Owner: System Owner / Chief AI Officer\]
+**26.** Does each AI system deployment include an explicit Definition of Done specifying the criteria that determine when an authorized task is complete and the conditions under which the system should stop? \[Owner: System Owner / Chief AI Officer\]
 
-**27.** Does the organization have a documented monitoring program for each AI system that compares current performance against the acceptance thresholds defined in the specification, at a defined cadence using a defined sampling methodology?\* \[Owner: Chief Risk Officer / System Owner\]
+**27.** Does the organization have a documented monitoring program for each AI system that compares current performance against the acceptance thresholds defined in the specification, at a defined cadence using a defined sampling methodology? \[Owner: Chief Risk Officer / System Owner\]
 
-**28.** Are monitoring results and sampling documentation maintained as governance records accessible to auditors, not merely as internal performance dashboards?\* \[Owner: Chief Risk Officer / Chief Audit Executive\]
+**28.** Are monitoring results and sampling documentation maintained as governance records accessible to auditors, not merely as internal performance dashboards? \[Owner: Chief Risk Officer / Chief Audit Executive\]
 
-**29.** Does the organization have documented re-validation triggers for each AI system specifying the conditions under which a full governance reassessment is required?\* \[Owner: Chief Risk Officer / System Owner\]
+**29.** Does the organization have documented re-validation triggers for each AI system specifying the conditions under which a full governance reassessment is required? \[Owner: Chief Risk Officer / System Owner\]
 
-**30.** Has each AI system in production been re-validated within the timeframe committed to in its governance documentation, and is the re-validation conclusion documented with the same rigor as the original assessment?\* \[Owner: Chief AI Officer / System Owner\]
+**30.** Has each AI system in production been re-validated within the timeframe committed to in its governance documentation, and is the re-validation conclusion documented with the same rigor as the original assessment? \[Owner: Chief AI Officer / System Owner\]
 
 **Evidence and Audit (Questions 31–40)**
 
-**31.** Is the organization’s AI governance evidence architecture designed to survive an EU AI Act market surveillance inquiry, an insurance claim, a civil litigation and an internal audit on any given day?\* \[Owner: General Counsel / Chief Audit Executive\]
+**31.** Is the organization’s AI governance evidence architecture designed to survive an EU AI Act market surveillance inquiry, an insurance claim, a civil litigation and an internal audit on any given day? \[Owner: General Counsel / Chief Audit Executive\]
 
-**32.** Does the organization have a documented audit scope framework for AI systems specifying what evidence categories are examined, what access rights the auditor requires and what independence standard applies?\* \[Owner: Chief Audit Executive / General Counsel\]
+**32.** Does the organization have a documented audit scope framework for AI systems specifying what evidence categories are examined, what access rights the auditor requires and what independence standard applies? \[Owner: Chief Audit Executive / General Counsel\]
 
-**33.** Are engagement letters for AI audit and assurance engagements drafted to explicitly exclude scope items the audit does not cover, prohibit certification language and define permitted use of the resulting report?\* \[Owner: General Counsel / Chief Audit Executive\]
+**33.** Are engagement letters for AI audit and assurance engagements drafted to explicitly exclude scope items the audit does not cover, prohibit certification language and define permitted use of the resulting report? \[Owner: General Counsel / Chief Audit Executive\]
 
-**34.** Does the organization’s AI assurance model follow the indirect engagement structure in which the organization prepares the subject matter information and the auditor provides independent assurance, with remediation support scoped separately?\* \[Owner: General Counsel / Chief Audit Executive\]
+**34.** Does the organization’s AI assurance model follow the indirect engagement structure in which the organization prepares the subject matter information and the auditor provides independent assurance, with remediation support scoped separately? \[Owner: General Counsel / Chief Audit Executive\]
 
-**35.** Do AI vendor contracts include explicit audit rights covering operational log access, testing and validation record access, personnel interview rights and advance change notification?\* \[Owner: General Counsel / Chief Procurement Officer\]
+**35.** Do AI vendor contracts include explicit audit rights covering operational log access, testing and validation record access, personnel interview rights and advance change notification? \[Owner: General Counsel / Chief Procurement Officer\]
 
-**36.** Does the organization’s TEVV documentation for each AI system in production constitute a validity argument rather than a test log, including prompting methodology, scenario selection rationale, qualitative-to-quantitative assessment approach, inter-rater reliability checks and conditions for revising validity statements?\* \[Owner: Chief AI Officer / System Owner\]
+**36.** Does the organization’s TEVV documentation for each AI system in production constitute a validity argument rather than a test log, including prompting methodology, scenario selection rationale, qualitative-to-quantitative assessment approach, inter-rater reliability checks and conditions for revising validity statements? \[Owner: Chief AI Officer / System Owner\]
 
-**37.** Is the organization’s sampling methodology for generative AI systems statistically defensible, with the acceptable error rate defined in the specification, sample sizes justified against that rate and subgroup analysis conducted for any system where differential performance creates differential harm?\* \[Owner: Chief AI Officer / Chief Risk Officer\]
+**37.** Is the organization’s sampling methodology for generative AI systems statistically defensible, with the acceptable error rate defined in the specification, sample sizes justified against that rate and subgroup analysis conducted for any system where differential performance creates differential harm? \[Owner: Chief AI Officer / Chief Risk Officer\]
 
-**38.** Does the organization’s adversarial testing program draw on established threat taxonomies including the OWASP Top 10 for Large Language Model Applications, the OWASP Top 10 for Agentic AI Applications and the MITRE ATLAS framework, and is the testing conducted by personnel independent of the development team?\* \[Owner: Chief Technology Officer / Chief Audit Executive\]
+**38.** Does the organization’s adversarial testing program draw on established threat taxonomies including the OWASP Top 10 for Large Language Model Applications, the OWASP Top 10 for Agentic AI Applications and the MITRE ATLAS framework, and is the testing conducted by personnel independent of the development team? \[Owner: Chief Technology Officer / Chief Audit Executive\]
 
-**39.** Does the organization maintain an ecosystem of assurance that covers certification, independent audit, insurance, regulatory compliance and enterprise client due diligence requirements, with each relationship governed by a contract that allocates risk and forces explicit statement of expectations?\* \[Owner: General Counsel / Chief Risk Officer\]
+**39.** Does the organization maintain an ecosystem of assurance that covers certification, independent audit, insurance, regulatory compliance and enterprise client due diligence requirements, with each relationship governed by a contract that allocates risk and forces explicit statement of expectations? \[Owner: General Counsel / Chief Risk Officer\]
 
-**40.** Does the organization’s ForHumanity CORE assessment, or equivalent organizational governance baseline, confirm that the twenty Governance, Oversight and Accountability pillars are in place as a precondition for system-level certification and audit?\* \[Owner: Chief AI Officer / Board Audit Committee\]
+**40.** Does the organization’s ForHumanity CORE assessment, or equivalent organizational governance baseline, confirm that the twenty Governance, Oversight and Accountability pillars are in place as a precondition for system-level certification and audit? \[Owner: Chief AI Officer / Board Audit Committee\]
 
 **Fairness and Non-Discrimination (Questions 41–50)**
 
 The fairness cluster is the final and in some jurisdictions the most immediately enforceable section of the Punchlist. NYC Local Law 144, which requires an independent bias audit before an employer may use an automated employment decision tool affecting candidates or employees in New York City, is among the most specific employment AI fairness obligations currently in force. The New York State Comptroller’s audit dated December 2, 2025 criticized NYC enforcement of Local Law 144 as ineffective and found specific weaknesses in the quality of bias audits and the adequacy of independence documentation. The Comptroller’s finding applies across the governance landscape, not only to employment AI: do not rely on low enforcement to justify weak workpapers. The regulator’s posture shifts. The audit record does not.
 
-**41.** Has the organization identified every AI system it uses in employment, lending, insurance, healthcare, housing or other high-stakes contexts where fairness and non-discrimination obligations apply under applicable law?\* \[Owner: General Counsel / Chief Compliance Officer\]
+**41.** Has the organization identified every AI system it uses in employment, lending, insurance, healthcare, housing or other high-stakes contexts where fairness and non-discrimination obligations apply under applicable law? \[Owner: General Counsel / Chief Compliance Officer\]
 
-**42.** Has each such system been assessed for disparate impact across protected characteristics including race, ethnicity, gender, age, disability and other categories specified by applicable law, using a methodology adequate for the deployment context?\* \[Owner: Chief AI Officer / Chief Compliance Officer\]
+**42.** Has each such system been assessed for disparate impact across protected characteristics including race, ethnicity, gender, age, disability and other categories specified by applicable law, using a methodology adequate for the deployment context? \[Owner: Chief AI Officer / Chief Compliance Officer\]
 
-**43.** Is the fairness assessment for each such system conducted by a person or organization independent of the system’s development and deployment team, with independence documented?\* \[Owner: Chief Audit Executive / General Counsel\]
+**43.** Is the fairness assessment for each such system conducted by a person or organization independent of the system’s development and deployment team, with independence documented? \[Owner: Chief Audit Executive / General Counsel\]
 
-**44.** Does the fairness assessment documentation constitute audit-grade evidence, including the dataset used, its sources, inclusion and exclusion criteria, transformations and known limitations, with a named data owner and written sign-off?\* \[Owner: Chief AI Officer / Chief Data Officer\]
+**44.** Does the fairness assessment documentation constitute audit-grade evidence, including the dataset used, its sources, inclusion and exclusion criteria, transformations and known limitations, with a named data owner and written sign-off? \[Owner: Chief AI Officer / Chief Data Officer\]
 
-**45.** Are the fairness assessment results documented in a form that can support required public postings, regulatory inquiries and litigation without modification or supplementation after the fact?\* \[Owner: General Counsel / Chief Compliance Officer\]
+**45.** Are the fairness assessment results documented in a form that can support required public postings, regulatory inquiries and litigation without modification or supplementation after the fact? \[Owner: General Counsel / Chief Compliance Officer\]
 
-**46.** Does the organization have a documented process for acting on fairness assessment findings, including thresholds for adjustment or discontinuation of a system where disparate impact cannot be adequately remediated?\* \[Owner: Chief AI Officer / Chief Compliance Officer\]
+**46.** Does the organization have a documented process for acting on fairness assessment findings, including thresholds for adjustment or discontinuation of a system where disparate impact cannot be adequately remediated? \[Owner: Chief AI Officer / Chief Compliance Officer\]
 
-**47.** Is the fairness assessment for each system refreshed at least annually before use, and is the refresh cadence documented and owned by a named person?\* \[Owner: Chief AI Officer / Chief Compliance Officer\]
+**47.** Is the fairness assessment for each system refreshed at least annually before use, and is the refresh cadence documented and owned by a named person? \[Owner: Chief AI Officer / Chief Compliance Officer\]
 
-**48.** Does the organization’s training data for systems used in high-stakes decisions include documentation of provenance, quality checks, representativeness assessment and known bias risks, with those limitations reflected in the acceptance threshold for the system?\* \[Owner: Chief Data Officer / Chief AI Officer\]
+**48.** Does the organization’s training data for systems used in high-stakes decisions include documentation of provenance, quality checks, representativeness assessment and known bias risks, with those limitations reflected in the acceptance threshold for the system? \[Owner: Chief Data Officer / Chief AI Officer\]
 
-**49.** Has the organization assessed the deployment context of each system used in high-stakes decisions for conditions that could produce disparate impact even where the system itself passes fairness metrics, including differences between the deployment population and the training population?\* \[Owner: Chief AI Officer / Chief Risk Officer\]
+**49.** Has the organization assessed the deployment context of each system used in high-stakes decisions for conditions that could produce disparate impact even where the system itself passes fairness metrics, including differences between the deployment population and the training population? \[Owner: Chief AI Officer / Chief Risk Officer\]
 
-**50.** Is the organization’s approach to AI fairness subject to ongoing board-level oversight, with fairness-related incidents, regulatory developments and assessment results reported through the same governance channels as other material compliance matters?\* \[Owner: Board Risk Committee / General Counsel\]
+**50.** Is the organization’s approach to AI fairness subject to ongoing board-level oversight, with fairness-related incidents, regulatory developments and assessment results reported through the same governance channels as other material compliance matters? \[Owner: Board Risk Committee / General Counsel\]
 
 ## The Governance Test Is Not the Punchlist
 
@@ -3463,7 +3463,7 @@ Slow AI is a satisficing discipline. It does not ask what is the maximum this sy
 
 ## The Bliss Point and the Middle Way
 
-Economics has a concept for the optimal level of a good: the bliss point. It is the consumption bundle at which utility is maximized, the point beyond which more of something makes you worse off rather than better. The concept originated in food science, the precise combination of salt, sugar and fat at which pleasure peaks before tipping into aversion. But it extends to any domain where more is not always better. It is the natural limit that optimization ignores at its peril.
+Economics has a concept for the optimal level of a good: the bliss point. It is the consumption bundle at which utility is maximized, the point beyond which more of something makes you worse off rather than better. The concept originated in economics and was later applied to food formulation, the precise combination of salt, sugar and fat at which pleasure peaks before tipping into aversion. But it extends to any domain where more is not always better. It is the natural limit that optimization ignores at its peril.
 
 The Buddha understood this as the Middle Way. Between the extreme of indulgence and the extreme of deprivation lies a path of disciplined sufficiency, the recognition that enough is a real destination and that the craving for more beyond that point produces not satisfaction but its diminishment. The second noble truth holds that suffering arises from craving, from the insistence on more, from the refusal to accept that a legitimate stopping point exists. The bliss point is the economic expression of that teaching.
 
@@ -3555,7 +3555,7 @@ This template is synchronized with Appendix F (FRIA Section H residual risk and 
 | **D10 Response on Falsification** What happens when the trigger fires. Steps include, at minimum: notification of the named owner and the appropriate Three Lines functions; assessment of whether the system’s continued operation remains within its authorized trust boundary (Appendix E); FRIA review trigger if applicable (Appendix F H5); incident classification and Art. 73 notification assessment for serious incidents; change management initiation if the assumption supported a deployment-permitting determination.                    |
 | **D11 Monitoring Cadence** How often the assumption is re-tested. Cadence must be proportionate to volatility of the underlying basis and to the impact classification of the system. Continuous (real-time monitoring metric); per-decision; daily; weekly; monthly; quarterly; on-event-only. Cadence is itself reviewed at each governance review of the Register.                                                                                                                                                                                   |
 | **D12 Status** Active (in force, monitored at cadence); Watch (signal observed that may indicate falsification, increased monitoring in effect); Falsified (trigger fired, response in progress or completed); Superseded (replaced by a new assumption that captures the relevant claim more accurately); Retired (system no longer relies on this assumption). Status changes are recorded in D14.                                                                                                                                                    |
-| **D13 Related Artifacts** Cross-references to: Appendix E (Agent Registry entry ID); Appendix F (FRIA Section / Field); Appendix I (Audit Checklist question numbers); Appendix J (GRC Master Reference principle or part); model card field; vendor contract clause; internal policy document. The Register is a node in the governance graph; the value of the Register is in its connection to the rest of the architecture.                                                                                                                         |
+| **D13 Related Artifacts** Cross-references to: Appendix E (Agent Registry entry ID); Appendix F (FRIA Section / Field); Appendix I (Checklist IDs); Appendix J (GRC Master Reference principle or part); model card field; vendor contract clause; internal policy document. The Register is a node in the governance graph; the value of the Register is in its connection to the rest of the architecture.                                                                                                                         |
 | **D14 Change Log** Versioned record of when the assumption was added, modified, status-changed or retired, by whom and on what basis. Entries are not deleted. The Change Log is the audit trail that demonstrates the Register operated as a control rather than as a static document.                                                                                                                                                                                                                                                                 |
 
 ## Worked Example
@@ -3569,7 +3569,7 @@ This template is synchronized with Appendix F (FRIA Section H residual risk and 
 | **D4 Source / Basis** Vendor evaluation report dated 12 March 2026, Section 4.3, n=8,400 held-out cases representative of the deployment population by category and language. Internal pilot evaluation 1-21 April 2026, n=1,200, false-negative rate observed 1.6 percent (95 percent CI: 1.0-2.4 percent).                                                                                                                                                                            |
 | **D5 Named Owner** Jane Doe, Director of Customer Operations (system owner of record per Appendix E entry AGR-CS-007).                                                                                                                                                                                                                                                                                                                                                                  |
 | **D6 Confidence Level** Medium. Pilot sample is small relative to deployment volume; CI overlaps the threshold. Confidence elevated to High after first 90 days of production monitoring if metric holds.                                                                                                                                                                                                                                                                               |
-| **D7 Risk if False** Regulated harm complaints routed to the standard queue rather than the priority-review queue. Affected right: effective remedy (Charter Art. 47) for affected complainants. Indirect harm: regulator notification timeline at risk if breach reporting threshold is missed because the complaint was not surfaced. FRIA Section D row 4 cross-reference.                                                                                                           |
+| **D7 Risk if False** Regulated harm complaints routed to the standard queue rather than the priority-review queue. Affected right: effective remedy (Charter Art. 47) for affected complainants. Indirect harm: regulator notification timeline at risk if breach reporting threshold is missed because the complaint was not surfaced. FRIA Section D row 5 cross-reference.                                                                                                           |
 | **D8 Test or Verification Method** Weekly stratified sample of 200 closed complaints reviewed by independent quality assurance team (second-line). Quarterly full re-evaluation against refreshed held-out set, n\>=2,000. Continuous monitoring metric: rolling 30-day false-negative rate computed against ground-truth labels assigned within 14 days of complaint closure.                                                                                                          |
 | **D9 Falsification Trigger** Either: rolling 30-day false-negative rate exceeds 2.5 percent on two consecutive weekly readings; or quarterly re-evaluation produces a point estimate above 3.0 percent or a 95 percent CI upper bound above 3.5 percent.                                                                                                                                                                                                                                |
 | **D10 Response on Falsification** Within 24 hours: named owner notified; second-line GRC notified; oversight mode escalated from HOTL to HITL on regulated harm categories pending resolution. Within 5 business days: root-cause analysis; FRIA Section H5 review trigger initiated; Article 73 serious-incident assessment if any falsification-period complaint involved actual harm. Within 15 business days: change management decision (continue HITL, retrain, replace, retire). |
@@ -3626,7 +3626,7 @@ This template is synchronized with Appendix I Section 0 (Pre-Audit Scoping: Inve
 | **E10 Data Sources and Downstream Systems** Inputs (data sources, upstream systems, retrieval indexes, tools the agent may call); outputs (downstream systems the agent may write to, third-party services it may transact with, communication channels it may use). Material change to either side is a governance event requiring re-assessment under E4 and E11.                                                                                                                                                                                                             |
 | **E11 FRIA Status** Required (Art. 27 applicability triggered) and Reference; Required and Pending (with target completion date and basis for pre-FRIA operation if any); Not Required (with basis under Art. 27(1) applicability test). For systems where FRIA is Not Required but internal impact classification is Tier-1 or Tier-2, an internal rights-and-impact assessment may still be required by organizational policy; record the reference.                                                                                                                          |
 | **E12 Evidence Retention Policy** What logs are kept (action logs, prompt and output logs, escalation records, human review documentation, model and configuration version history, monitoring metric history); for how long (retention period with regulatory and contractual basis); who has access (roles authorized to read, roles authorized to extract for audit, roles authorized to modify the retention configuration); tamper-evidence mechanism; access-event logging. Retrofitted evidence is not evidence of governance.                                           |
-| **E13 Vendor and Supply Chain References** Vendor name and entity; contract reference and term; change-notification clause reference; audit-rights clause reference; sub-processor and sub-model dependencies; vendor governance assessment date and outcome (cross-reference to Appendix I Sections 1 and 2). Concentration risk flag where this vendor or model also supports other Tier-1 or Tier-2 systems in the Registry.                                                                                                                                                 |
+| **E13 Vendor and Supply Chain References** Vendor name and entity; contract reference and term; change-notification clause reference; audit-rights clause reference; sub-processor and sub-model dependencies; vendor governance assessment date and outcome (cross-reference to Appendix I, Checklist IDs 1.17 to 1.19). Concentration risk flag where this vendor or model also supports other Tier-1 or Tier-2 systems in the Registry.                                                                                                                                                 |
 | **E14 Date of Last Governance Review and Next Scheduled Review** Date of last review and named reviewer. Next scheduled review date, with cadence proportionate to impact classification (Tier-1: quarterly minimum; Tier-2: semi-annual minimum; Tier-3: annual). Trigger events that bring the next review forward are recorded in E15.                                                                                                                                                                                                                                       |
 | **E15 Status** Pilot (limited population, contained operating envelope, documented exit criteria); Production (full operating envelope, full evidence pipeline active); Production-Restricted (production but with active conditions on continued deployment from a FRIA Section H or Assumption Register Falsification response); Suspended (operations halted pending resolution of an identified issue, with reference); Retired (no longer in use; entry retained for audit). Pilot-to-Production promotion is a governance event; the promotion record is referenced here. |
 | **E16 Change History** Versioned record of material changes to the system’s registered configuration: version upgrades; permission changes; new data sources; integration changes; oversight mode changes; impact-classification changes; ownership changes; status changes. Entries are not deleted. The Change History is the audit trail that demonstrates the Registry operated as a control rather than as a static inventory.                                                                                                                                             |
@@ -3695,7 +3695,7 @@ Field color coding in Section D: mandatory rights assessment fields are shaded. 
 | **A2 Deployment period and frequency** State the deployment period (start date; end date or ongoing), and frequency of use (number of decisions or interactions per period, or continuous). **Regulatory basis:** Art. 27(1)(b). **Model card alignment:** Not in model card. FRIA only.                                                                                                                                           |
 | **A3 Deployment environment** Internal (employee-facing) / Customer-facing / Regulated sector (identify sector). If agentic or multi-model, note orchestration structure. **Regulatory basis:** Art. 27(1)(a). **Model card alignment:** Not in model card. FRIA only.                                                                                                                                                             |
 | **A4 Estimated scale** Estimated number of persons affected per deployment cycle. Disaggregate by affected population category where known. **Regulatory basis:** Art. 27(1)(c). **Model card alignment:** Not in model card. FRIA only.                                                                                                                                                                                           |
-| **A5 Art. 27 applicability basis** Identify the specific trigger: public body or providing public services; creditworthiness, credit scoring, or life and health insurance risk assessment and pricing. Document the infrastructure exemption assessment where relevant (Art. 27(1) proviso). **Regulatory basis:** Art. 27(1), mandatory applicability conditions. **Model card alignment:** Not in model card. FRIA only.        |
+| **A5 Art. 27 applicability basis** Identify the specific trigger: public body or providing public services; creditworthiness, credit scoring or life and health insurance risk assessment and pricing. Document the infrastructure exemption assessment where relevant (Art. 27(1) proviso). **Regulatory basis:** Art. 27(1), mandatory applicability conditions. **Model card alignment:** Not in model card. FRIA only.        |
 
 | **Section B │ System Characterization, Model Card Cross-Reference** *EU AI Act Art. 27(1)(d) │ Specific risks │ Coordination with Art. 13 technical documentation*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -3703,9 +3703,9 @@ Field color coding in Section D: mandatory rights assessment fields are shaded. 
 | **B1 Intended use** Cross-reference the model card. Confirm the deployed use case falls within the model card intended use. Record any deployment-specific narrowing or contextual constraints. **Regulatory basis:** Art. 9(2) risk management; Art. 13(3)(b) intended purpose. **Model card alignment:** Cross-reference to model card. Restate with deployment-specific framing only where the deployment context narrows or extends the model card statement.                                                                                                                                                                                           |
 | **B2 Prohibited use** Cross-reference the model card. Record any deployment-specific prohibited uses beyond those in the model card. Confirm the deployer has a procedural control preventing prohibited use. **Regulatory basis:** Art. 9(4) risk management, prohibited uses. **Model card alignment:** Cross-reference to model card. Add deployment-specific prohibitions here.                                                                                                                                                                                                                                                                         |
 | **B3 Foreseeable misuse** Restate foreseeable misuse scenarios with rights-impact framing: for each misuse scenario, identify who is harmed, what right is affected, and whether the harm is direct or indirect. Do not simply copy the model card. **Regulatory basis:** Art. 9(2)(b), foreseeable misuse. **Model card alignment:** Restate with rights-impact framing. Model card identifies misuse scenarios; this field names the harmed party and affected right for each scenario.                                                                                                                                                                   |
-| **B4 Known limitations** Restate known limitations with rights-impact framing: for each limitation, identify the right potentially affected and the deployment conditions under which the limitation is most likely to materialise. **Regulatory basis:** Art. 9(2)(a); Art. 13(3)(b)(v). **Model card alignment:** Restate with rights-impact framing. Model card lists limitations; this field identifies the rights consequence of each limitation in this deployment context.                                                                                                                                                                           |
+| **B4 Known limitations** Restate known limitations with rights-impact framing: for each limitation, identify the right potentially affected and the deployment conditions under which the limitation is most likely to materialize. **Regulatory basis:** Art. 9(2)(a); Art. 13(3)(b)(v). **Model card alignment:** Restate with rights-impact framing. Model card lists limitations; this field identifies the rights consequence of each limitation in this deployment context.                                                                                                                                                                           |
 | **B5 Operational conditions** Cross-reference the model card operational conditions. Add deployment-specific conditions: human oversight configuration, data input sources, integration with other systems, and environmental constraints specific to this deployment. **Regulatory basis:** Art. 9(6), operational conditions. **Model card alignment:** Cross-reference to model card. Supplement with deployment-specific operational conditions not resolvable at model level.                                                                                                                                                                          |
-| **B6 Human oversight architecture** Cross-reference the model card human oversight design. Supplement with deployment-specific assignments: named roles (not generic function titles), authority levels, override capability, and escalation pathway. Confirm the oversight mode is HITL or HOTL and that it is genuinely staffed. **Regulatory basis:** Art. 14, human oversight; Art. 26(2), deployer oversight obligation. **Model card alignment:** Cross-reference to model card oversight design. Supplement with deployment-specific role assignments and authority levels. Named roles required here; generic function references are insufficient. |
+| **B6 Human oversight architecture** Cross-reference the model card human oversight design. Supplement with deployment-specific assignments: named roles (not generic function titles), authority levels, override capability and escalation pathway. Confirm the oversight mode is HITL or HOTL and that it is genuinely staffed. **Regulatory basis:** Art. 14, human oversight; Art. 26(2), deployer oversight obligation. **Model card alignment:** Cross-reference to model card oversight design. Supplement with deployment-specific role assignments and authority levels. Named roles required here; generic function references are insufficient. |
 | **B7 Training data summary** Cross-reference model card only. Record reference. If training data characteristics are directly relevant to a rights impact identified in Section D (e.g., underrepresentation of an affected demographic), note the connection. **Regulatory basis:** Art. 10(2), data governance. **Model card alignment:** Cross-reference to model card only. No restatement required unless a rights-impact connection is identified.                                                                                                                                                                                                    |
 | **B8 Evaluation methodology and results** Cross-reference model card only. Record reference. If evaluation results reveal performance gaps relevant to the affected population in this deployment (e.g., lower accuracy on a demographic group present in the affected population), note the connection. **Regulatory basis:** Art. 9(6); Art. 15, accuracy, robustness. **Model card alignment:** Cross-reference to model card only. Note any evaluation results with direct rights-impact relevance in this deployment context.                                                                                                                          |
 
@@ -3720,7 +3720,7 @@ Field color coding in Section D: mandatory rights assessment fields are shaded. 
 
 **Section D │ Rights Impact Assessment** *EU AI Act Art. 27(1)(d) │ Specific risks to fundamental rights │ EU Charter of Fundamental Rights*
 
-Complete for each right. Severity: High = irreversible or serious harm; Medium = significant harm, reversible with effort; Low = minor or easily remedied. Probability: assessed against the specific deployment context, affected population, and operational conditions in Section B-C.
+Complete for each right. Severity: High = irreversible or serious harm; Medium = significant harm, reversible with effort; Low = minor or easily remedied. Probability: assessed against the specific deployment context, affected population and operational conditions in Section B-C.
 
 *Mandatory assessment rights are shaded. All others must be assessed where potentially relevant to the deployment context. Add rows for any right not listed that may be affected in this deployment.*
 
@@ -3738,7 +3738,7 @@ Complete for each right. Severity: High = irreversible or serious harm; Medium =
 | Rights of persons with disabilities |  |  |  |  |  |
 | Right to asylum and non-refoulement |  |  |  |  |  |
 | Freedom of movement and residence |  |  |  |  |  |
-| Presumption of innocence; rights of the defence |  |  |  |  |  |
+| Presumption of innocence; rights of the defense |  |  |  |  |  |
 | Protection of personal data in law enforcement |  |  |  |  |  |
 | \[Additional right, add rows as needed\] |  |  |  |  |  |
 
@@ -3758,8 +3758,8 @@ Complete for each right. Severity: High = irreversible or serious harm; Medium =
 | **F2 Named oversight roles and authority** Record the named role(s) assigned to oversight for this deployment. Confirm: (a) the role holder has domain expertise sufficient for the decisions reviewed; (b) the role holder has time and information access sufficient for non-perfunctory review; (c) the role holder has organizational authority to reject, correct or escalate without adverse consequences. **Regulatory basis:** Art. 14(4); Art. 26(2). **Model card alignment:** FRIA-specific deployment assignment. Not in model card.                                                                                                                                                                                    |
 | **F3 Override capability** Describe the mechanism by which the named oversight role holder can override, correct or reject an AI output. Confirm the mechanism is technically operational and that override events are logged. **Regulatory basis:** Art. 14(4)(d), ability to disregard, override or reverse. **Model card alignment:** FRIA-specific. Not in model card.                                                                                                                                                                                                                                                                                                                                                             |
 | **F4 Escalation triggers** Define the conditions under which the oversight role holder must escalate a decision to a more senior authority rather than exercising autonomous override. State the named escalation recipient and response timeframe. **Regulatory basis:** Art. 27(1)(e)-(f); Art. 14. **Model card alignment:** FRIA-specific. Not in model card.                                                                                                                                                                                                                                                                                                                                                                   |
-| **F5 Risk materialization response procedures** Describe the procedures to be followed when a rights impact materializes. Include: immediate response steps; notification procedures for affected persons; incident log entry requirement; and review trigger for this FRIA. **Regulatory basis:** Art. 27(1)(f), measures to address risks if they materialise. **Model card alignment:** FRIA-specific. Not in model card.                                                                                                                                                                                                                                                                                                        |
-| **F6 Serious incident classification and Art. 73 coordination** Assess whether a rights impact materialization event would constitute a serious incident under EU AI Act Art. 3 (directly or indirectly leads to death, serious harm to health, serious disruption of critical infrastructure, property damage, harm to the environment, or violation of obligations protecting fundamental rights). If yes, confirm the Art. 73 reporting pathway is documented and the responsible role is named. **Regulatory basis:** Art. 73, serious incident reporting; Art. 3(49), definition of serious incident. **Model card alignment:** FRIA-specific. Not in model card. Coordinates with Section 6 of the AI Audit Checklist (Checklist ID 6.13). |
+| **F5 Risk materialization response procedures** Describe the procedures to be followed when a rights impact materializes. Include: immediate response steps; notification procedures for affected persons; incident log entry requirement; and review trigger for this FRIA. **Regulatory basis:** Art. 27(1)(f), measures to address risks if they materialize. **Model card alignment:** FRIA-specific. Not in model card.                                                                                                                                                                                                                                                                                                        |
+| **F6 Serious incident classification and Art. 73 coordination** Assess whether a rights impact materialization event would constitute a serious incident under EU AI Act Art. 3 (directly or indirectly leads to death, serious harm to health, serious disruption of critical infrastructure, violation of obligations protecting fundamental rights or serious harm to property or the environment). If yes, confirm the Art. 73 reporting pathway is documented and the responsible role is named. **Regulatory basis:** Art. 73, serious incident reporting; Art. 3(49), definition of serious incident. **Model card alignment:** FRIA-specific. Not in model card. Coordinates with Section 6 of the AI Audit Checklist (Checklist ID 6.13). |
 
 | **Section G │ Consultation Record** *EU AI Act Art. 26(7) and Recital 96; national law on consultation with workers and trade union representatives where applicable*                                                                                                                                                                                                                                                                                                                                                                                         |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -3775,7 +3775,7 @@ Complete for each right. Severity: High = irreversible or serious harm; Medium =
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Field**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | **H1 Aggregate residual risk classification** Drawing on the residual risk summary in E5, classify the aggregate residual risk across all affected rights: High / Medium / Low. Provide brief rationale. **Regulatory basis:** Art. 9(4); Art. 27(1)(d). **Model card alignment:** FRIA-specific. Not in model card.                                                                                                                                                                                                                                                                                                                                                                                 |
-| **H2 Conditions on continued deployment** If aggregate residual risk is Medium or High: state the conditions that must remain in place for deployment to continue. These become binding commitments enforceable through the change management process (Section A5 trigger review). **Regulatory basis:** Art. 27; Art. 9(4). **Model card alignment:** FRIA-specific. Not in model card.                                                                                                                                                                                                                                                                                                             |
+| **H2 Conditions on continued deployment** If aggregate residual risk is Medium or High: state the conditions that must remain in place for deployment to continue. These become binding commitments enforceable through the change management process (Section H5 trigger review). **Regulatory basis:** Art. 27; Art. 9(4). **Model card alignment:** FRIA-specific. Not in model card.                                                                                                                                                                                                                                                                                                             |
 | **H3 Residual risk acceptance rationale** State the rationale for accepting residual risk at the aggregate level. Address: (a) necessity of deployment despite residual risk; (b) proportionality of the residual risk against the benefit; (c) confirmation that no feasible additional mitigation is available. A statement that residual risk is acceptable without rationale is insufficient. **Regulatory basis:** Art. 27; proportionality doctrine, ECHR and EU Charter. **Model card alignment:** FRIA-specific. Not in model card.                                                                                                                                                          |
 | **H4 Executive sign-off** The accountable executive confirms they have reviewed this FRIA, that the rights impact assessment and mitigation measures are adequate for this deployment context, and that residual risk at the aggregate level is accepted on the basis stated in H3. **Regulatory basis:** EU AI Act Art. 26(1), deployer obligation; Final Liability doctrine. **Model card alignment:** FRIA-specific. Not in model card. This is the governance gate that Final Liability requires. The signature is not a formality; the executive assumes accountability for the assessed residual risk.                                                                                         |
 | **H5 FRIA review trigger events** List the events that require this FRIA to be reviewed and, where material change has occurred, updated before continued deployment. Minimum triggers: material change to the system; change in deployment context or affected population; significant incident or near-miss; supervisory authority guidance; and any other event that changes the rights-impact profile assessed in Sections D-E. **Regulatory basis:** Art. 27(2), re-use of prior FRIA only where circumstances are substantially the same. **Model card alignment:** FRIA-specific. Not in model card. Coordinates with change management controls in Appendix I Section 1 (Checklist ID 1.12) and Section 5. |
@@ -3793,7 +3793,7 @@ Complete for each right. Severity: High = irreversible or serious harm; Medium =
 | B1, Intended use                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Intended use                                                                 | Cross-reference; restate if narrower           | Cross-reference to model card intended use. Restate with deployment-specific framing only where context narrows or extends the model card statement.                              |
 | B2, Prohibited use                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Out-of-scope / prohibited use                                                | Cross-reference; supplement                    | Cross-reference to model card prohibited use. Add deployment-specific prohibitions and confirm procedural control preventing prohibited use.                                      |
 | B3, Foreseeable misuse                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Foreseeable misuse / risks                                                   | Restate with rights-impact framing             | Model card identifies misuse scenarios; FRIA names harmed party and affected right per scenario. Direct copy is insufficient.                                                     |
-| B4, Known limitations                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Known limitations                                                            | Restate with rights-impact framing             | Model card lists limitations; FRIA identifies the right potentially affected and the deployment conditions under which each limitation is most likely to materialise.             |
+| B4, Known limitations                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Known limitations                                                            | Restate with rights-impact framing             | Model card lists limitations; FRIA identifies the right potentially affected and the deployment conditions under which each limitation is most likely to materialize.             |
 | B5, Operational conditions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Operational conditions                                                       | Cross-reference; supplement                    | Cross-reference to model card operational conditions. Supplement with deployment-specific HITL/HOTL configuration, data inputs, system integration and environmental constraints. |
 | B6, Human oversight architecture                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Human oversight design                                                       | Cross-reference; supplement                    | Cross-reference to model card oversight design. Supplement with named roles (not generic function titles), authority levels, override capability and escalation pathway.          |
 | B7, Training data summary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Training data summary                                                        | Cross-reference only                           | Record reference to model card. Note rights-impact connection only if training data characteristic is directly relevant to a rights impact identified in Section D.               |
@@ -3817,12 +3817,12 @@ Complete for each right. Severity: High = irreversible or serious harm; Medium =
 | F6, Serious incident classification and Art. 73 coordination                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Not in model card                                                            | FRIA only                                      | Coordinates with Section 6 of the AI Audit Checklist (Checklist ID 6.13).                                                                                                                      |
 | G1, Data Protection Officer consultation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Not in model card                                                            | FRIA only                                      | GDPR Art. 35(2) DPO consultation.                                                                                                                                                 |
 | G2, Legal and compliance consultation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Not in model card                                                            | FRIA only                                      | Legal review of actor classification, FRIA applicability and rights impact findings.                                                                                              |
-| G3, Worker and employee representative consultation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Not in model card                                                            | FRIA only                                      | Art. 27 consultation requirement and applicable national labor law.                                                                                                               |
-| G4, Public and civil society consultation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Not in model card                                                            | FRIA only                                      | Required for certain public-body deployments; rationale required if not conducted.                                                                                                |
+| G3, Worker and employee representative consultation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Not in model card                                                            | FRIA only                                      | Art. 26(7) duty to inform workers’ representatives and affected workers; applicable national labor law.                                                                            |
+| G4, Public and civil society consultation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Not in model card                                                            | FRIA only                                      | Not required by Art. 27; Recital 96 encourages stakeholder involvement. Rationale required if not conducted.                                                                       |
 | G5, DPIA coordination                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Not in model card                                                            | FRIA only                                      | FRIA does not substitute for DPIA; both sets of statutory elements must be satisfied.                                                                                             |
 | G6, Market surveillance authority notification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Not in model card                                                            | FRIA only                                      | Art. 27(3) notification using the Art. 27(5) AI Office template where required.                                                                                                                  |
 | H1, Aggregate residual risk classification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Not in model card                                                            | FRIA only                                      | Aggregate residual risk classification across all affected rights.                                                                                                                |
-| H2, Conditions on continued deployment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Not in model card                                                            | FRIA only                                      | Becomes binding commitment enforceable through change management (A5 trigger review).                                                                                             |
+| H2, Conditions on continued deployment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Not in model card                                                            | FRIA only                                      | Becomes binding commitment enforceable through change management (H5 trigger review).                                                                                             |
 | H3, Residual risk acceptance rationale                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Not in model card                                                            | FRIA only                                      | Necessity, proportionality and infeasibility-of-further-mitigation must be addressed.                                                                                             |
 | H4, Executive sign-off                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Not in model card                                                            | FRIA only                                      | The governance gate Final Liability requires. Signature is not a formality.                                                                                                       |
 | H5, FRIA review trigger events                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Not in model card                                                            | FRIA only                                      | Coordinates with Appendix I Section 1 (Checklist ID 1.12) and Section 5 change management controls.                                                                                             |
@@ -4038,35 +4038,19 @@ Complementary frameworks: NIST AI Risk Management Framework and ISO/IEC 23894.
 
 - What model is underneath the product? Is it proprietary, open-weight, open-source, hosted, fine-tuned or embedded through another application? Is the vendor the model developer, deployer, reseller or application-layer provider?
 
-<!-- -->
-
 - What third-party models, tools, datasets, plug-ins or infrastructure sit behind the product? Is there an AI Bill of Materials or equivalent component inventory?
-
-<!-- -->
 
 - What training data, fine-tuning data or retrieval data is relevant to the product?
 
-<!-- -->
-
 - What are the model’s known limitations? What assumptions does the vendor make about intended use? What uses are prohibited? What foreseeable misuse did the vendor assess?
-
-<!-- -->
 
 - What red-teaming or adversarial testing was performed? Were external evaluators or auditors involved? What vulnerabilities, biases or limitations have been identified? How are customer-reported risks, vulnerabilities and biases handled?
 
-<!-- -->
-
 - What documentation is available? Is there a model card, system card, security white paper, audit report or trust-center evidence?
-
-<!-- -->
 
 - What logs are retained? Who can access those logs? Can prompts, outputs, files or user activity be used for training? What privacy, security and confidentiality controls apply?
 
-<!-- -->
-
 - What happens when the model changes? How much notice does the customer receive? Can the customer opt out, roll back, freeze a version or disable a feature?
-
-<!-- -->
 
 - What incident-response process applies? What happens if a third-party dependency fails?
 
@@ -4076,23 +4060,13 @@ Complementary frameworks: NIST AI Risk Management Framework and ISO/IEC 23894.
 
 - Intended use. Business purpose. Business owner. Technical owner. Legal or compliance reviewer.
 
-<!-- -->
-
 - Model or vendor used. Third-party dependencies. Data inputs. Data outputs. Data retention.
-
-<!-- -->
 
 - Users. Affected parties. Decision or work product influenced. Jurisdictions involved. Applicable laws, policies or customer commitments.
 
-<!-- -->
-
 - Foreseeable misuse. High-impact failure modes.
 
-<!-- -->
-
 - Human review point. Override procedure. Escalation trigger. Monitoring owner. Stop rule.
-
-<!-- -->
 
 - Evidence retained. Date for re-review.
 
@@ -4102,27 +4076,15 @@ Complementary frameworks: NIST AI Risk Management Framework and ISO/IEC 23894.
 
 - What AI functionality is approved? What uses are prohibited? What data may not be submitted?
 
-<!-- -->
-
 - What customer data may be used for training? What customer data may be retained? What deletion rights apply?
-
-<!-- -->
 
 - What performance commitments apply? What quality standards apply?
 
-<!-- -->
-
 - What transparency documentation must be provided? What model-change notices are required?
-
-<!-- -->
 
 - What security controls apply? What privacy controls apply? What content provenance commitments apply? What intellectual property terms apply?
 
-<!-- -->
-
 - What incident notice period applies? What audit rights exist? What subcontractor controls apply? What third-party dependency disclosures are required?
-
-<!-- -->
 
 - What service suspension or rollback rights exist? What happens at termination?
 
@@ -4132,31 +4094,17 @@ Complementary frameworks: NIST AI Risk Management Framework and ISO/IEC 23894.
 
 - AI roles and responsibilities are documented. Lines of communication are clear.
 
-<!-- -->
-
 - AI risk thresholds are defined before deployment. Intended uses are documented. Prohibited uses are documented. Foreseeable uses, misuses and abuses are assessed. High-impact failure modes are documented. Significant, severe or catastrophic risks are considered.
-
-<!-- -->
 
 - Red-teaming or adversarial testing is performed where appropriate. External feedback and third-party evaluation are considered.
 
-<!-- -->
-
 - Model and system documentation is retained. AI supply-chain components are inventoried. Third-party AI dependencies are reviewed.
-
-<!-- -->
 
 - Data collection, retention and quality rules are documented. Privacy risks are monitored. Intellectual property claims have a response process.
 
-<!-- -->
-
 - Human oversight is assigned. Appeal, override and escalation paths are clear.
 
-<!-- -->
-
 - Incidents are tracked. Post-deployment monitoring is performed. Material changes trigger re-review. Stop, rollback or deactivation procedures exist.
-
-<!-- -->
 
 - Residual-risk acceptance is documented by an accountable human. Evidence is retained for audit.
 
@@ -4166,31 +4114,17 @@ Complementary frameworks: NIST AI Risk Management Framework and ISO/IEC 23894.
 
 - Approved AI use-case inventory. AI system owner list.
 
-<!-- -->
-
 - Vendor diligence file. AI Bill of Materials or equivalent inventory. Data-flow record.
-
-<!-- -->
 
 - Risk assessment. Misuse assessment. Impact assessment. Legal and policy review.
 
-<!-- -->
-
 - Test results. Red-team summary. External evaluation record.
-
-<!-- -->
 
 - Human oversight procedure. User training record.
 
-<!-- -->
-
 - Monitoring log. Incident log. Change log. Exception register.
 
-<!-- -->
-
 - Vulnerability or bias reporting channel. Customer or stakeholder feedback record.
-
-<!-- -->
 
 - Residual-risk sign-off. Rollback, deactivation or decommissioning plan.
 
@@ -4200,23 +4134,13 @@ Complementary frameworks: NIST AI Risk Management Framework and ISO/IEC 23894.
 
 - What are we trying to do? Why is AI needed? What model or vendor are we relying on?
 
-<!-- -->
-
 - What could go wrong? Who could be harmed? Who is accountable?
-
-<!-- -->
 
 - What is the approved use? What is outside scope?
 
-<!-- -->
-
 - What evidence supports release? What risk threshold would stop release?
 
-<!-- -->
-
 - What happens after release? What triggers escalation? What triggers rollback? What triggers shutdown?
-
-<!-- -->
 
 - What will we tell customers, regulators or affected parties if something fails?
 
@@ -4242,8 +4166,6 @@ The doctrine reduces the question of governance to two operational tests.
 
 - Continuity. On a bad day, can each critical service stay within its impact tolerance through the execution of the right switches at the right time?
 
-<!-- -->
-
 - Portability. If the dependency that caused the blast radius is concentrated, can the organization execute an exit plan without breaching tolerance?
 
 These tests matter because modern organizations are built on dense dependency graphs. The largest disruptions tend to come from a small number of shared pipes: a cloud region, an identity provider, a payment rail, a messaging backbone, a specialized SaaS, an outsourced operations center, a single AI model provider. When those pipes fail, policies do not restore service. Switches and exits do.
@@ -4254,7 +4176,7 @@ GRCnext™ does not replace security, privacy, resiliency engineering or vendor 
 
 ## L.2 Primitives
 
-GRCnext™ breaks the problem of optionality into a small set of primitives. Each primitive is concrete, testable and evidence-bearing.
+GRCnext™ breaks the problem of optionality into five primitives, set out in L.2.1 to L.2.5. Each primitive is concrete, testable and evidence-bearing. L.2.6 sets out the evidence posture that runs across all five; it is not itself a primitive.
 
 ### L.2.1 Services
 
@@ -4288,27 +4210,15 @@ The value of GRCnext™ shows up under pressure. The doctrine identifies common 
 
 - Unowned services. No accountable decision maker. Delayed calls. Inconsistent communications.
 
-<!-- -->
-
 - Tolerances without maps. Leaders know the deadline but teams do not know the breakpoints.
-
-<!-- -->
 
 - Maps without authority. Teams know what to do but cannot legally or procedurally execute fast enough.
 
-<!-- -->
-
 - Runbooks without drills. The plan fails on day zero because it was never exercised.
-
-<!-- -->
 
 - Contract rights without portability. The organization can terminate but cannot move data or integrations in time.
 
-<!-- -->
-
 - Hidden concentration. Shared providers amplify outages across multiple services.
-
-<!-- -->
 
 - Evidence gaps. Controls cannot be proven, audits fail and learning does not compound.
 
@@ -4318,19 +4228,11 @@ A severe-but-plausible scenario is realistic enough to expose true dependencies 
 
 - Cloud region impairment. First to break: identity refresh or messaging backbone tied to the affected region. Switches: failover, reroute, degrade noncritical features. Exit pressure point: region exit plan or multi-region design for top tolerances.
 
-<!-- -->
-
 - Identity provider outage. First to break: login, token refresh, administrative access. Switches: emergency access, alternate authentication path, manual approvals. Exit pressure point: provider portability, token format and directory federation.
-
-<!-- -->
 
 - Vendor SaaS repeated incidents. First to break: support, billing, HR workflows, audit evidence sources. Switches: manual fallback, queue reroute, feature disable. Exit pressure point: data export, API parity, termination assistance terms.
 
-<!-- -->
-
 - Regulatory constraint change. First to break: cross-border flows or subprocessor restrictions. Switches: traffic pinning, localization, disable analytics. Exit pressure point: jurisdictional exit, subprocessor swap, data residency options.
-
-<!-- -->
 
 - AI model safety regression. First to break: incorrect decisions or unsafe outputs. Switches: disable model, route to rules-based fallback, tighten filters. Exit pressure point: model vendor swap, decommission plan, fallback model warm-pool.
 
@@ -4344,19 +4246,11 @@ GRCnext™ translates the concept into a practical operating model. The maturity
 
 - L0 Unowned. No named critical services, no owners, no tolerances. Work is reactive and hard to audit.
 
-<!-- -->
-
 - L1 Owned. Critical services and owners exist. Draft tolerances exist. Limited mapping and weak evidence.
-
-<!-- -->
 
 - L2 Mapped. Service dossiers for top services exist. Dependency maps exist. Material providers are linked to services.
 
-<!-- -->
-
 - L3 Exercised. Delegated switches exist. At least one severe-but-plausible exercise has been executed with an evidence pack and CAPA closure.
-
-<!-- -->
 
 - L4 Instrumented. Metrics support detect, decide and execute within tolerance. Periodic exit drills occur. CAPA closure is routine.
 
@@ -4366,19 +4260,11 @@ GRCnext™ uses pass and fail gates that prevent false confidence. If any gate f
 
 - Impact tolerances exist for critical services.
 
-<!-- -->
-
 - Dependency maps exist for critical services.
-
-<!-- -->
 
 - Delegated switch authority exists, not only runbooks.
 
-<!-- -->
-
 - At least one executable exit plan exists for the top concentration dependency.
-
-<!-- -->
 
 - At least one executed severe-but-plausible exercise exists with an evidence pack.
 
@@ -4388,27 +4274,15 @@ A common failure is trying to map everything. GRCnext™ starts narrow and compo
 
 - Name the top five critical services and assign role-based owners.
 
-<!-- -->
-
 - Write a time-based impact tolerance for each service. Distinguish down and degraded where the distinction matters.
-
-<!-- -->
 
 - Build a dependency map for each service, including third parties, regions and key data flows.
 
-<!-- -->
-
 - Identify the top concentration dependency per service. Choose the single most dangerous one as the first exit target.
-
-<!-- -->
 
 - Create a small switch catalog: the five to ten moves that keep services within tolerance. Add delegated authority.
 
-<!-- -->
-
 - Write one executable exit plan for the first exit target, including data portability steps and timing.
-
-<!-- -->
 
 - Run one severe-but-plausible exercise that forces the switches. Capture an evidence pack. Open and close CAPA items.
 
@@ -4448,47 +4322,25 @@ An Evidence Pack is a structured folder or record that makes execution auditable
 
 - Exercise or incident identifier, date, scope, services in scope.
 
-<!-- -->
-
 - Service dossiers referenced, with versions.
-
-<!-- -->
 
 - Scenario description, inject timeline and pass criteria tied to tolerances.
 
-<!-- -->
-
 - Decision log: who decided what, when, under which delegated authority.
-
-<!-- -->
 
 - Switch execution artifacts: runbook steps, automation logs, change tickets.
 
-<!-- -->
-
 - Observability artifacts: metrics, alerts, dashboards used to detect and confirm recovery.
-
-<!-- -->
 
 - Communications: internal updates, external notices, customer impact statements.
 
-<!-- -->
-
 - Third-party coordination: vendor tickets, status pages captured, escalation records.
-
-<!-- -->
 
 - Data artifacts where relevant: export logs, restore logs, deletion confirmations.
 
-<!-- -->
-
 - Outcome summary: tolerance met yes or no per service, time-to-decision, time-to-execution.
 
-<!-- -->
-
 - CAPA register: breakpoints, root causes, owners, due dates, closure evidence.
-
-<!-- -->
 
 - Approvals and sign-off for closing the exercise or incident record.
 
@@ -4502,11 +4354,7 @@ This minimal binary-friendly questionnaire establishes whether the program can p
 
 - Is there a critical services register, with at least the top five named?
 
-<!-- -->
-
 - Does each service have a role-based owner accountable for tolerance and decisions?
-
-<!-- -->
 
 - Are customers and jurisdictions recorded per service?
 
@@ -4514,11 +4362,7 @@ This minimal binary-friendly questionnaire establishes whether the program can p
 
 - Is there a time-based impact tolerance for each critical service?
 
-<!-- -->
-
 - Do tolerances distinguish down and degraded states where the distinction matters?
-
-<!-- -->
 
 - Are tolerances approved by the business owner?
 
@@ -4526,11 +4370,7 @@ This minimal binary-friendly questionnaire establishes whether the program can p
 
 - Does each critical service have an end-to-end dependency map including third parties?
 
-<!-- -->
-
 - Do the maps identify regions, key data stores and identity paths?
-
-<!-- -->
 
 - Is there a top concentration list (top ten vendors, regions, products, datasets) tied back to services?
 
@@ -4538,11 +4378,7 @@ This minimal binary-friendly questionnaire establishes whether the program can p
 
 - Is there a switch catalog for critical services?
 
-<!-- -->
-
 - Is delegated authority documented for executing high-impact switches such as failover, disable and reroute?
-
-<!-- -->
 
 - Are communications and evidence capture steps embedded in runbooks?
 
@@ -4550,11 +4386,7 @@ This minimal binary-friendly questionnaire establishes whether the program can p
 
 - Is there an executable exit plan for the top concentration dependency of at least one critical service?
 
-<!-- -->
-
 - Does the exit plan include data portability steps, deletion, integration changes and timing?
-
-<!-- -->
 
 - Has any slice of the exit been rehearsed (export and restore sample, smoke test, documented result)?
 
@@ -4562,11 +4394,7 @@ This minimal binary-friendly questionnaire establishes whether the program can p
 
 - Has at least one severe-but-plausible exercise been executed in the last twelve months?
 
-<!-- -->
-
 - Was an evidence pack produced that an auditor could follow end-to-end?
-
-<!-- -->
 
 - Are CAPA items tracked and closed with evidence?
 

@@ -115,7 +115,7 @@ The three doctrines are not separable. The slowdown without the human is a delay
 
 The chapter has stated the rule that organizes the rest of the book. You cannot audit what you cannot slow down.
 
-The chapter has named the five inspection points where the system crosses a governance boundary, scope, deployment, decision, change and exit, and shown that each exists to produce an evidence artifact in advance of the question.
+The chapter has named the five inspection points where the system crosses a governance boundary, specification, deployment, decision, change and exit, and shown that each exists to produce an evidence artifact in advance of the question.
 
 The chapter has not yet defined the doctrine those inspection points serve. Chapter 6 does that.
 

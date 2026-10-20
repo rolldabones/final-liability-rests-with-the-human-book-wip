@@ -13,7 +13,7 @@
 >
 > *Soetsu Yanagi, The Unknown Craftsman*
 
-A note on authority. The fifty questions that follow are not this author’s invention of what governance should require. They are derived from the governance architecture this book develops across twenty-one chapters, the AI Audit and Due Diligence Checklist in Appendix I, ForHumanity’s CORE Governance, Oversight and Accountability pillars and the requirements of ISO 42001, the NIST AI RMF and the EU AI Act. They are also, notably, the questions that NIST AI 800-4, the March 2026 publication from the Center for AI Standards and Innovation cataloguing the gaps, barriers and open questions in post-deployment AI system monitoring as identified by more than 250 practitioners across government, industry and academia, found that organizations cannot currently answer. NIST’s open questions ask: were performance baselines established; who is responsible for monitoring; who is responsible for remediating incidents; what is the right cadence for monitoring; how do we enable ongoing external and third-party testing. These are not aspirational governance goals. They are the specific questions that experienced practitioners reported they cannot answer about their own deployed AI systems. The Punchlist converts those open questions into binary governance tests. Either the answer exists as documented evidence with a named owner, or the item is open.
+A note on authority. The fifty questions that follow are not this author’s invention of what governance should require. They are derived from the governance architecture this book develops across twenty-one chapters, the AI Audit and Due Diligence Checklist in Appendix I, ForHumanity’s CORE Governance, Oversight and Accountability pillars and the requirements of ISO 42001, the NIST AI RMF and the EU AI Act. They are also, notably, the questions that NIST AI 800-4, the March 2026 publication from the Center for AI Standards and Innovation cataloguing the gaps, barriers and open questions in post-deployment AI system monitoring, drawing on workshops totaling over 250 participants from government, industry, academia and civil society, found that organizations cannot currently answer. NIST’s open questions ask: were performance baselines established; who is responsible for monitoring; who is responsible for remediating incidents; what is the right cadence for monitoring; how do we enable ongoing external and third-party testing. These are not aspirational governance goals. They are the specific questions that experienced practitioners reported they cannot answer about their own deployed AI systems. The Punchlist converts those open questions into binary governance tests. Either the answer exists as documented evidence with a named owner, or the item is open.
 
 **The ship does not sail until the Punchlist is complete.** That is not a metaphor. It is a contractual and operational reality that anyone who has managed large-scale projects learns the hard way, or learns from someone who did.
 
@@ -65,115 +65,115 @@ The questions below are organized by governance layer: board and leadership, pol
 
 **Board and Leadership (Questions 1–10)**
 
-**1.** Has the board explicitly adopted an AI governance policy that assigns accountability for AI risk to named senior leaders and specifies the board’s oversight role?\* \[Owner: Board Chair / General Counsel\]
+**1.** Has the board explicitly adopted an AI governance policy that assigns accountability for AI risk to named senior leaders and specifies the board’s oversight role? \[Owner: Board Chair / General Counsel\]
 
-**2.** Has the board received a briefing in the past twelve months on the organization’s AI risk profile, including the specific systems deployed, their risk tier and their current governance status?\* \[Owner: Chief Risk Officer / Chief AI Officer\]
+**2.** Has the board received a briefing in the past twelve months on the organization’s AI risk profile, including the specific systems deployed, their risk tier and their current governance status? \[Owner: Chief Risk Officer / Chief AI Officer\]
 
-**3.** Has the board approved a documented risk appetite statement for AI, specifying what categories and levels of AI-related risk the organization is willing to accept?\* \[Owner: Board Risk Committee\]
+**3.** Has the board approved a documented risk appetite statement for AI, specifying what categories and levels of AI-related risk the organization is willing to accept? \[Owner: Board Risk Committee\]
 
-**4.** Is there a named executive who is accountable for the organization’s AI governance program, with that accountability reflected in their performance objectives and compensation structure?\* \[Owner: CEO / Board Compensation Committee\]
+**4.** Is there a named executive who is accountable for the organization’s AI governance program, with that accountability reflected in their performance objectives and compensation structure? \[Owner: CEO / Board Compensation Committee\]
 
-**5.** Has the organization established an expert oversight function, committee or role with the mandate, competence and access to oversee AI systems, including demonstrable influence on deployment decisions?\* \[Owner: Chief AI Officer / General Counsel\]
+**5.** Has the organization established an expert oversight function, committee or role with the mandate, competence and access to oversee AI systems, including demonstrable influence on deployment decisions? \[Owner: Chief AI Officer / General Counsel\]
 
-**6.** Are AI-related risks formally integrated into the enterprise risk management framework and reported to the board through the same risk governance mechanisms as other material risks?\* \[Owner: Chief Risk Officer\]
+**6.** Are AI-related risks formally integrated into the enterprise risk management framework and reported to the board through the same risk governance mechanisms as other material risks? \[Owner: Chief Risk Officer\]
 
-**7.** Has the board reviewed and approved the organization’s approach to AI regulatory compliance, including the jurisdictions in which its AI systems operate and the applicable legal obligations in each?\* \[Owner: General Counsel / Chief Compliance Officer\]
+**7.** Has the board reviewed and approved the organization’s approach to AI regulatory compliance, including the jurisdictions in which its AI systems operate and the applicable legal obligations in each? \[Owner: General Counsel / Chief Compliance Officer\]
 
-**8.** Is there a documented process by which the board receives notification of material AI incidents, regulatory inquiries or significant governance failures within a defined timeframe?\* \[Owner: General Counsel / Chief Risk Officer\]
+**8.** Is there a documented process by which the board receives notification of material AI incidents, regulatory inquiries or significant governance failures within a defined timeframe? \[Owner: General Counsel / Chief Risk Officer\]
 
-**9.** Has the organization allocated budget for its AI governance program as a named line item, reflecting the actual cost of the governance work the policy requires?\* \[Owner: CFO / Chief AI Officer\]
+**9.** Has the organization allocated budget for its AI governance program as a named line item, reflecting the actual cost of the governance work the policy requires? \[Owner: CFO / Chief AI Officer\]
 
-**10.** Has the board conducted or commissioned an independent assessment of the organization’s AI governance maturity in the past twenty-four months?\* \[Owner: Board Audit Committee\]
+**10.** Has the board conducted or commissioned an independent assessment of the organization’s AI governance maturity in the past twenty-four months? \[Owner: Board Audit Committee\]
 
 **Policy and Management System (Questions 11–20)**
 
-**11.** Does the organization maintain a documented AI policy that has been approved by top management, version-controlled and communicated to all relevant personnel?\* \[Owner: Chief AI Officer / General Counsel\]
+**11.** Does the organization maintain a documented AI policy that has been approved by top management, version-controlled and communicated to all relevant personnel? \[Owner: Chief AI Officer / General Counsel\]
 
-**12.** Does the organization maintain a centralized inventory of all AI systems including embedded AI features, with registration in the inventory required before deployment?\* \[Owner: Chief Technology Officer / Chief Risk Officer\]
+**12.** Does the organization maintain a centralized inventory of all AI systems including embedded AI features, with registration in the inventory required before deployment? \[Owner: Chief Technology Officer / Chief Risk Officer\]
 
-**13.** Has the organization documented a lifecycle management procedure for AI systems specifying the stages from concept through decommissioning, the accountability at each stage and the governance artifacts required before each stage-gate?\* \[Owner: Chief AI Officer\]
+**13.** Has the organization documented a lifecycle management procedure for AI systems specifying the stages from concept through decommissioning, the accountability at each stage and the governance artifacts required before each stage-gate? \[Owner: Chief AI Officer\]
 
-**14.** Does the organization’s AI management system align with ISO 42001 and NIST AI RMF requirements, and has that alignment been assessed by a qualified reviewer?\* \[Owner: Chief Compliance Officer / Chief Risk Officer\]
+**14.** Does the organization’s AI management system align with ISO 42001 and NIST AI RMF requirements, and has that alignment been assessed by a qualified reviewer? \[Owner: Chief Compliance Officer / Chief Risk Officer\]
 
-**15.** Are all personnel who interact with AI systems trained at a level appropriate to their role, with training records maintained and refresh cycles defined?\* \[Owner: Chief People Officer / Chief AI Officer\]
+**15.** Are all personnel who interact with AI systems trained at a level appropriate to their role, with training records maintained and refresh cycles defined? \[Owner: Chief People Officer / Chief AI Officer\]
 
-**16.** Does the organization have documented procedures for AI incident management, including definitions of what constitutes an AI-related incident, intake channels, triage, investigation, remediation and lessons learned?\* \[Owner: Chief Risk Officer / Chief Technology Officer\]
+**16.** Does the organization have documented procedures for AI incident management, including definitions of what constitutes an AI-related incident, intake channels, triage, investigation, remediation and lessons learned? \[Owner: Chief Risk Officer / Chief Technology Officer\]
 
-**17.** Does the organization have a documented change management procedure for AI systems that requires governance assessment and approval before material changes reach production?\* \[Owner: Chief Technology Officer / Chief AI Officer\]
+**17.** Does the organization have a documented change management procedure for AI systems that requires governance assessment and approval before material changes reach production? \[Owner: Chief Technology Officer / Chief AI Officer\]
 
-**18.** Does the organization have a documented decommissioning procedure for AI systems specifying data retention or deletion requirements, access revocation, user communication and post-mortem documentation?\* \[Owner: Chief Technology Officer / General Counsel\]
+**18.** Does the organization have a documented decommissioning procedure for AI systems specifying data retention or deletion requirements, access revocation, user communication and post-mortem documentation? \[Owner: Chief Technology Officer / General Counsel\]
 
-**19.** Are vendor and third-party AI providers subject to governance requirements equivalent to those applied internally, enforced through contractual obligations with audit rights?\* \[Owner: Chief Procurement Officer / General Counsel\]
+**19.** Are vendor and third-party AI providers subject to governance requirements equivalent to those applied internally, enforced through contractual obligations with audit rights? \[Owner: Chief Procurement Officer / General Counsel\]
 
-**20.** Does the organization conduct scheduled internal audits of its AI management system with documented findings, corrective actions and management review?\* \[Owner: Chief Audit Executive / Board Audit Committee\]
+**20.** Does the organization conduct scheduled internal audits of its AI management system with documented findings, corrective actions and management review? \[Owner: Chief Audit Executive / Board Audit Committee\]
 
 **Operations and Deployment (Questions 21–30)**
 
-**21.** Does every AI system in production have a pre-deployment specification documenting its authorized purpose, acceptance thresholds, action scope, data access boundaries, escalation conditions and oversight mode?\* \[Owner: Chief AI Officer / System Owner\]
+**21.** Does every AI system in production have a pre-deployment specification documenting its authorized purpose, acceptance thresholds, action scope, data access boundaries, escalation conditions and oversight mode? \[Owner: Chief AI Officer / System Owner\]
 
-**22.** Was the specification for each system in production completed and approved before the system began operating in production?\* \[Owner: Chief AI Officer / Chief Technology Officer\]
+**22.** Was the specification for each system in production completed and approved before the system began operating in production? \[Owner: Chief AI Officer / Chief Technology Officer\]
 
-**23.** Does the organization maintain real-time action logs for each AI system that are comprehensive enough to reconstruct what the system did, what data it accessed, what decisions it produced and what actions it took?\* \[Owner: Chief Technology Officer / System Owner\]
+**23.** Does the organization maintain real-time action logs for each AI system that are comprehensive enough to reconstruct what the system did, what data it accessed, what decisions it produced and what actions it took? \[Owner: Chief Technology Officer / System Owner\]
 
-**24.** Are the action logs for each AI system maintained in a form that cannot be modified by the system generating them, and are they accessible to independent reviewers?\* \[Owner: Chief Technology Officer / Chief Audit Executive\]
+**24.** Are the action logs for each AI system maintained in a form that cannot be modified by the system generating them, and are they accessible to independent reviewers? \[Owner: Chief Technology Officer / Chief Audit Executive\]
 
-**25.** Does the organization maintain exception reports for each AI system documenting out-of-scope conditions, escalation events and human interventions, and is the absence of exception reports treated as a finding requiring explanation?\* \[Owner: System Owner / Chief Risk Officer\]
+**25.** Does the organization maintain exception reports for each AI system documenting out-of-scope conditions, escalation events and human interventions, and is the absence of exception reports treated as a finding requiring explanation? \[Owner: System Owner / Chief Risk Officer\]
 
-**26.** Does each AI system deployment include an explicit Definition of Done specifying the criteria that determine when an authorized task is complete and the conditions under which the system should stop?\* \[Owner: System Owner / Chief AI Officer\]
+**26.** Does each AI system deployment include an explicit Definition of Done specifying the criteria that determine when an authorized task is complete and the conditions under which the system should stop? \[Owner: System Owner / Chief AI Officer\]
 
-**27.** Does the organization have a documented monitoring program for each AI system that compares current performance against the acceptance thresholds defined in the specification, at a defined cadence using a defined sampling methodology?\* \[Owner: Chief Risk Officer / System Owner\]
+**27.** Does the organization have a documented monitoring program for each AI system that compares current performance against the acceptance thresholds defined in the specification, at a defined cadence using a defined sampling methodology? \[Owner: Chief Risk Officer / System Owner\]
 
-**28.** Are monitoring results and sampling documentation maintained as governance records accessible to auditors, not merely as internal performance dashboards?\* \[Owner: Chief Risk Officer / Chief Audit Executive\]
+**28.** Are monitoring results and sampling documentation maintained as governance records accessible to auditors, not merely as internal performance dashboards? \[Owner: Chief Risk Officer / Chief Audit Executive\]
 
-**29.** Does the organization have documented re-validation triggers for each AI system specifying the conditions under which a full governance reassessment is required?\* \[Owner: Chief Risk Officer / System Owner\]
+**29.** Does the organization have documented re-validation triggers for each AI system specifying the conditions under which a full governance reassessment is required? \[Owner: Chief Risk Officer / System Owner\]
 
-**30.** Has each AI system in production been re-validated within the timeframe committed to in its governance documentation, and is the re-validation conclusion documented with the same rigor as the original assessment?\* \[Owner: Chief AI Officer / System Owner\]
+**30.** Has each AI system in production been re-validated within the timeframe committed to in its governance documentation, and is the re-validation conclusion documented with the same rigor as the original assessment? \[Owner: Chief AI Officer / System Owner\]
 
 **Evidence and Audit (Questions 31–40)**
 
-**31.** Is the organization’s AI governance evidence architecture designed to survive an EU AI Act market surveillance inquiry, an insurance claim, a civil litigation and an internal audit on any given day?\* \[Owner: General Counsel / Chief Audit Executive\]
+**31.** Is the organization’s AI governance evidence architecture designed to survive an EU AI Act market surveillance inquiry, an insurance claim, a civil litigation and an internal audit on any given day? \[Owner: General Counsel / Chief Audit Executive\]
 
-**32.** Does the organization have a documented audit scope framework for AI systems specifying what evidence categories are examined, what access rights the auditor requires and what independence standard applies?\* \[Owner: Chief Audit Executive / General Counsel\]
+**32.** Does the organization have a documented audit scope framework for AI systems specifying what evidence categories are examined, what access rights the auditor requires and what independence standard applies? \[Owner: Chief Audit Executive / General Counsel\]
 
-**33.** Are engagement letters for AI audit and assurance engagements drafted to explicitly exclude scope items the audit does not cover, prohibit certification language and define permitted use of the resulting report?\* \[Owner: General Counsel / Chief Audit Executive\]
+**33.** Are engagement letters for AI audit and assurance engagements drafted to explicitly exclude scope items the audit does not cover, prohibit certification language and define permitted use of the resulting report? \[Owner: General Counsel / Chief Audit Executive\]
 
-**34.** Does the organization’s AI assurance model follow the indirect engagement structure in which the organization prepares the subject matter information and the auditor provides independent assurance, with remediation support scoped separately?\* \[Owner: General Counsel / Chief Audit Executive\]
+**34.** Does the organization’s AI assurance model follow the indirect engagement structure in which the organization prepares the subject matter information and the auditor provides independent assurance, with remediation support scoped separately? \[Owner: General Counsel / Chief Audit Executive\]
 
-**35.** Do AI vendor contracts include explicit audit rights covering operational log access, testing and validation record access, personnel interview rights and advance change notification?\* \[Owner: General Counsel / Chief Procurement Officer\]
+**35.** Do AI vendor contracts include explicit audit rights covering operational log access, testing and validation record access, personnel interview rights and advance change notification? \[Owner: General Counsel / Chief Procurement Officer\]
 
-**36.** Does the organization’s TEVV documentation for each AI system in production constitute a validity argument rather than a test log, including prompting methodology, scenario selection rationale, qualitative-to-quantitative assessment approach, inter-rater reliability checks and conditions for revising validity statements?\* \[Owner: Chief AI Officer / System Owner\]
+**36.** Does the organization’s TEVV documentation for each AI system in production constitute a validity argument rather than a test log, including prompting methodology, scenario selection rationale, qualitative-to-quantitative assessment approach, inter-rater reliability checks and conditions for revising validity statements? \[Owner: Chief AI Officer / System Owner\]
 
-**37.** Is the organization’s sampling methodology for generative AI systems statistically defensible, with the acceptable error rate defined in the specification, sample sizes justified against that rate and subgroup analysis conducted for any system where differential performance creates differential harm?\* \[Owner: Chief AI Officer / Chief Risk Officer\]
+**37.** Is the organization’s sampling methodology for generative AI systems statistically defensible, with the acceptable error rate defined in the specification, sample sizes justified against that rate and subgroup analysis conducted for any system where differential performance creates differential harm? \[Owner: Chief AI Officer / Chief Risk Officer\]
 
-**38.** Does the organization’s adversarial testing program draw on established threat taxonomies including the OWASP Top 10 for Large Language Model Applications, the OWASP Top 10 for Agentic AI Applications and the MITRE ATLAS framework, and is the testing conducted by personnel independent of the development team?\* \[Owner: Chief Technology Officer / Chief Audit Executive\]
+**38.** Does the organization’s adversarial testing program draw on established threat taxonomies including the OWASP Top 10 for Large Language Model Applications, the OWASP Top 10 for Agentic AI Applications and the MITRE ATLAS framework, and is the testing conducted by personnel independent of the development team? \[Owner: Chief Technology Officer / Chief Audit Executive\]
 
-**39.** Does the organization maintain an ecosystem of assurance that covers certification, independent audit, insurance, regulatory compliance and enterprise client due diligence requirements, with each relationship governed by a contract that allocates risk and forces explicit statement of expectations?\* \[Owner: General Counsel / Chief Risk Officer\]
+**39.** Does the organization maintain an ecosystem of assurance that covers certification, independent audit, insurance, regulatory compliance and enterprise client due diligence requirements, with each relationship governed by a contract that allocates risk and forces explicit statement of expectations? \[Owner: General Counsel / Chief Risk Officer\]
 
-**40.** Does the organization’s ForHumanity CORE assessment, or equivalent organizational governance baseline, confirm that the twenty Governance, Oversight and Accountability pillars are in place as a precondition for system-level certification and audit?\* \[Owner: Chief AI Officer / Board Audit Committee\]
+**40.** Does the organization’s ForHumanity CORE assessment, or equivalent organizational governance baseline, confirm that the twenty Governance, Oversight and Accountability pillars are in place as a precondition for system-level certification and audit? \[Owner: Chief AI Officer / Board Audit Committee\]
 
 **Fairness and Non-Discrimination (Questions 41–50)**
 
 The fairness cluster is the final and in some jurisdictions the most immediately enforceable section of the Punchlist. NYC Local Law 144, which requires an independent bias audit before an employer may use an automated employment decision tool affecting candidates or employees in New York City, is among the most specific employment AI fairness obligations currently in force. The New York State Comptroller’s audit dated December 2, 2025 criticized NYC enforcement of Local Law 144 as ineffective and found specific weaknesses in the quality of bias audits and the adequacy of independence documentation. The Comptroller’s finding applies across the governance landscape, not only to employment AI: do not rely on low enforcement to justify weak workpapers. The regulator’s posture shifts. The audit record does not.
 
-**41.** Has the organization identified every AI system it uses in employment, lending, insurance, healthcare, housing or other high-stakes contexts where fairness and non-discrimination obligations apply under applicable law?\* \[Owner: General Counsel / Chief Compliance Officer\]
+**41.** Has the organization identified every AI system it uses in employment, lending, insurance, healthcare, housing or other high-stakes contexts where fairness and non-discrimination obligations apply under applicable law? \[Owner: General Counsel / Chief Compliance Officer\]
 
-**42.** Has each such system been assessed for disparate impact across protected characteristics including race, ethnicity, gender, age, disability and other categories specified by applicable law, using a methodology adequate for the deployment context?\* \[Owner: Chief AI Officer / Chief Compliance Officer\]
+**42.** Has each such system been assessed for disparate impact across protected characteristics including race, ethnicity, gender, age, disability and other categories specified by applicable law, using a methodology adequate for the deployment context? \[Owner: Chief AI Officer / Chief Compliance Officer\]
 
-**43.** Is the fairness assessment for each such system conducted by a person or organization independent of the system’s development and deployment team, with independence documented?\* \[Owner: Chief Audit Executive / General Counsel\]
+**43.** Is the fairness assessment for each such system conducted by a person or organization independent of the system’s development and deployment team, with independence documented? \[Owner: Chief Audit Executive / General Counsel\]
 
-**44.** Does the fairness assessment documentation constitute audit-grade evidence, including the dataset used, its sources, inclusion and exclusion criteria, transformations and known limitations, with a named data owner and written sign-off?\* \[Owner: Chief AI Officer / Chief Data Officer\]
+**44.** Does the fairness assessment documentation constitute audit-grade evidence, including the dataset used, its sources, inclusion and exclusion criteria, transformations and known limitations, with a named data owner and written sign-off? \[Owner: Chief AI Officer / Chief Data Officer\]
 
-**45.** Are the fairness assessment results documented in a form that can support required public postings, regulatory inquiries and litigation without modification or supplementation after the fact?\* \[Owner: General Counsel / Chief Compliance Officer\]
+**45.** Are the fairness assessment results documented in a form that can support required public postings, regulatory inquiries and litigation without modification or supplementation after the fact? \[Owner: General Counsel / Chief Compliance Officer\]
 
-**46.** Does the organization have a documented process for acting on fairness assessment findings, including thresholds for adjustment or discontinuation of a system where disparate impact cannot be adequately remediated?\* \[Owner: Chief AI Officer / Chief Compliance Officer\]
+**46.** Does the organization have a documented process for acting on fairness assessment findings, including thresholds for adjustment or discontinuation of a system where disparate impact cannot be adequately remediated? \[Owner: Chief AI Officer / Chief Compliance Officer\]
 
-**47.** Is the fairness assessment for each system refreshed at least annually before use, and is the refresh cadence documented and owned by a named person?\* \[Owner: Chief AI Officer / Chief Compliance Officer\]
+**47.** Is the fairness assessment for each system refreshed at least annually before use, and is the refresh cadence documented and owned by a named person? \[Owner: Chief AI Officer / Chief Compliance Officer\]
 
-**48.** Does the organization’s training data for systems used in high-stakes decisions include documentation of provenance, quality checks, representativeness assessment and known bias risks, with those limitations reflected in the acceptance threshold for the system?\* \[Owner: Chief Data Officer / Chief AI Officer\]
+**48.** Does the organization’s training data for systems used in high-stakes decisions include documentation of provenance, quality checks, representativeness assessment and known bias risks, with those limitations reflected in the acceptance threshold for the system? \[Owner: Chief Data Officer / Chief AI Officer\]
 
-**49.** Has the organization assessed the deployment context of each system used in high-stakes decisions for conditions that could produce disparate impact even where the system itself passes fairness metrics, including differences between the deployment population and the training population?\* \[Owner: Chief AI Officer / Chief Risk Officer\]
+**49.** Has the organization assessed the deployment context of each system used in high-stakes decisions for conditions that could produce disparate impact even where the system itself passes fairness metrics, including differences between the deployment population and the training population? \[Owner: Chief AI Officer / Chief Risk Officer\]
 
-**50.** Is the organization’s approach to AI fairness subject to ongoing board-level oversight, with fairness-related incidents, regulatory developments and assessment results reported through the same governance channels as other material compliance matters?\* \[Owner: Board Risk Committee / General Counsel\]
+**50.** Is the organization’s approach to AI fairness subject to ongoing board-level oversight, with fairness-related incidents, regulatory developments and assessment results reported through the same governance channels as other material compliance matters? \[Owner: Board Risk Committee / General Counsel\]
 
 ## The Governance Test Is Not the Punchlist
 

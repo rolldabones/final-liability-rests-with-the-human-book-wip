@@ -15,8 +15,6 @@ The doctrine reduces the question of governance to two operational tests.
 
 - Continuity. On a bad day, can each critical service stay within its impact tolerance through the execution of the right switches at the right time?
 
-<!-- -->
-
 - Portability. If the dependency that caused the blast radius is concentrated, can the organization execute an exit plan without breaching tolerance?
 
 These tests matter because modern organizations are built on dense dependency graphs. The largest disruptions tend to come from a small number of shared pipes: a cloud region, an identity provider, a payment rail, a messaging backbone, a specialized SaaS, an outsourced operations center, a single AI model provider. When those pipes fail, policies do not restore service. Switches and exits do.
@@ -27,7 +25,7 @@ GRCnext™ does not replace security, privacy, resiliency engineering or vendor 
 
 ## L.2 Primitives
 
-GRCnext™ breaks the problem of optionality into a small set of primitives. Each primitive is concrete, testable and evidence-bearing.
+GRCnext™ breaks the problem of optionality into five primitives, set out in L.2.1 to L.2.5. Each primitive is concrete, testable and evidence-bearing. L.2.6 sets out the evidence posture that runs across all five; it is not itself a primitive.
 
 ### L.2.1 Services
 
@@ -61,27 +59,15 @@ The value of GRCnext™ shows up under pressure. The doctrine identifies common 
 
 - Unowned services. No accountable decision maker. Delayed calls. Inconsistent communications.
 
-<!-- -->
-
 - Tolerances without maps. Leaders know the deadline but teams do not know the breakpoints.
-
-<!-- -->
 
 - Maps without authority. Teams know what to do but cannot legally or procedurally execute fast enough.
 
-<!-- -->
-
 - Runbooks without drills. The plan fails on day zero because it was never exercised.
-
-<!-- -->
 
 - Contract rights without portability. The organization can terminate but cannot move data or integrations in time.
 
-<!-- -->
-
 - Hidden concentration. Shared providers amplify outages across multiple services.
-
-<!-- -->
 
 - Evidence gaps. Controls cannot be proven, audits fail and learning does not compound.
 
@@ -91,19 +77,11 @@ A severe-but-plausible scenario is realistic enough to expose true dependencies 
 
 - Cloud region impairment. First to break: identity refresh or messaging backbone tied to the affected region. Switches: failover, reroute, degrade noncritical features. Exit pressure point: region exit plan or multi-region design for top tolerances.
 
-<!-- -->
-
 - Identity provider outage. First to break: login, token refresh, administrative access. Switches: emergency access, alternate authentication path, manual approvals. Exit pressure point: provider portability, token format and directory federation.
-
-<!-- -->
 
 - Vendor SaaS repeated incidents. First to break: support, billing, HR workflows, audit evidence sources. Switches: manual fallback, queue reroute, feature disable. Exit pressure point: data export, API parity, termination assistance terms.
 
-<!-- -->
-
 - Regulatory constraint change. First to break: cross-border flows or subprocessor restrictions. Switches: traffic pinning, localization, disable analytics. Exit pressure point: jurisdictional exit, subprocessor swap, data residency options.
-
-<!-- -->
 
 - AI model safety regression. First to break: incorrect decisions or unsafe outputs. Switches: disable model, route to rules-based fallback, tighten filters. Exit pressure point: model vendor swap, decommission plan, fallback model warm-pool.
 
@@ -117,19 +95,11 @@ GRCnext™ translates the concept into a practical operating model. The maturity
 
 - L0 Unowned. No named critical services, no owners, no tolerances. Work is reactive and hard to audit.
 
-<!-- -->
-
 - L1 Owned. Critical services and owners exist. Draft tolerances exist. Limited mapping and weak evidence.
-
-<!-- -->
 
 - L2 Mapped. Service dossiers for top services exist. Dependency maps exist. Material providers are linked to services.
 
-<!-- -->
-
 - L3 Exercised. Delegated switches exist. At least one severe-but-plausible exercise has been executed with an evidence pack and CAPA closure.
-
-<!-- -->
 
 - L4 Instrumented. Metrics support detect, decide and execute within tolerance. Periodic exit drills occur. CAPA closure is routine.
 
@@ -139,19 +109,11 @@ GRCnext™ uses pass and fail gates that prevent false confidence. If any gate f
 
 - Impact tolerances exist for critical services.
 
-<!-- -->
-
 - Dependency maps exist for critical services.
-
-<!-- -->
 
 - Delegated switch authority exists, not only runbooks.
 
-<!-- -->
-
 - At least one executable exit plan exists for the top concentration dependency.
-
-<!-- -->
 
 - At least one executed severe-but-plausible exercise exists with an evidence pack.
 
@@ -161,27 +123,15 @@ A common failure is trying to map everything. GRCnext™ starts narrow and compo
 
 - Name the top five critical services and assign role-based owners.
 
-<!-- -->
-
 - Write a time-based impact tolerance for each service. Distinguish down and degraded where the distinction matters.
-
-<!-- -->
 
 - Build a dependency map for each service, including third parties, regions and key data flows.
 
-<!-- -->
-
 - Identify the top concentration dependency per service. Choose the single most dangerous one as the first exit target.
-
-<!-- -->
 
 - Create a small switch catalog: the five to ten moves that keep services within tolerance. Add delegated authority.
 
-<!-- -->
-
 - Write one executable exit plan for the first exit target, including data portability steps and timing.
-
-<!-- -->
 
 - Run one severe-but-plausible exercise that forces the switches. Capture an evidence pack. Open and close CAPA items.
 
@@ -221,47 +171,25 @@ An Evidence Pack is a structured folder or record that makes execution auditable
 
 - Exercise or incident identifier, date, scope, services in scope.
 
-<!-- -->
-
 - Service dossiers referenced, with versions.
-
-<!-- -->
 
 - Scenario description, inject timeline and pass criteria tied to tolerances.
 
-<!-- -->
-
 - Decision log: who decided what, when, under which delegated authority.
-
-<!-- -->
 
 - Switch execution artifacts: runbook steps, automation logs, change tickets.
 
-<!-- -->
-
 - Observability artifacts: metrics, alerts, dashboards used to detect and confirm recovery.
-
-<!-- -->
 
 - Communications: internal updates, external notices, customer impact statements.
 
-<!-- -->
-
 - Third-party coordination: vendor tickets, status pages captured, escalation records.
-
-<!-- -->
 
 - Data artifacts where relevant: export logs, restore logs, deletion confirmations.
 
-<!-- -->
-
 - Outcome summary: tolerance met yes or no per service, time-to-decision, time-to-execution.
 
-<!-- -->
-
 - CAPA register: breakpoints, root causes, owners, due dates, closure evidence.
-
-<!-- -->
 
 - Approvals and sign-off for closing the exercise or incident record.
 
@@ -275,11 +203,7 @@ This minimal binary-friendly questionnaire establishes whether the program can p
 
 - Is there a critical services register, with at least the top five named?
 
-<!-- -->
-
 - Does each service have a role-based owner accountable for tolerance and decisions?
-
-<!-- -->
 
 - Are customers and jurisdictions recorded per service?
 
@@ -287,11 +211,7 @@ This minimal binary-friendly questionnaire establishes whether the program can p
 
 - Is there a time-based impact tolerance for each critical service?
 
-<!-- -->
-
 - Do tolerances distinguish down and degraded states where the distinction matters?
-
-<!-- -->
 
 - Are tolerances approved by the business owner?
 
@@ -299,11 +219,7 @@ This minimal binary-friendly questionnaire establishes whether the program can p
 
 - Does each critical service have an end-to-end dependency map including third parties?
 
-<!-- -->
-
 - Do the maps identify regions, key data stores and identity paths?
-
-<!-- -->
 
 - Is there a top concentration list (top ten vendors, regions, products, datasets) tied back to services?
 
@@ -311,11 +227,7 @@ This minimal binary-friendly questionnaire establishes whether the program can p
 
 - Is there a switch catalog for critical services?
 
-<!-- -->
-
 - Is delegated authority documented for executing high-impact switches such as failover, disable and reroute?
-
-<!-- -->
 
 - Are communications and evidence capture steps embedded in runbooks?
 
@@ -323,11 +235,7 @@ This minimal binary-friendly questionnaire establishes whether the program can p
 
 - Is there an executable exit plan for the top concentration dependency of at least one critical service?
 
-<!-- -->
-
 - Does the exit plan include data portability steps, deletion, integration changes and timing?
-
-<!-- -->
 
 - Has any slice of the exit been rehearsed (export and restore sample, smoke test, documented result)?
 
@@ -335,11 +243,7 @@ This minimal binary-friendly questionnaire establishes whether the program can p
 
 - Has at least one severe-but-plausible exercise been executed in the last twelve months?
 
-<!-- -->
-
 - Was an evidence pack produced that an auditor could follow end-to-end?
-
-<!-- -->
 
 - Are CAPA items tracked and closed with evidence?
 
