@@ -31,9 +31,9 @@ Derived from [Final_Liability_Rests_with_the_Human.md](../Final_Liability_Rests_
 | 25 | [CONCLUSION](24-conclusion.md) | 9 |
 | 26 | [EPILOGUE](25-epilogue.md) | 14 |
 | 27 | [APPENDICES · APPENDIX D: The Assumption Register: Working Template](26-appendix-d-the-assumption-register-working-template.md) | 21 |
-| 28 | [APPENDIX E: The Agent Registry: Working Template](27-appendix-e-the-agent-registry-working-template.md) | 27 |
-| 29 | [APPENDIX F: Fundamental Rights Impact Assessment (FRIA): Working Template](28-appendix-f-fundamental-rights-impact-assessment-fria.md) | 78 |
-| 30 | [APPENDIX H: Why Slow AI?](29-appendix-h-why-slow-ai.md) | 33 |
+| 28 | [APPENDIX E: The Agent Registry: Working Template](27-appendix-e-the-agent-registry-working-template.md) | 28 |
+| 29 | [APPENDIX F: Fundamental Rights Impact Assessment (FRIA): Working Template](28-appendix-f-fundamental-rights-impact-assessment-fria.md) | 79 |
+| 30 | [APPENDIX H: Why Slow AI?](29-appendix-h-why-slow-ai.md) | 32 |
 | 31 | [APPENDIX K: General-Purpose AI Risk Management: Adopter’s Checklist](30-appendix-k-general-purpose-ai-risk-management-adopter-s.md) | 7 |
 | 32 | [APPENDIX L: GRCnext™: Optionality as Executable Governance](31-appendix-l-grcnext-optionality-as-executable-governance.md) | 16 |
 

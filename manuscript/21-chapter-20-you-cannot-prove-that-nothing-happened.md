@@ -35,7 +35,7 @@ Under GDPR Article 5(2), the accountability principle requires the data controll
 
 The EU AI Act follows the same structural logic. It imposes documentation, logging and monitoring obligations on providers and deployers of high-risk AI systems that mirror the accountability architecture of the GDPR. The organization must produce records demonstrating that the system is operating within its intended parameters. It cannot wait for a complaint and then investigate. The evidence must already exist.
 
-Privacy enforcement also illustrates what happens when the pipeline is absent. The largest regulatory penalties under the GDPR have not typically been imposed for dramatic security failures. They have been imposed for failures of documentation, failures of process, failures to demonstrate that the organization was doing what it claimed. The absence of the pipeline is itself the violation. AI governance is converging on the same enforcement posture, and organizations that treat documentation as an afterthought are assembling the conditions for a finding they cannot later reverse.
+Privacy enforcement also illustrates what happens when the pipeline is absent. In the author’s reading, GDPR penalties have not typically been imposed for dramatic security failures. They have been imposed for failures of documentation, failures of process, failures to demonstrate that the organization was doing what it claimed. The absence of the pipeline is itself the violation. AI governance is converging on the same enforcement posture, and organizations that treat documentation as an afterthought are assembling the conditions for a finding they cannot later reverse.
 
 ## The Impossibility Theorem and What It Means for Evidence
 

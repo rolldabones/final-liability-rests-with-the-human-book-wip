@@ -21,7 +21,7 @@ Final Liability is not delegation reversed. The General Counsel does not unilate
 
 Final Liability is not a board insurance policy. It does not exempt directors and officers from their fiduciary obligations, although it interacts with those obligations in important ways. It does not transfer risk to a single named individual who can then carry the loss. It does not function as an indemnity.
 
-What Final Liability is, operationally, is the answer to a specific question: when the regulator, the auditor, the litigant or the Client asks who authorized this, who knew, who could have stopped it and who is responsible for what happened next, can the organization produce a name with the documented authority, the documented knowledge and the documented capability to have prevented or corrected the outcome.
+What Final Liability is, operationally, is the answer to a specific question: when the regulator, the auditor, the litigant or the Client asks who authorized this, who knew, who could have stopped it and who is responsible for what happened next, can the organization produce a named human owner with decision rights, oversight and the power to intervene, documented before the outcome occurred.
 
 If yes, the organization has governance. The doctrine of Final Liability is the discipline that produces that yes.
 
@@ -69,7 +69,7 @@ This is the operational kicker of Final Liability. It is short because the doctr
 
 ## What Final Liability Looks Like in Operation
 
-In operation, Final Liability is a documented practice. It is not a position chart. It is not a slide in a board presentation. It is the reproducible answer to the name-the-human test for every deployed AI system, supported by the evidence that the named human had the authority, the knowledge and the capability the test requires.
+In operation, Final Liability is a documented practice. It is not a position chart. It is not a slide in a board presentation. It is the reproducible answer to the name-the-human test for every deployed AI system, supported by the evidence that the named human held decision rights, oversight and the power to intervene.
 
 The practice has four components. The first is the named human, identified by role and by current incumbent, with the authority to sign for the deployment in operational terms. The second is the documented evidence that the named human knew what they were signing for, satisfied through the Informed Intent doctrine developed in Chapter 9. The third is the operational capability to stop, redirect or correct the deployment, satisfied through the Slow AI doctrine and the agent registry developed in Part III. The fourth is the evidence pipeline that records the deployment, the decisions, the exceptions and the corrections in a form that survives the named human leaving the role.
 

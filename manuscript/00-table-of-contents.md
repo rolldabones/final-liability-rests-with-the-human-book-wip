@@ -85,9 +85,9 @@ On Economics, Sufficiency and the Human Declaration
 
 Appendix D: The Assumption Register: Working Template
 
-Appendix E: The Agent Registry Template
+Appendix E: The Agent Registry: Working Template
 
-Appendix F: Fundamental Rights Impact Assessment (FRIA), Working Template
+Appendix F: Fundamental Rights Impact Assessment (FRIA): Working Template
 
 Appendix H: Why Slow AI?
 
@@ -95,7 +95,7 @@ Appendix I: AI Audit and Due Diligence Checklist (current version) (separate fil
 
 Appendix J: AI GRC Master Reference (current version) (separate file)
 
-Appendix K: Berkeley Adopter’s Checklist
+Appendix K: General-Purpose AI Risk Management: Adopter’s Checklist
 
 Appendix L: GRCnext™: Optionality as Executable Governance
 
