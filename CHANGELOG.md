@@ -2,6 +2,11 @@
 
 All notable changes to this repository are documented here. Versioning follows [Semantic Versioning](https://semver.org/). The README and this file version in lockstep; prior versions are superseded, never silently overwritten.
 
+## v1.9.1 (2026-10-20)
+
+- LICENSE: two defects against the Creative Commons legal code corrected (the space in 'ShareAlike. In'; the CC0 sentence of the closing notice). Operative terms unchanged.
+- README masthead, How to Cite and `CITATION.cff` to v1.9.1 in lockstep.
+
 ## v1.9.0 (2026-10-18)
 
 The two monoliths, book half: session T8 of the whole-account review of 15 October 2026 (KST) (doc section 7; reviewer reports 05 and 06), under rulings 1 and 3 of 15 October 2026. Structure for both appendix instruments; three classes of correction in the manuscript and nothing else in it.
