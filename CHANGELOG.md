@@ -2,6 +2,15 @@
 
 All notable changes to this repository are documented here. Versioning follows [Semantic Versioning](https://semver.org/). The README and this file version in lockstep; prior versions are superseded, never silently overwritten.
 
+## v1.10.0 (2026-10-31)
+
+Manuscript release (minor), 31 October 2026 (KST), on Michael Paik's instruction of the same day to revise the Conclusion to the thinking set out in *The Artificial Familiar* (AI Governance Academy v1.15.0, 30 October 2026). Prepared with Claude, approved by Michael Paik. No appendix instrument changes.
+
+### Changed
+- `Final_Liability_Rests_with_the_Human.md`, Conclusion, "The Workshop" and "Lamp, Bench, Seal". **Change of view, recorded in the text.** The Conclusion called the homunculus "the right figure for the agent"; it now says that the author first took it so, that his thinking on agentic AI has moved and why (the homunculus invites the question of resemblance, and agents that plan and call tools make that mistake easier and more expensive), and it makes the familiar the figure for the agent: commissioned for a purpose on stated terms, kept small enough to be owned and sent away when the work is done. *The Artificial Familiar* is cited, with its link, as where that thinking now lives. The three stations, the lamp and the first seal now name the familiar; the second seal reads "A familiar answers to the name its keeper gave it; the seal carries the keeper’s own." **Correction:** "The oldest dream of making a mind is the homunculus" is replaced, because older made beings exist (the bronze guardian of Crete, the clay man of the Talmud); the passage now places the alchemist's homunculus among them. The workshop image keeps the clerk-engine and its key and drops the "soot-smudged fingers" and "labors" language, in line with the piece's premise that AI is not anthropomorphized. Doctrine unchanged; the lamp, bench and seal and every other passage of the Conclusion unchanged.
+- `manuscript/24-conclusion.md` carries the same text, so the derived parts still rebuild the source of record byte for byte; `manuscript/README.md` gives the part's size as 10 KB.
+- README masthead, How to Cite and `CITATION.cff` to v1.10.0 in lockstep.
+
 ## v1.9.2 (2026-10-20)
 
 Corrections release (patch), 20 October 2026 (KST). Independent review of 20 October 2026; changes made with Claude, approved by Michael Paik. Both appendix instruments are reissued under new version numbers rather than edited in place; the manuscript is corrected in place, as the file of record.

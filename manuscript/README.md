@@ -28,7 +28,7 @@ Derived from [Final_Liability_Rests_with_the_Human.md](../Final_Liability_Rests_
 | 22 | [CHAPTER 20: You Cannot Prove That Nothing Happened](21-chapter-20-you-cannot-prove-that-nothing-happened.md) | 25 |
 | 23 | [CHAPTER 21: Audit-Grade Evidence in the Agentic Environment](22-chapter-21-audit-grade-evidence-in-the-agentic-environment.md) | 68 |
 | 24 | [PART VI: THE GOVERNANCE TEST · CHAPTER 22: The Governance Test: A Punchlist for the Boardroom](23-chapter-22-the-governance-test-a-punchlist-for-the-boardroom.md) | 32 |
-| 25 | [CONCLUSION](24-conclusion.md) | 9 |
+| 25 | [CONCLUSION](24-conclusion.md) | 10 |
 | 26 | [EPILOGUE](25-epilogue.md) | 14 |
 | 27 | [APPENDICES · APPENDIX D: The Assumption Register: Working Template](26-appendix-d-the-assumption-register-working-template.md) | 21 |
 | 28 | [APPENDIX E: The Agent Registry: Working Template](27-appendix-e-the-agent-registry-working-template.md) | 28 |
