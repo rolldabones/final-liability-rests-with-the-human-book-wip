@@ -2,6 +2,10 @@
 
 All notable changes to this repository are documented here. Versioning follows [Semantic Versioning](https://semver.org/). The README and this file version in lockstep; prior versions are superseded, never silently overwritten.
 
+## v1.11.1 (2026-11-02)
+
+Patch release. `AI_Audit_Due_Diligence_Checklist_v5_2.md`, "IDs and Master Reference Parts": the link to the Master Reference still named `AI_GRC_Master_Reference_v7_12.md`, which v1.11.0 removed; it names `AI_GRC_Master_Reference_v7_13.md`, and the v5.2.0 amendment note says so. Found by the account's sweep gate (B2 HIGH) after the v1.11.0 release, where the pre-release check had passed because the old file was still present. README masthead, How to Cite and `CITATION.cff` to v1.11.1. Prepared with Claude, approved by Michael Paik.
+
 ## v1.11.0 (2026-11-02)
 
 Minor release, 2 November 2026 (KST): train B of the improvement rotation (whole-account review of 24 October 2026, reader report 02), on Michael Paik's approval of the drafted text the same day. Prepared with Claude, approved by Michael Paik.
