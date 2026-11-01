@@ -109,7 +109,7 @@ The questions below are organized by governance layer: board and leadership, pol
 
 **Operations and Deployment (Questions 21–30)**
 
-**21.** Does every AI system in production have a pre-deployment specification documenting its authorized purpose, acceptance thresholds, action scope, data access boundaries, escalation conditions and oversight mode? \[Owner: Chief AI Officer / System Owner\]
+**21.** Does every AI system in production have a pre-deployment specification documenting its authorized purpose, acceptance thresholds, action scope, data access boundaries, escalation conditions, oversight mode and exit (who may withdraw it, on what trigger and to what fallback)? \[Owner: Chief AI Officer / System Owner\]
 
 **22.** Was the specification for each system in production completed and approved before the system began operating in production? \[Owner: Chief AI Officer / Chief Technology Officer\]
 

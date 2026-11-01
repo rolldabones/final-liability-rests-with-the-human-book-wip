@@ -2,6 +2,25 @@
 
 All notable changes to this repository are documented here. Versioning follows [Semantic Versioning](https://semver.org/). The README and this file version in lockstep; prior versions are superseded, never silently overwritten.
 
+## v1.11.0 (2026-11-02)
+
+Minor release, 2 November 2026 (KST): train B of the improvement rotation (whole-account review of 24 October 2026, reader report 02), on Michael Paik's approval of the drafted text the same day. Prepared with Claude, approved by Michael Paik.
+
+### Manuscript
+- **Three doctrines.** Introduction: "It has two anchoring principles" reads "It rests on three doctrines, and two of them anchor it", and the paragraph closes with one sentence naming Informed Intent in the DOCTRINE.md section 8 sentence form and pointing to Chapter 9. Chapter 9: "the two doctrines at the center of this book" reads "the first two of the three doctrines at the center of this book"; the gap argument that follows is unchanged.
+- **One five-condition test, end to end (Chapter 9).** The paragraph naming the five authorizer conditions places the competence to understand under Knowledge, as DOCTRINE.md section 2 does, not under Authority, and states Evidence as the account, its testing and the residual risk in the record. The audit paragraph and the "Informed Intent breaks this pattern" paragraph, which had named three conditions, now name all five.
+- **The exit.** The pre-deployment specification (Chapter 9), the principal's written commitment (Chapter 11) and Punchlist item 21 (Chapter 22) add exit to the specification's elements: who may withdraw the system, on what trigger and to what fallback (DOCTRINE.md section 2: "An authorization missing its exit is not an authorization; it is a hope").
+- `manuscript/` regenerated with `split_markdown.py` at the 240,000-byte ceiling: same 32 part names, four parts change in text, verified to rebuild the manuscript byte for byte (822,260 bytes).
+
+### Instruments
+- `AI_GRC_Master_Reference_v7_12.md` reissued as `AI_GRC_Master_Reference_v7_13.md`. Part 12, Colorado: the entry names the statutory allocation of liability beside the disclosure regime and says "no new private right of action"; a paragraph states C.R.S. 6-1-1707 (1), (2), (4), (5), (6) and (7)(a) to (d), read from SB 26-189 as finally passed on leg.colorado.gov on 2 November 2026 (KST), with the practical consequence for own-acts indemnities in developer-deployer contracts. Dated amendment note, Version 7.13. `master-reference/` regenerated at the 60,000-byte ceiling: six parts, the first renamed for the new version, verified to rebuild the source byte for byte (264,597 bytes).
+- `AI_Audit_Due_Diligence_Checklist_v5_1.md` reissued as `AI_Audit_Due_Diligence_Checklist_v5_2.md`: ID 1.28 added on Michael Paik's express ruling of 2 November 2026, which reopens the no-further-additions rule for this row alone (developer-deployer contracts against 6-1-1707 and the deployer's uses against the developer's intended-use documentation, Master Reference Part 12); question count 198 to 199; synchronized with the Master Reference v7.13; dated amendment note, v5.2.0.
+- Removed, per the convention that superseded versioned instruments are deleted: `AI_GRC_Master_Reference_v7_12.md`, `AI_Audit_Due_Diligence_Checklist_v5_1.md` and the superseded first `master-reference/` part; prior versions remain in the tag chain.
+- Not reproduced and not changed: the review's Article 111(2) item (no grandfathering passage in the manuscript, the Master Reference or the Checklist at v1.10.0); the Master Reference "triad" line, which already names all three doctrines.
+
+### Lockstep
+- README masthead, the instruments paragraph (new filenames, 199 questions, the accuracy note) and How to Cite, and `CITATION.cff`, to v1.11.0.
+
 ## v1.10.0 (2026-10-31)
 
 Manuscript release (minor), 31 October 2026 (KST), on Michael Paik's instruction of the same day to revise the Conclusion to the thinking set out in *The Artificial Familiar* (AI Governance Academy v1.15.0, 30 October 2026). Prepared with Claude, approved by Michael Paik. No appendix instrument changes.
