@@ -2,6 +2,11 @@
 
 All notable changes to this repository are documented here. Versioning follows [Semantic Versioning](https://semver.org/). The README and this file version in lockstep; prior versions are superseded, never silently overwritten.
 
+## v1.11.2 (2026-11-03)
+
+- README, A note on accuracy: the reissue history, one 413-word paragraph, becomes a table of dates, changes and issues between an opening paragraph (the EU AI Act status as re-checked on 30 July 2026) and a closing one (amendment notes, Unknown and counsel flags, not legal advice). No claim changed; "an independent review" for 20 October 2026 reads as the change it made. The manuscript and the instruments are unchanged byte for byte.
+- README and `CITATION.cff` to v1.11.2. Train C of the improvement rotation (review of 24 October 2026). Prepared with Claude, approved by Michael Paik.
+
 ## v1.11.1 (2026-11-02)
 
 Patch release. `AI_Audit_Due_Diligence_Checklist_v5_2.md`, "IDs and Master Reference Parts": the link to the Master Reference still named `AI_GRC_Master_Reference_v7_12.md`, which v1.11.0 removed; it names `AI_GRC_Master_Reference_v7_13.md`, and the v5.2.0 amendment note says so. Found by the account's sweep gate (B2 HIGH) after the v1.11.0 release, where the pre-release check had passed because the old file was still present. README masthead, How to Cite and `CITATION.cff` to v1.11.1. Prepared with Claude, approved by Michael Paik.
