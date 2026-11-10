@@ -29,7 +29,7 @@ Slow AI is a satisficing discipline. It does not ask what is the maximum this sy
 
 ## The Bliss Point and the Middle Way
 
-Economics has a concept for the optimal level of a good: the bliss point. It is the consumption bundle at which utility is maximized, the point beyond which more of something makes you worse off rather than better. The concept originated in economics and was later applied to food formulation, the precise combination of salt, sugar and fat at which pleasure peaks before tipping into aversion. But it extends to any domain where more is not always better. It is the natural limit that optimization ignores at its peril.
+Economics has a concept for the optimal level of a good: the bliss point. It is the consumption bundle at which utility is maximized, the point beyond which more of something makes you worse off rather than better. Food science has its own bliss point, a term associated with the psychophysicist Howard Moskowitz: the level of an ingredient such as sugar, salt or fat at which sensory pleasure peaks. But it extends to any domain where more is not always better. It is the natural limit that optimization ignores at its peril.
 
 The Buddha understood this as the Middle Way. Between the extreme of indulgence and the extreme of deprivation lies a path of disciplined sufficiency, the recognition that enough is a real destination and that the craving for more beyond that point produces not satisfaction but its diminishment. The second noble truth holds that suffering arises from craving, from the insistence on more, from the refusal to accept that a legitimate stopping point exists. The bliss point is the economic expression of that teaching.
 
@@ -55,7 +55,7 @@ AI will not save us or destroy us. It will reveal us. It will expose the quality
 
 ## The Definition of Done
 
-Every methodology needs a stopping condition. In the agile tradition, it is called the Definition of Done: the explicit, agreed criteria that determine when a task is complete. Without it, work expands indefinitely. Quality standards drift. Accountability dissolves because nobody ever declared the thing finished. The Definition of Done is not a concession to imperfection. It is a governance instrument. It forces the question that most organizations avoid: not can we do more, but is this enough, and who says so.
+Every methodology needs a stopping condition. In the agile tradition, it is called the Definition of Done: in Scrum, a formal description of the quality standards the Increment must meet before work counts as complete. Without it, work expands indefinitely. Quality standards drift. Accountability dissolves because nobody ever declared the thing finished. The Definition of Done is not a concession to imperfection. It is a governance instrument. It forces the question that most organizations avoid: not can we do more, but is this enough, and who says so.
 
 Good enough is good enough. Not mediocrity. Not the absence of standards. The disciplined recognition that sufficiency is a real destination and that the pursuit of perfect is often the enemy of the governed. Simon’s satisficing. The Stoic acceptance of bounded rationality. The Buddhist bliss point. The economist’s recognition that optimization past the point of sufficiency produces not more value but its consumption. They all arrive at the same place: enough is a legitimate answer, and the wisdom to recognize it is harder to develop than the ambition to exceed it.
 

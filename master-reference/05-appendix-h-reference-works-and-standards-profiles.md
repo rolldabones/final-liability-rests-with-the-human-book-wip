@@ -3,7 +3,7 @@
 <!-- nav:end -->
 ## APPENDIX H: REFERENCE WORKS AND STANDARDS PROFILES
 
-*Formerly Parts 24 to 26, to Version 7.10. These entries describe reference works and a standards profile used as drafting sources; they are not governance Parts and carry no obligation of their own. Moved 18 October 2026; text unchanged except the source numbers and the author notes recorded in the amendment note of that date.*
+*Formerly Parts 24 to 26, to Version 7.10. These entries describe reference works and a standards profile used as drafting sources; they are not governance Parts and carry no obligation of their own. Moved 18 October 2026; text unchanged except the source numbers and the author notes recorded in the amendment note of that date, and the corrections of 20 October 2026 to H.1 and H.2.2 and of 10 November 2026 to H.2 and H.2.2.*
 
 ### H.1 General-Purpose AI Risk-Management Standards Profile (formerly Part 24)
 
@@ -19,7 +19,7 @@
 
 ### H.2 Synthesizing Reference Works (formerly Part 25)
 
-This section covers two synthesizing reference works produced by the Center for Security and Emerging Technology (CSET) at Georgetown University. Both are integrated into this file as drafting and navigation references rather than as sources of binding obligations. Binding obligations remain in the underlying statutes, regulations and standards that CSET synthesizes. Both works are organized in companion form: CSET Harmonizing AI Guidance (Appendix H.2.1) distills 52 guidance documents into a harmonized framework; CSET Operationalizing AI Guidance (Appendix H.2.2) maps that framework to action-subject pairs across an 18-stage AI adoption lifecycle. Drafters should treat the two together as the synthesizing layer of the literature available to this file’s users.
+This section covers two synthesizing reference works produced by the Center for Security and Emerging Technology (CSET) at Georgetown University. Both are integrated into this file as drafting and navigation references rather than as sources of binding obligations. Binding obligations remain in the underlying statutes, regulations and standards that CSET synthesizes. Both works are organized in companion form: CSET Harmonizing AI Guidance (Appendix H.2.1) distills 52 guidance documents into a harmonized framework; CSET Operationalizing AI Guidance (Appendix H.2.2) maps that framework to 232 action-subject pairs across the five stages and eighteen substages (nineteen counting Manage) of an AI adoption life cycle. Drafters should treat the two together as the synthesizing layer of the literature available to this file’s users.
 
 #### H.2.1 CSET Harmonizing AI Guidance
 
@@ -39,7 +39,7 @@ This section covers two synthesizing reference works produced by the Center for 
 
 **Authority tier.** Implementation reference work. Phase 2 of CSET’s three-phase Harmonize, Operationalize, Tailor research plan; the operational companion to CSET Harmonizing AI Guidance (Appendix H.2.1). Treat as a control-design reference, not a checklist to adopt wholesale.
 
-**Scope.** Maps the 258 harmonized practices in CSET Harmonizing AI Guidance (Appendix H.2.1) to 232 distinct action-subject pairs derived from 814 raw pairs. Action-subject pairs are organized across 18 steps of the AI adoption lifecycle, grouped in the report under top-level stages: Self-Assess, Define, Plan, Promote, Map, Assess, Acquire, Develop, Control, Protect, Test, Approve, Communicate, Deploy, Engage, Monitor, Respond, Improve. Implementation level (Organization, Operations, Workforce, Infrastructure, Data, Model, System) and functional-team ownership across 19 C-suite roles assigned per implementation step.
+**Scope.** Maps the 258 harmonized practices in CSET Harmonizing AI Guidance (Appendix H.2.1) to 232 distinct action-subject pairs derived from 814 raw pairs. Action-subject pairs are organized across the eighteen substages of the AI adoption life cycle (nineteen counting Manage), grouped in the report under five stages: Self-Assess, Define, Plan, Promote, Map, Assess, Acquire, Develop, Control, Protect, Test, Approve, Communicate, Deploy, Engage, Monitor, Respond, Improve. Implementation level (Organization, Operations, Workforce, Infrastructure, Data, Model, System) and functional-team ownership across 19 C-suite roles assigned per implementation step.
 
 **Use in this Master Reference.** Cross-reference at the OPERATIONAL CADENCE section above where the SPECIFY, STATE, RUN, DEFEND verbs have direct counterparts in CSET’s 18-step lifecycle. Cross-reference at Part 4 (Risk Management) where the Plan, Map and Assess stages map to risk identification, classification and assessment. Cross-reference at Part 5 (TEVV) where the Test, Approve, Monitor and Respond stages map directly to TEVV cadence. Cross-reference at Part 6 (Model and Data Lifecycle Management) where CSET’s Traceability cluster (data provenance, version control, system documentation, auditability, data quality, evaluation documentation) operationalizes the model-card minimums in Part 6.4. Cross-reference at Part 22.4 (Operational Catechism) where CSET’s implementation steps are a parallel diagnostic surface to the catechism’s five questions.
 

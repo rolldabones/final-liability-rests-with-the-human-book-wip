@@ -384,7 +384,7 @@ A provider places a high-risk AI system on the market or puts it into service un
 
 - Establish and maintain a Quality Management System (Article 17; see Part 6.7).
 
-- Keep technical documentation for at least ten years from the date the system is placed on the market (Article 18).
+- Keep technical documentation for at least ten years from the date the system is placed on the market or put into service (Article 18).
 
 - Register the system in the EU database before market placement (Article 49; see Part 6.8).
 

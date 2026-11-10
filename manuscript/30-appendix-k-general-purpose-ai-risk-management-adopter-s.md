@@ -5,7 +5,7 @@
 
 ## General-Purpose AI Risk Management: Adopter’s Checklist
 
-*Companion to the UC Berkeley Center for Long-Term Cybersecurity General-Purpose AI Risk-Management Standards Profile, Version 1.2*
+*An independent adopter’s guide to the UC Berkeley Center for Long-Term Cybersecurity General-Purpose AI Risk-Management Standards Profile, Version 1.2 (April 2026). Not affiliated with or endorsed by CLTC.*
 
 ### Purpose
 
@@ -15,9 +15,9 @@ This appendix reorganizes the Profile’s downstream guidance for the audience t
 
 ### Source
 
-UC Berkeley Center for Long-Term Cybersecurity, *General-Purpose AI Risk-Management Standards Profile*, Version 1.2.
+Nada Madkour, Jessica Newman, Deepika Raman, Krystal Jackson, Evan R. Murphy, Charlotte Yuan and Dan Hendrycks, *General-Purpose AI Risk-Management Standards Profile*, Version 1.2 (UC Berkeley Center for Long-Term Cybersecurity, April 2026), https://cltc.berkeley.edu/wp-content/uploads/2026/04/Berkeley-GPAI-Profile-v1-2.pdf.
 
-Complementary frameworks: NIST AI Risk Management Framework and ISO/IEC 23894.
+Complementary frameworks: NIST, *Artificial Intelligence Risk Management Framework (AI RMF 1.0)*, NIST AI 100-1 (26 January 2023), https://doi.org/10.6028/NIST.AI.100-1; ISO/IEC 23894:2023, *Information technology: Artificial intelligence: Guidance on risk management* (February 2023).
 
 ### 1. Buyer diligence
 
@@ -135,7 +135,7 @@ Complementary frameworks: NIST AI Risk Management Framework and ISO/IEC 23894.
 
 If you cannot evidence it, you cannot govern it.
 
-For developers, the Berkeley Profile defines responsible model governance. For the rest of us, it defines responsible adoption. Slow AI is not just the question of whether the tool works. It is the question of whether the organization can govern it.
+For developers, the Berkeley Profile sets out voluntary risk-management practices for general-purpose AI models, building on the NIST AI RMF. For the rest of us, it is a guide to responsible adoption. Slow AI is not the question of whether the tool works. It is the precondition that AI which cannot be governed, explained and audited is not deployed.
 
 **Final Liability rests with the Human.**
 
