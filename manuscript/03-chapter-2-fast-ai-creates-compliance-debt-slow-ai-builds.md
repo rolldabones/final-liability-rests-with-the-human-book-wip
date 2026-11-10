@@ -43,15 +43,15 @@ Here is what compliance capital actually produces. The act of making systems leg
 
 There is an old expression for shallow due diligence: kicking the tires. You walk around the car, give each tire a nudge with your foot and declare yourself satisfied. It is a ritual of inspection that produces the feeling of having looked without the substance of having understood. Most AI governance programs today are tire-kicking operations. The tires are kicked in the demo room. The governance gaps are in the engine.
 
-I once stood in that warehouse full of tires. There were a lot of them. Kicking them was not going to tell me what they were worth. The insurer already knew. Serious governance works the same way: the value is not in the walk-around. It is in the documentation that existed before anyone asked to see it.
+I once stood in that warehouse full of tires. There were a lot of them. Kicking them was not going to tell me what they were worth. The insurance and collateral records already did. Serious governance works the same way: the value is not in the walk-around. It is in the documentation that existed before anyone asked to see it.
 
-This is why boring is often the moat. The organization that has built the evidence infrastructure, maintained the change logs and preserved the audit trails is not merely compliant. It is harder to displace. Its governance posture is itself a signal of institutional credibility that shortcuts cannot replicate and that regulators, clients and courts will notice when the pressure arrives.
+This is why boring is often the moat. The organization that has built the evidence infrastructure, maintained the change logs and preserved the audit trails is not merely compliant. It is harder to displace. Its governance posture is itself a signal of institutional credibility that shortcuts cannot replicate and that regulators, Clients and courts will notice when the pressure arrives.
 
 ## Serious Operators and Tourists
 
 The next phase of enterprise AI will separate serious operators from tourists. The tourists will keep asking which model to use, which benchmark is best and how quickly something can be shipped. Those questions matter but they are secondary. Serious operators ask different questions. What is the control objective? What data is authoritative? What evidence will be retained? What exceptions require human intervention? What happens when the system is wrong at scale? How do we test the failure modes before they test us?
 
-Those are Slow AI questions. Slow AI does not mean weak AI or slow deployment. It means that AI that cannot be governed, explained and audited is not deployed; the three tests are conjunctive, and the doctrine is a precondition, not a speed limit. Deployment under it is deliberate and visible, and the pace of human oversight never falls so far behind the pace of machine action that accountability becomes a fiction. Slow AI questions are slower at the front end and much faster when consequences arrive. The tourist ships quickly and pays later. The serious operator builds deliberately and discovers that deliberate construction is its own competitive advantage, because the system that can be inspected, explained and defended is the system that survives contact with regulators, clients and courts.
+Those are Slow AI questions. Slow AI does not mean weak AI or slow deployment. It means this: AI that cannot be governed, explained and audited is not deployed; the three tests are conjunctive, and the doctrine is a precondition, not a speed limit. Deployment under it is deliberate and visible, and the pace of human oversight never falls so far behind the pace of machine action that accountability becomes a fiction. Slow AI questions are slower at the front end and much faster when consequences arrive. The tourist ships quickly and pays later. The serious operator builds deliberately and discovers that deliberate construction is its own competitive advantage, because the system that can be inspected, explained and defended is the system that survives contact with regulators, Clients and courts.
 
 ## The Force Multiplier Principle
 
@@ -69,7 +69,7 @@ The chapter has named the force multiplier principle. A governed agentic system 
 
 The chapter has reframed compliance debt as something that accrues in real time rather than waiting to be incurred, in every transaction the system processes without adequate controls.
 
-The chapter has located Slow AI as the structural response, the discipline that governs what the machine is applied to so that judgment is what gets multiplied, and named the human who owns, approved and answers as the point of the arrangement.
+The chapter has located Slow AI as the structural response, the discipline that governs what the machine is applied to so that judgment is what gets multiplied, and named the human who owns the system, approved it and answers for it as the point of the arrangement.
 
 **Final Liability rests with the Human.**
 

@@ -39,7 +39,7 @@ Each of these is individually survivable. Together they constitute an operationa
 
 The harm of the unreliable principal does not stay inside the agency relationship. It propagates outward.
 
-Third parties who dealt with the agent in good faith, relying on the apparent authority the principal conferred, are left with claims against an agent who may lack the resources to satisfy them and a principal who will contest the authority that was extended. The third party’s reliance was reasonable. The apparent authority was real. The principal’s later disavowal produces what agency law recognizes as a form of unjust enrichment for the principal and an unjust exposure for both the agent and the third party who relied on the representation.
+Third parties who dealt with the agent in good faith, relying on the apparent authority the principal conferred, are left with claims against an agent who may lack the resources to satisfy them and a principal who will contest the authority that was extended. The third party’s reliance was reasonable. The apparent authority was real, and in law the principal’s later disavowal does not undo it: a principal is bound by the apparent authority its own manifestations created (Restatement (Third) of Agency §§ 2.03, 3.03). What the disavowal produces in practice is contested exposure, for the agent and for the third party who relied on the representation, until a court says so.
 
 The agent is left holding the exposure the principal created. Not because the agent acted badly. Because the principal created the conditions and then withdrew from accountability.
 
@@ -49,7 +49,7 @@ This is not a technology problem and it is not a problem unique to any industry 
 
 I have sat in that chair.
 
-The mandate was unclear, the principal not just unreliable but shifty, and accountability ran in one direction only. The direction it ran was not toward the people who had created the conditions. The governance documents were complete. The organizational chart showed a functional principal. The reality was an environment in which strategic direction was managed through plausible deniability, information was distributed to serve narratives rather than to support judgment, and the agent who acted in good faith on the authority they believed they held discovered, at the moment of consequence, that the record had been arranged to tell a different story.
+The mandate was unclear, the principal not just unreliable but shifty, and accountability ran in one direction only. The direction it ran was not toward the people who had created the conditions. The governance documents were complete. The organizational chart showed a functional principal. The reality was an environment in which strategic direction was managed through plausible deniability, information was distributed to serve narratives rather than to support judgment and the agent who acted in good faith on the authority they believed they held discovered, at the moment of consequence, that the record had been arranged to tell a different story.
 
 This book does not name those principals. The pattern they represent names itself. It is the unreliable principal, and its appearance in every industry, every jurisdiction and every organizational form this author has encountered suggests it is not an aberration. It is a structural temptation that governance must name, constrain and in the limit be prepared to terminate.
 

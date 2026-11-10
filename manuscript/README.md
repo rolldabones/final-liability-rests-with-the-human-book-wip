@@ -14,7 +14,7 @@ Derived from [Final_Liability_Rests_with_the_Human.md](../Final_Liability_Rests_
 | 8 | [PART II: THE DOCTRINE · CHAPTER 6: What Slow AI Means (And What It Does Not)](07-chapter-6-what-slow-ai-means-and-what-it-does-not.md) | 27 |
 | 9 | [CHAPTER 7: What Final Liability Means](08-chapter-7-what-final-liability-means.md) | 17 |
 | 10 | [CHAPTER 8: The Standard Is a Clock, Not a Stopwatch](09-chapter-8-the-standard-is-a-clock-not-a-stopwatch.md) | 29 |
-| 11 | [CHAPTER 9: Informed Intent](10-chapter-9-informed-intent.md) | 21 |
+| 11 | [CHAPTER 9: Informed Intent](10-chapter-9-informed-intent.md) | 22 |
 | 12 | [PART III: THE PRINCIPAL WAS ALWAYS HUMAN · CHAPTER 10: Culture as Code: How Agentic AI Reshapes the Organizational Operating System](11-chapter-10-culture-as-code-how-agentic-ai-reshapes-the.md) | 44 |
 | 13 | [CHAPTER 11: The Agent in the Room](12-chapter-11-the-agent-in-the-room.md) | 19 |
 | 14 | [CHAPTER 12: The Human in the Loop Is Not a Shaman](13-chapter-12-the-human-in-the-loop-is-not-a-shaman.md) | 43 |

@@ -21,7 +21,7 @@ For a long time I carried the outline of a different book. Thirty-seven chapters
 
 Then I wrote a simpler sentence about how things should be built. **Human-made, for Easy Work, Simply Done**. And I realized, somewhat inconveniently, that the sentence might be the whole book.
 
-The phrase came back to me through Soetsu Yanagi’s The Beauty of Everyday Things and the mingei tradition he helped name. Ordinary things. Bowls, cloth, paper, tools. Things made for use, held in the hand, repaired when they break and returned to service without ceremony. That is a better model for AI workflows than most of what is sold as innovation. Not the spaceship, the bowl. Not the magic trick, the tool. Not the grand demonstration, the ordinary act of making work easier while keeping judgment intact.
+The phrase came back to me through Soetsu Yanagi’s *The Beauty of Everyday Things* and the mingei tradition he helped name. Ordinary things. Bowls, cloth, paper, tools. Things made for use, held in the hand, repaired when they break and returned to service without ceremony. That is a better model for AI workflows than most of what is sold as innovation. Not the spaceship, the bowl. Not the magic trick, the tool. Not the grand demonstration, the ordinary act of making work easier while keeping judgment intact.
 
 That was the uncomfortable part. Thirty-seven chapters arguing for the bowl, shaped like a spaceship.
 
@@ -41,7 +41,7 @@ I am also indebted to the designers, engineers and researchers who built the AI 
 
 This project is therefore entangled with a set of unresolved questions: what constitutes use versus extraction, influence versus incorporation and innovation versus derivation. The outputs produced with these systems cannot be cleanly separated from the conditions under which their training data was gathered, nor from the legal and ethical ambiguities that continue to surround that process.
 
-I am equally indebted to those who rendered these systems operational through annotation, curation, evaluation and reinforcement learning from human feedback. Their contributions, often distributed, contract-based and geographically distant from the institutions that deploy the resulting models, have been essential in shaping system behavior, judgment and reliability. Yet this layer of labor remains largely invisible, both economically and culturally, its contributors rarely named, and their working conditions inconsistently scrutinized.
+I am equally indebted to those who rendered these systems operational through annotation, curation, evaluation and reinforcement learning from human feedback. Their contributions, often distributed, contract-based and geographically distant from the institutions that deploy the resulting models, have been essential in shaping system behavior, judgment and reliability. Yet this layer of labor remains largely invisible, both economically and culturally, its contributors rarely named and their working conditions inconsistently scrutinized.
 
 Gratitude, in this context, is necessarily incomplete. It acknowledges dependence without resolving it, and recognizes contribution without presuming fairness. If this work benefits from these systems, and it does, it also inherits, however indirectly, the asymmetries embedded within them.
 

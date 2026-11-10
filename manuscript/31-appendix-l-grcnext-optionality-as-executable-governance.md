@@ -17,7 +17,7 @@ The doctrine reduces the question of governance to two operational tests.
 
 - Portability. If the dependency that caused the blast radius is concentrated, can the organization execute an exit plan without breaching tolerance?
 
-These tests matter because modern organizations are built on dense dependency graphs. The largest disruptions tend to come from a small number of shared pipes: a cloud region, an identity provider, a payment rail, a messaging backbone, a specialized SaaS, an outsourced operations center, a single AI model provider. When those pipes fail, policies do not restore service. Switches and exits do.
+These tests matter because modern organizations are built on dense dependency graphs. The largest disruptions tend to come from a small number of shared pipes: a cloud region, an identity provider, a payment rail, a messaging backbone, a specialized software-as-a-service (SaaS) product, an outsourced operations center, a single AI model provider. When those pipes fail, policies do not restore service. Switches and exits do.
 
 GRCnext™ does not replace security, privacy, resiliency engineering or vendor management. It aligns them around a single audit-grade unit of truth: the critical service with an owner, a tolerance, mapped pipes, executable switches and at least one executable exit for the top concentration dependency.
 
@@ -33,7 +33,7 @@ A service is an outcome delivered to customers, staff or partners. It is not a t
 
 ### L.2.2 Time-based impact tolerances
 
-Impact tolerance is the maximum tolerable level of disruption to a service, measured by a length of time and any other relevant metrics, at the point beyond which harm becomes intolerable (FCA SYSC 15A.2.5R; PRA SS1/21, paragraph 3.1). This book uses it as an execution deadline. Tolerances are business commitments, not only technical RTO or RPO. They must distinguish between down and degraded states when the distinction matters. They anchor pass and fail outcomes for exercises and incident retrospectives. Without tolerances, teams cannot prioritize. With tolerances, incident response becomes a series of decisions against a clock: detect, decide, execute and prove.
+Impact tolerance is the maximum tolerable level of disruption to a service, measured by a length of time and any other relevant metrics, at the point beyond which harm becomes intolerable (FCA SYSC 15A.2.5R; PRA SS1/21, paragraph 3.1). This book uses it as an execution deadline. Tolerances are business commitments, not only technical recovery time or recovery point objectives (RTO or RPO). They must distinguish between down and degraded states when the distinction matters. They anchor pass and fail outcomes for exercises and incident retrospectives. Without tolerances, teams cannot prioritize. With tolerances, incident response becomes a series of decisions against a clock: detect, decide, execute and prove.
 
 ### L.2.3 Pipes
 
@@ -41,7 +41,7 @@ Pipes are the end-to-end dependencies required for a service to function. Pipes 
 
 ### L.2.4 Switches
 
-Switches are pre-defined moves that change service state. Failover. Reroute. Degrade. Disable. Throttle. Quarantine. Rotate. Fall back to manual processing. Each switch has a trigger, a decision owner, a delegated authority path, the steps, the comms and the evidence capture points. Authority must be delegated in advance. In a crisis, waiting for approvals burns the tolerance budget. Switches should be drillable and ideally automatable, but automation is optional. Switches translate governance into mechanics. They specify what the organization will do under stress, not what it hopes to do.
+Switches are pre-defined moves that change service state. Failover. Reroute. Degrade. Disable. Throttle. Quarantine. Rotate. Fall back to manual processing. Each switch has a trigger, a decision owner, a delegated authority path, the steps, the communications and the evidence capture points. Authority must be delegated in advance. In a crisis, waiting for approvals burns the tolerance budget. Switches should be drillable and ideally automatable, but automation is optional. Switches translate governance into mechanics. They specify what the organization will do under stress, not what it hopes to do.
 
 ### L.2.5 Exits
 
@@ -49,7 +49,7 @@ Exits are executable plans to reduce or remove concentration dependency. An exit
 
 ### L.2.6 Evidence and improvement
 
-GRCnext™ uses an evidence-first posture. No evidence, no credit. Evidence packs show that controls exist, were executed, and improved through corrective and preventive action (CAPA) closure. Evidence should be structured and repeatable, not ad hoc screenshots. Exercises and real incidents should generate artifacts that auditors can follow end-to-end. Improvement is demonstrated by closed CAPA items tied to specific breakpoints and tolerance outcomes. Practical test: if a new leader joined tomorrow, could they read the dossier for Service 1 and confidently execute a switch or exit within tolerance?
+GRCnext™ uses an evidence-first posture. No evidence, no credit. Evidence packs show that controls exist, were executed and improved through corrective and preventive action (CAPA) closure. Evidence should be structured and repeatable, not ad hoc screenshots. Exercises and real incidents should generate artifacts that auditors can follow end-to-end. Improvement is demonstrated by closed CAPA items tied to specific breakpoints and tolerance outcomes. Practical test: if a new leader joined tomorrow, could they read the dossier for Service 1 and confidently execute a switch or exit within tolerance?
 
 ## L.3 Stress-Test
 
@@ -73,7 +73,7 @@ The value of GRCnext™ shows up under pressure. The doctrine identifies common 
 
 ### L.3.2 Severe-but-plausible scenarios
 
-A severe-but-plausible scenario is realistic enough to expose true dependencies and decision bottlenecks, but severe enough to force real tradeoffs. Five recurring patterns:
+A severe-but-plausible scenario is realistic enough to expose true dependencies and decision bottlenecks, but severe enough to force real trade-offs. Five recurring patterns:
 
 - Cloud region impairment. First to break: identity refresh or messaging backbone tied to the affected region. Switches: failover, reroute, degrade noncritical features. Exit pressure point: region exit plan or multi-region design for top tolerances.
 
