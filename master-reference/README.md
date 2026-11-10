@@ -4,7 +4,7 @@ Derived from [AI_GRC_Master_Reference_v7_14.md](../AI_GRC_Master_Reference_v7_14
 
 | Part | Title | Size (KB) |
 |---|---|---|
-| 1 | [AI GRC Master Reference File: Version 7.14 to PART 0: QUICK START FOR DRAFTERS](00-ai-grc-master-reference-file-version-7-14-to-part-0-quick.md) | 38 |
+| 1 | [AI GRC Master Reference File: Version 7.14 to PART 0: QUICK START FOR DRAFTERS](00-ai-grc-master-reference-file-version-7-14-to-part-0-quick.md) | 39 |
 | 2 | [AI GRC Master Reference File: Version 7.14 · PART 1: FOUNDATIONS to PART 3: ROLES AND RESPONSIBILITIES](01-part-1-foundations-to-part-3-roles-and-responsibilities.md) | 48 |
 | 3 | [AI GRC Master Reference File: Version 7.14 · PART 4: RISK MANAGEMENT to PART 8: INCIDENT MANAGEMENT](02-part-4-risk-management-to-part-8-incident-management.md) | 57 |
 | 4 | [AI GRC Master Reference File: Version 7.14 · PART 9: AGENTIC AI GOVERNANCE to PART 20: FUNDAMENTAL RIGHTS IMPACT ASSESSMENT](03-part-9-agentic-ai-governance-to-part-20-fundamental-rights.md) | 55 |
