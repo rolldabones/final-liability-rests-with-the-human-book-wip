@@ -8,7 +8,7 @@ Derived from [Final_Liability_Rests_with_the_Human.md](../Final_Liability_Rests_
 | 2 | [PREFACE: Four Years. Daily.](01-preface-four-years-daily.md) | 10 |
 | 3 | [PART I: THE PROBLEM · CHAPTER 1: When AI Eliminates Coordination Work, It Reveals Your Governance Gap](02-chapter-1-when-ai-eliminates-coordination-work-it-reveals.md) | 22 |
 | 4 | [CHAPTER 2: Fast AI Creates Compliance Debt. Slow AI Builds Compliance Capital.](03-chapter-2-fast-ai-creates-compliance-debt-slow-ai-builds.md) | 12 |
-| 5 | [CHAPTER 3: The Compliance Theater Problem](04-chapter-3-the-compliance-theater-problem.md) | 20 |
+| 5 | [CHAPTER 3: The Compliance Theater Problem](04-chapter-3-the-compliance-theater-problem.md) | 21 |
 | 6 | [CHAPTER 4: Agentic AI Will Make Weak GRC Fail Fast](05-chapter-4-agentic-ai-will-make-weak-grc-fail-fast.md) | 16 |
 | 7 | [CHAPTER 5: You Cannot Audit What You Cannot Slow Down](06-chapter-5-you-cannot-audit-what-you-cannot-slow-down.md) | 26 |
 | 8 | [PART II: THE DOCTRINE · CHAPTER 6: What Slow AI Means (And What It Does Not)](07-chapter-6-what-slow-ai-means-and-what-it-does-not.md) | 27 |
