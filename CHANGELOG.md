@@ -2,6 +2,13 @@
 
 All notable changes to this repository are documented here. Versioning follows [Semantic Versioning](https://semver.org/). The README and this file version in lockstep; prior versions are superseded, never silently overwritten.
 
+## v1.12.1 (2026-11-10)
+
+Patch release, 10 November 2026 (KST): the Korean edition linked. No change to the manuscript, the instruments or their parts.
+
+- README: the masthead and a new "Korean edition" section point to [final-liability-rests-with-the-human-ko-wip](https://github.com/rolldabones/final-liability-rests-with-the-human-ko-wip), the Korean machine draft of v1.12.0 with Appendices I and J, under the author's line review; this edition stays the text of record. Status and How to Cite updated. Decided by Michael Paik on 10 November 2026.
+- CITATION.cff to 1.12.1, in lockstep.
+
 ## v1.12.0 (2026-11-10)
 
 Minor release, 10 November 2026 (KST): the book and instruments review of that date. Every change below rests on a ruling in Recommended Rulings v0.2 or on decisions D1 to D7 of Book Findings and Decisions v0.1, all accepted by Michael Paik on 10 November 2026; facts were checked against Verification Register v0.5, with its primary-check rows preferred where they differ from model rows. Prepared with Claude, approved by Michael Paik on 10 November 2026; the three gaps the full read left open are carried in `PLAN-v1.13.md` for the weekly sweeps.

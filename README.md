@@ -5,7 +5,7 @@
 **Son-U Michael Paik**
 CEO, GRC Solutions Korea.
 
-**v1.12.0 · 10 November 2026 · License: [CC BY-NC-SA 4.0](LICENSE.md) · Changes: [CHANGELOG.md](CHANGELOG.md)**
+**v1.12.1 · 10 November 2026 · License: [CC BY-NC-SA 4.0](LICENSE.md) · Changes: [CHANGELOG.md](CHANGELOG.md) · 한국어판: [최종 책임은 인간에게 있다](https://github.com/rolldabones/final-liability-rests-with-the-human-ko-wip)**
 
 ---
 
@@ -49,6 +49,10 @@ Appendices D, E, F, H, K, L and N are included in the manuscript. They are worki
 
 [`AI_GRC_Master_Reference_v7_14.md`](AI_GRC_Master_Reference_v7_14.md) is Appendix J and is likewise the file of record: cite it and download it from there. It sits above the account's 240,000-byte splitting ceiling, so for reading it is published in parts under [master-reference/](master-reference/README.md), derived from it and verified to rebuild it byte for byte. [`AI_Audit_Due_Diligence_Checklist_v5_3.md`](AI_Audit_Due_Diligence_Checklist_v5_3.md) is Appendix I, 199 questions in 11 domains, each with a stable ID (0.01 to 10.16, cited as "Checklist ID 1.07") and the Master Reference Part that states its control, and renders as it is.
 
+## Korean edition
+
+[최종 책임은 인간에게 있다](https://github.com/rolldabones/final-liability-rests-with-the-human-ko-wip) is the Korean edition, translated from v1.12.0 with Appendices I and J. It is a machine draft under the author's line review (초벌 번역, 저자 검토 중), not a finished translation. Until that review is complete, this English edition is the text of record and governs wherever the two differ.
+
 ## How it was written
 
 This book argues that AI must be used with discipline, with Informed Intent and with a named human carrying Final Liability for what it produces. It was written that way. The author worked heavily with AI to draft, structure, stress-test and refine the manuscript, under intent specifications he wrote and against evidentiary standards he set. Every chapter and every line passed through his judgment before it appeared. The AI was a tool. The doctrine governing its use, and the responsibility for the result, are his.
@@ -73,11 +77,11 @@ Each reissue carries a dated amendment note that itemizes its changes, and the C
 
 ## Status
 
-First edition, June 2026. Revised July 2026; corrected 15 and 18 October 2026; revised 10 November 2026 (v1.12.0). Revisions are tracked through this repository's commit history.
+First edition, June 2026. Revised July 2026; corrected 15 and 18 October 2026; revised 10 November 2026 (v1.12.0), with the Korean edition linked the same day (v1.12.1). Revisions are tracked through this repository's commit history.
 
 ## How to Cite
 
-> Paik, Son-U Michael. *Final Liability Rests with the Human*, v1.12.0. GRC Solutions Korea, 2026. https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip
+> Paik, Son-U Michael. *Final Liability Rests with the Human*, v1.12.1. GRC Solutions Korea, 2026. https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip
 
 A machine-readable citation is in [CITATION.cff](CITATION.cff).
 
