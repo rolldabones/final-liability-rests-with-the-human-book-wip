@@ -30,7 +30,7 @@ Minor release, 10 November 2026 (KST): the book and instruments review of that d
 - `AI_GRC_Master_Reference_v7_13.md` reissued as `AI_GRC_Master_Reference_v7_14.md`, with a dated amendment note, Version 7.14. `AI_Audit_Due_Diligence_Checklist_v5_2.md` reissued as `AI_Audit_Due_Diligence_Checklist_v5_3.md`, with a dated amendment note, v5.3.0; question count unchanged at 199. Superseded versions removed, per the convention; they remain in the tag chain.
 
 ### Lockstep
-- `manuscript/` regenerated at the 240,000-byte ceiling (33 parts, Appendix N added; 834,044 bytes) and `master-reference/` at the 60,000-byte ceiling (six parts, the first renamed for Version 7.14; 269,463 bytes), each verified to rebuild its source byte for byte. The account's `split_markdown.py` was not reachable from the preparing session; the parts were produced by a reimplementation verified first to reproduce every v1.11.3 part and both index files byte for byte. The sweep's own check confirms them. README masthead, appendix paragraph, accuracy table, Status and How to Cite, and `CITATION.cff`, to v1.12.0.
+- `manuscript/` regenerated at the 240,000-byte ceiling (33 parts, Appendix N added; 834,044 bytes) and `master-reference/` at the 60,000-byte ceiling (six parts, the first renamed for Version 7.14; 269,463 bytes), each verified to rebuild its source byte for byte. Confirmed with the account's `split_markdown.py` (--max-bytes 240000 and 60000): regenerating from the branch produced no diff, and --verify passed for both sets. README masthead, appendix paragraph, accuracy table, Status and How to Cite, and `CITATION.cff`, to v1.12.0.
 
 ## v1.11.3 (2026-11-09)
 
