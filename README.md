@@ -5,7 +5,7 @@
 **Son-U Michael Paik**
 CEO, GRC Solutions Korea.
 
-**v1.11.3 · 9 November 2026 · License: [CC BY-NC-SA 4.0](LICENSE.md) · Changes: [CHANGELOG.md](CHANGELOG.md)**
+**v1.12.0 · 10 November 2026 · License: [CC BY-NC-SA 4.0](LICENSE.md) · Changes: [CHANGELOG.md](CHANGELOG.md)**
 
 ---
 
@@ -41,7 +41,7 @@ The manuscript runs to twenty-two chapters across six parts, with a Conclusion a
 
 The reading index in [manuscript/README.md](manuscript/README.md) lists every chapter with its title.
 
-Appendices D, E, F, H, K and L are included in the manuscript. They are working instruments rather than supplements: an assumption register, an agent registry, a Fundamental Rights Impact Assessment template, the Why Slow AI essay, the Berkeley Adopter's Checklist and the GRCnext™ doctrine. Appendices I (AI Audit and Due Diligence Checklist), J (AI GRC Master Reference) and M (GRC Workbook) are maintained as separate documents.
+Appendices D, E, F, H, K, L and N are included in the manuscript. They are working instruments rather than supplements: an assumption register, an agent registry, a Fundamental Rights Impact Assessment template, the Why Slow AI essay, the General-Purpose AI Risk Management: Adopter's Checklist, the GRCnext™ doctrine and a crosswalk of the book's question sets. Appendices I (AI Audit and Due Diligence Checklist), J (AI GRC Master Reference) and M (GRC Workbook) are maintained as separate documents.
 
 ## Files in this repository
 
@@ -67,16 +67,17 @@ The book leans on doctrine that does not depend on which regulation is in force 
 | 18 October 2026 | Restructured: stable question IDs, a Master Reference Part column, a single Currency and Open Points section and an Appendix H for the reference works; the manuscript's EU AI Act and other legal pinpoints, its Checklist question citations and its FRIA Section D matrix corrected | Checklist v5.0, Master Reference v7.11 |
 | 20 October 2026 | Further legal, factual and citation points corrected in the manuscript and both instruments | Checklist v5.1, Master Reference v7.12 |
 | 2 November 2026 | Part 12 completed by C.R.S. 6-1-1707, and one Checklist question added against it | Master Reference v7.13, Checklist v5.2 |
+| 10 November 2026 | Book and instruments review: the *X.AI LLC v. Weiser* stay stated in the order's words and shown to reach SB 26-189; Korea's Enforcement Decree No. 36580 current; 132 legal and factual corrections and 47 High findings ruled and applied; dated regulatory status boxes in Chapter 3 | Master Reference v7.14, Checklist v5.3 |
 
 Each reissue carries a dated amendment note that itemizes its changes, and the CHANGELOG lists every change. The manuscript's regulatory statements outside those corrections carry their original dates. Versioned documents are never edited in place; each carries its own dated currency note, and points that the published text leaves open are recorded as Unknown with a counsel flag rather than resolved in-house. Time-sensitive legal points still move, so confirm any specific obligation against current sources before relying on it. Nothing here is legal advice, and reading it creates no attorney-client relationship.
 
 ## Status
 
-First edition, June 2026. Revised July 2026; corrected 15 and 18 October 2026. Revisions are tracked through this repository's commit history.
+First edition, June 2026. Revised July 2026; corrected 15 and 18 October 2026; revised 10 November 2026 (v1.12.0). Revisions are tracked through this repository's commit history.
 
 ## How to Cite
 
-> Paik, Son-U Michael. *Final Liability Rests with the Human*, v1.11.3. GRC Solutions Korea, 2026. https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip
+> Paik, Son-U Michael. *Final Liability Rests with the Human*, v1.12.0. GRC Solutions Korea, 2026. https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip
 
 A machine-readable citation is in [CITATION.cff](CITATION.cff).
 

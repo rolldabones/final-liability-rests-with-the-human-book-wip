@@ -31,6 +31,15 @@
 
 - **C6 and Part 12, Colorado.** The *X.AI LLC v. Weiser* stay is stated in the order's own words: it bars enforcement for alleged violations of SB24-205 "(or any legislation replacing or amending SB24-205 enacted during this legislative session)". SB 26-189, enacted in that session to replace SB 24-205, is therefore within the stay; Version 7.13 had stated the scope without drawing that consequence for 6-1-1707. SB 26-189 "repeals and reenacts" SB 24-205 (not "repealed and replaced"); the case number carries the judge suffix -DDD-CYC; the filing deadline for xAI's motion (28 days after final adoption of the implementing rules) is added; the docket is re-read to 9 November 2026. Source: the minute order as entered, read 10 November 2026 (KST) (register rows V0020, V0021, V0022, B0018, B0178, B0179).
 - **C5 and Part 12, Korea.** Presidential Decree No. 36580 of 18 August 2026, in force 20 August 2026, is stated as the current Enforcement Decree everywhere; No. 36506 is marked superseded (register row B0016). Act No. 22076 of 20 October 2026, in force 21 April 2027, recorded from the law.go.kr revision list, its effect Unknown.
+- **Doctrinal Frame and Part 1.3 (Informed Intent).** The four-item account that followed the canon sentence is presented as an illustration of the Knowledge and Evidence conditions, and the five authorizer conditions are named (High findings 33 and 38).
+- **Doctrinal Frame (Final Liability).** The operational test asks for the named human with decision rights, oversight and the power to intervene, and ends with a question mark (High finding 36).
+- **Operational Cadence.** Specify points to Part 1.4, Parts 5.1 to 5.3 and Part 9.3, not to a non-existent "Part 5.4 (Acceptance Thresholds and Stop Conditions)"; Run points monitoring to Parts 4.7 and 15.3, with Part 5.6 (High findings 34 and 35).
+- **30 July 2026 note, Article 4a.** The pointer reads Part 1.4 (Principle 2), not Part 4 (High finding 37).
+- **Part 19.1.** Article 18 runs from placing on the market or putting into service (High finding 41).
+- **Part 21.3.** Article 57(1) as amended requires at least one national sandbox operational by 2 August 2027; Article 57(3a) adds the Union-level sandbox; "national competent authorities" replaces "supervisory authorities" (High finding 43).
+- **Appendix D.** The Article 27 FRIA row is removed from the provider table; it is a deployer duty and stays in the deployer table (High finding 44).
+- **Appendix H.** The head note records the corrections of 20 October 2026 and of this date; CSET Operationalizing AI Guidance is stated as five stages and eighteen substages (nineteen counting Manage), with 232 action-subject pairs, replacing "18-stage" and "18 steps" (High findings 45 and 46; register row V0046, primary check).
+- **Checklist cross-references.** IDs 0.12, 0.13, 4.12 to 4.17, 6.14 and 1.04 re-pointed in the Checklist v5.3 (High findings 39, 40, 42 and 47); no text of this reference changed for them.
 
 ### Amendment note, 2 November 2026 (KST), Version 7.13
 
