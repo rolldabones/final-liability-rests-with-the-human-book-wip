@@ -4,7 +4,7 @@ All notable changes to this repository are documented here. Versioning follows [
 
 ## v1.12.0 (2026-11-10)
 
-Minor release, 10 November 2026 (KST): the book and instruments review of that date. Every change below rests on a ruling in Recommended Rulings v0.2 or on decisions D1 to D7 of Book Findings and Decisions v0.1, all accepted by Michael Paik on 10 November 2026; facts were checked against Verification Register v0.5, with its primary-check rows preferred where they differ from model rows. Prepared with Claude, for Michael Paik's approval.
+Minor release, 10 November 2026 (KST): the book and instruments review of that date. Every change below rests on a ruling in Recommended Rulings v0.2 or on decisions D1 to D7 of Book Findings and Decisions v0.1, all accepted by Michael Paik on 10 November 2026; facts were checked against Verification Register v0.5, with its primary-check rows preferred where they differ from model rows. Prepared with Claude, approved by Michael Paik on 10 November 2026; the three gaps the full read left open are carried in `PLAN-v1.13.md` for the weekly sweeps.
 
 ### Corrections
 - **Colorado (first commit).** The *X.AI LLC v. Weiser* minute order (ECF No. 24) bars enforcement for alleged violations of SB24-205 "(or any legislation replacing or amending SB24-205 enacted during this legislative session)"; SB 26-189, enacted in that session to replace it, is therefore within the stay. Chapter 3 and Appendix J (C6, Part 12, 6-1-1707) say so in the order's words; SB 26-189 "repeals and reenacts" SB 24-205; case number with the -DDD-CYC suffix; the 28-day filing trigger added; docket re-read to 9 November 2026. Register V0020 to V0022, B0018, B0178, B0179.
