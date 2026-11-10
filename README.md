@@ -5,7 +5,7 @@
 **Son-U Michael Paik**
 CEO, GRC Solutions Korea.
 
-**v1.12.1 · 10 November 2026 · License: [CC BY-NC-SA 4.0](LICENSE.md) · Changes: [CHANGELOG.md](CHANGELOG.md) · 한국어판: [최종 책임은 인간에게 있다](https://github.com/rolldabones/final-liability-rests-with-the-human-ko-wip)**
+**v1.12.2 · 10 November 2026 · License: [CC BY-NC-SA 4.0](LICENSE.md) · Changes: [CHANGELOG.md](CHANGELOG.md) · 한국어판: [최종 책임은 인간에게 있다](https://github.com/rolldabones/final-liability-rests-with-the-human-ko-wip)**
 
 ---
 
@@ -41,7 +41,7 @@ The manuscript runs to twenty-two chapters across six parts, with a Conclusion a
 
 The reading index in [manuscript/README.md](manuscript/README.md) lists every chapter with its title.
 
-Appendices D, E, F, H, K, L and N are included in the manuscript. They are working instruments rather than supplements: an assumption register, an agent registry, a Fundamental Rights Impact Assessment template, the Why Slow AI essay, the General-Purpose AI Risk Management: Adopter's Checklist, the GRCnext™ doctrine and a crosswalk of the book's question sets. Appendices I (AI Audit and Due Diligence Checklist), J (AI GRC Master Reference) and M (GRC Workbook) are maintained as separate documents.
+Appendices D, E, F, H, K, L and N are included in the manuscript. They are working instruments rather than supplements: an assumption register, an agent registry, a Fundamental Rights Impact Assessment template, the Why Slow AI essay, the General-Purpose AI Risk Management: Adopter's Checklist, the GRCnext™ doctrine and a crosswalk of the book's question sets. A glossary and index close the manuscript as back matter. Appendices I (AI Audit and Due Diligence Checklist), J (AI GRC Master Reference) and M (GRC Workbook) are maintained as separate documents.
 
 ## Files in this repository
 
@@ -52,6 +52,10 @@ Appendices D, E, F, H, K, L and N are included in the manuscript. They are worki
 ## Korean edition
 
 [최종 책임은 인간에게 있다](https://github.com/rolldabones/final-liability-rests-with-the-human-ko-wip) is the Korean edition, translated from v1.12.0 with Appendices I and J. It is a machine draft under the author's line review (초벌 번역, 저자 검토 중), not a finished translation. Until that review is complete, this English edition is the text of record and governs wherever the two differ.
+
+## Board reading guide
+
+The [Board Reading Guide](https://github.com/rolldabones/AI-Governance-Academy/blob/main/board-reading-guide.md), published in AI-Governance-Academy, gives one page for each of the Preface, Chapters 1 to 22, the Conclusion and the Epilogue: the argument, why a board should care, key terms, five discussion questions and one action. It is the book's board edition, for a board or executive reading group, and quotes this edition verbatim; the book governs where the two differ.
 
 ## How it was written
 
@@ -77,11 +81,11 @@ Each reissue carries a dated amendment note that itemizes its changes, and the C
 
 ## Status
 
-First edition, June 2026. Revised July 2026; corrected 15 and 18 October 2026; revised 10 November 2026 (v1.12.0), with the Korean edition linked the same day (v1.12.1). Revisions are tracked through this repository's commit history.
+First edition, June 2026. Revised July 2026; corrected 15 and 18 October 2026; revised 10 November 2026 (v1.12.0), with the Korean edition linked the same day (v1.12.1) and the glossary and index added, with the board reading guide linked (v1.12.2). Revisions are tracked through this repository's commit history.
 
 ## How to Cite
 
-> Paik, Son-U Michael. *Final Liability Rests with the Human*, v1.12.1. GRC Solutions Korea, 2026. https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip
+> Paik, Son-U Michael. *Final Liability Rests with the Human*, v1.12.2. GRC Solutions Korea, 2026. https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip
 
 A machine-readable citation is in [CITATION.cff](CITATION.cff).
 

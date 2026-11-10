@@ -2,6 +2,16 @@
 
 All notable changes to this repository are documented here. Versioning follows [Semantic Versioning](https://semver.org/). The README and this file version in lockstep; prior versions are superseded, never silently overwritten.
 
+## v1.12.2 (2026-11-10)
+
+Patch release, 10 November 2026 (KST): the glossary and index added as back matter, the board reading guide linked and the v1.13 plan completed. Decided by Michael Paik on 10 November 2026 (Session 4 of the review of that date); prepared with Claude, approved by Michael Paik.
+
+- **Glossary and Index (new back matter, after Appendix N; Table of Contents line added).** 102 terms, each defined in the book's own words with the part where it is first defined, and 157 index entries with 66 sub-entries. Drafted by Message Batch msgbatch_01Uc8JnDXnikaUXcpMHHhk8i (claude-opus-5-5) from the v1.12.1 text; every definition checked by script to occur verbatim in the part named; every index locator computed by script from the text, none entered by hand.
+- **Four term and rule variations corrected,** found by the same build: Chapter 4 defined Services as "the named systems being governed", against Appendix L's "A service is an outcome delivered to customers, staff or partners. It is not a team and not a system."; Chapter 17 said "a named owner" in the Final Liability sentence form, now "a named human owner"; Chapter 7's summary called the name-the-human test "the sign-for test"; Appendix F's HOTL definition gains "and override", as Chapter 14 defines it. Three further gaps that need a ruling are items 15 to 17 of `PLAN-v1.13.md`.
+- **`PLAN-v1.13.md`:** for items 1 to 11, the primary sources to read first and the estimated size; item 9 ruled (the board reading guide is the board edition for now); item 10 narrowed to Appendix M; items 15 to 17 added.
+- **README:** a "Board reading guide" section pointing to *Final Liability Rests with the Human: Board Reading Guide* in AI-Governance-Academy (v1.21.0); the appendix paragraph names the back matter; masthead, Status and How to Cite.
+- `manuscript/` regenerated with `split_markdown.py` at the 240,000-byte ceiling: 34 parts (`33-glossary-and-index.md` added), verified to rebuild the manuscript byte for byte (863,440 bytes). CITATION.cff to 1.12.2, in lockstep. The Korean edition remains a translation of v1.12.0.
+
 ## v1.12.1 (2026-11-10)
 
 Patch release, 10 November 2026 (KST): the Korean edition linked. No change to the manuscript, the instruments or their parts.
