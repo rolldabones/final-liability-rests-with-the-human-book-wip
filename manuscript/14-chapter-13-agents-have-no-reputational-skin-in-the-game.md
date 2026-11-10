@@ -17,7 +17,7 @@
 
 Agency law has spent centuries working out who answers when an agent acts. Someone authorizes. Someone acts. Scope matters. Records matter. Accountability is not a mood. The doctrine is older than the modern corporation and has handled every prior technological substitution of human labor by treating the substituting tool as an extension of the principal who chose to deploy it. That settles part of the question.
 
-It does not settle the part that matters most for governance design. The discipline that reputation produced in human agency was not only legal. It was social. Agents who lied lost clients. Agents who cut corners lost partners. Agents who exposed the principal to harm were not retained for the next engagement. The cost of misconduct was paid by the agent, not only by the principal, and that distribution of cost was the engine that made the agency relationship work most of the time without requiring the principal to inspect every act.
+It does not settle the part that matters most for governance design. The discipline that reputation produced in human agency was not only legal. It was social. Agents who lied lost Clients. Agents who cut corners lost partners. Agents who exposed the principal to harm were not retained for the next engagement. The cost of misconduct was paid by the agent, not only by the principal, and that distribution of cost was the engine that made the agency relationship work most of the time without requiring the principal to inspect every act.
 
 Take that engine out and the principal inherits everything.
 
@@ -45,7 +45,7 @@ Take reputation away and the entire structure has to be rebuilt explicitly.
 
 The agentic AI system has no reputation in any sense the principal can use.
 
-It has no career to protect. It has no peers whose esteem it values. It has no professional body that can discipline it. It has no clients it might lose. It has no neighborhood, no church, no school, no spouse to face. The internal states that make a human agent reluctant to embarrass the principal are not present in the model, and the external structures that punish a human agent for embarrassing the principal do not reach the model either.
+It has no career to protect. It has no peers whose esteem it values. It has no professional body that can discipline it. It has no Clients it might lose. It has no neighborhood, no church, no school, no spouse to face. The internal states that make a human agent reluctant to embarrass the principal are not present in the model, and the external structures that punish a human agent for embarrassing the principal do not reach the model either.
 
 The model can be retired. That is the only sanction available. Retirement is not a reputational consequence borne by the agent. It is a procurement decision made by the principal. The successor model does not learn from the retired one’s failure. It does not remember the matter, the embarrassment or the cost. The next deployment starts at the same baseline of motivation, which is none.
 
@@ -73,7 +73,7 @@ The chapter title’s claim takes that one step further. The agent has no reputa
 
 The clearest worked example of that landing is Moffatt v. Air Canada, 2024 BCCRT 149.
 
-The British Columbia Civil Resolution Tribunal decided the matter in February 2024. The facts are short. A traveler used Air Canada’s customer-service chatbot, deployed on the airline’s website, to ask about bereavement fares while booking a last-minute flight after the death of his grandmother. The chatbot told him that bereavement fares could be applied for retroactively, within ninety days of travel. He booked, traveled, then submitted the application. Air Canada refused, citing a separate page on its own website that said the opposite. The traveler brought the matter to the tribunal.
+The British Columbia Civil Resolution Tribunal decided the matter on 14 February 2024. The facts are short. A traveler used Air Canada’s customer-service chatbot, deployed on the airline’s website, to ask about bereavement fares while booking a last-minute flight after the death of his grandmother. The chatbot told him that bereavement fares could be applied for retroactively, within ninety days of travel. He booked, traveled, then submitted the application. Air Canada refused, citing a separate page on its own website that said the opposite. The traveler brought the matter to the tribunal.
 
 Air Canada’s defense was instructive. It argued that it could not be held liable for information provided by its agents, servants or representatives, including a chatbot. In effect, the tribunal observed, Air Canada was suggesting that the chatbot was “a separate legal entity that is responsible for its own actions” (Moffatt v. Air Canada, 2024 BCCRT 149, para 27). The tribunal rejected the argument as a basic point of business law. The chatbot was part of Air Canada’s website. The airline was responsible for the information on its website. It made no difference whether the information was rendered on a static page or generated by an automated system. The award was modest: CA$650.88 in damages (the difference between the fare paid and the bereavement fare), plus CA$36.14 in pre-judgment interest and CA$125 in tribunal fees, CA$812.02 in total (para 44). The doctrinal point was not.
 
@@ -95,9 +95,9 @@ This is not a contract-redrafting recommendation. It is a diagnosis of where the
 
 Agency law tells the organization who answers. It does not, by itself, tell the organization how high the bar should be.
 
-The doctrine has a concrete shape. The traveler arriving at an inn after dark presented himself, with horse and goods, to a stranger who would feed him, stable his animal, store his property and shelter him for the night. The traveler had no contract worth the paper it would have been written on. The innkeeper knew the road the traveler had taken. The local court, when consulted afterwards because something had been stolen or someone had been hurt, did not ask whether the innkeeper had promised to be careful. The court asked whether the traveler had relied on the calling the innkeeper held himself out to perform, and whether the inn had fallen short of what reliance required. The standard came from the calling, not the bargain.
-
 The bar is set in part by a different body of doctrine, older than modern agency law and originally developed for relationships that look nothing like agentic AI but bear directly on it. The common law of public callings grew up around innkeepers, common carriers, ferrymen, wharfingers and others whose service the public learned to rely on. The doctrine was not uniform across centuries or jurisdictions, but it carried a recognizable set of moves. When others begin to depend on the service, the operator’s obligations harden. When the operator takes custody of what matters to the public, the operator inherits a burden. Protection and aid become part of the bargain, not optional extras. The standard rises with the reliance.
+
+The doctrine has a concrete shape. The traveler arriving at an inn after dark presented himself, with horse and goods, to a stranger who would feed him, stable his animal, store his property and shelter him for the night. The traveler had no contract worth the paper it would have been written on. The innkeeper knew the road the traveler had taken. The local court, when consulted afterwards because something had been stolen or someone had been hurt, did not ask whether the innkeeper had promised to be careful. The court asked whether the traveler had relied on the calling the innkeeper held himself out to perform, and whether the inn had fallen short of what reliance required. The standard came from the calling, not the bargain.
 
 The doctrine is not dead. Public utility regulation, common carrier rules, hospitality law and elements of consumer protection all carry forward pieces of it. The pieces matter for AI governance because the structural features the doctrine responded to are present in agentic deployments at scale: a service the public learns to rely on, custody of what matters to them, profit from the arrangement and asymmetric information about how the service works.
 
@@ -143,7 +143,7 @@ The doctrines this book uses cohere here, because the chapter has reached the po
 
 Slow AI creates the inspection point. The deployment that has been slowed at the right place produces the documentation that the agent cannot produce for itself, surfaces the mental-model gap that the user would otherwise discover under conditions of harm and forces the question of who can pause, override and escalate when the system behaves outside its specified envelope.
 
-Informed Intent defines what the principal must understand before the inspection point can do useful work. The decision the system is influencing, the population it is influencing, the inputs it will see, the outputs it will produce, the reliance it will invite and the consequence of getting it wrong. Informed Intent is what makes the slowdown produce evidence rather than ceremony.
+Informed Intent defines the authorization the principal must give, and what the principal must understand to give it, before the inspection point can do useful work. The decision the system is influencing, the population it is influencing, the inputs it will see, the outputs it will produce, the reliance it will invite and the consequence of getting it wrong. Informed Intent is what makes the slowdown produce evidence rather than ceremony.
 
 Final Liability names, at specification, the human who signs for the deployment; the name attaches when the documentation and the intent are confirmed, and it holds through reliance. Not as the user who clicked. Not as the manager who attended the meeting. Not as the committee whose minutes recorded the discussion. As the named accountable person whose decision the record shows and whose authority the workflow respected at the moment the system acted.
 
@@ -155,7 +155,7 @@ The questions that follow from this are not new. Who has signed for the deployme
 
 The chapter has named what the agent structurally lacks, a reputation to lose, and therefore the disciplining force that reputation supplies on the human side of every agency.
 
-The chapter has read Moffatt v Air Canada and the law of public callings to show that the deploying organization, not the tool, holds the duty.
+The chapter has read Moffatt v. Air Canada and the law of public callings to show that the deploying organization, not the tool, holds the duty.
 
 The chapter has identified the mechanisms that remain when reputation is absent from one side, the contract, the documentation and the named human, built before the reliance lands rather than after.
 

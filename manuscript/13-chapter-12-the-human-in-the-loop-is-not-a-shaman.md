@@ -29,7 +29,7 @@ It is ceremony.
 
 The military artificial intelligence literature is useful here because it strips the euphemism away. In military settings, the phrase “decision support” cannot be treated as harmless. A system that supports a targeting decision, operational plan or battlefield assessment may shape life-and-death outcomes even if it never pulls a trigger.
 
-The open access volume Legal, Ethical, and Technical Dilemmas in Military Artificial Intelligence, edited by Bérénice Boutin, Taylor Kate Woodcock and Sadjad Soltanzadeh, is valuable precisely because it examines military artificial intelligence across autonomous weapons systems, decision-support technologies and AI-augmented human capabilities, while focusing on how artificial intelligence reshapes agency, responsibility and control.
+The open access volume *Legal, Ethical, and Technical Dilemmas in Military Artificial Intelligence*, edited by Bérénice Boutin, Taylor Kate Woodcock and Sadjad Soltanzadeh, is valuable precisely because it examines military artificial intelligence across autonomous weapons systems, decision-support technologies and AI-augmented human capabilities, while focusing on how artificial intelligence reshapes agency, responsibility and control.
 
 The DILEMA project behind the volume deliberately broadened the military AI discussion beyond autonomous weapons systems. It addressed decision-support systems and intelligence tools that are said to assist, rather than replace, human judgment. It also moved the discussion from meaningful human control toward human agency and emphasized legal compliance in design and development, not merely after deployment.
 
@@ -49,7 +49,7 @@ The phrase “military-grade” is often abused. It can become marketing decorat
 
 That is not the point.
 
-Military-grade AI Governance, Risk Management and Compliance means consequential-grade governance. It means governance built for environments where the cost of error is high, the operating context is dynamic, the facts are incomplete, the tempo is pressured and accountability cannot be solved by saying someone was somewhere near the decision.
+Military-grade AI governance, risk management and compliance means consequential-grade governance. It means governance built for environments where the cost of error is high, the operating context is dynamic, the facts are incomplete, the tempo is pressured and accountability cannot be solved by saying someone was somewhere near the decision.
 
 That standard travels.
 
@@ -213,7 +213,7 @@ Agentic artificial intelligence can do that to professional judgment at industri
 
 Davidovic’s treatment of pre-deployment judgment also matters for enterprise governance. One answer to the human-oversight problem is to say that human judgment appears earlier in the lifecycle: design, vendor review, testing, evaluation, validation, verification, procurement and approval. Human judgment need not occur at every step. But at some point the distance between human intent and system outcome becomes too mediated, too far removed and too dependent on the agent’s goal translation and dynamic memory to serve the purposes for which human judgment was required in the first place.
 
-That point should be imported directly into AI Governance, Risk Management and Compliance.
+That point should be imported directly into AI governance, risk management and compliance.
 
 A model may be approved. A vendor may be reviewed. A policy may be signed. A testing record may exist. But if the deployed agent later interprets intent, creates sub-goals, selects evidence, mediates what the human sees and adapts through memory, the organization may have governed the system it imagined, not the system it deployed.
 
@@ -313,7 +313,7 @@ The operational implication for the loop is direct.
 
 A loop that scans for invisible failures is a different artifact from a loop that scans for visible ones.
 
-It requires a sampling protocol distinct from spot review, a recording cadence that captures the conversation rather than the conclusion, and a reviewer trained to read for drift and silent mismatch rather than for surface fluency.
+It requires a sampling protocol distinct from spot review, a recording cadence that captures the conversation rather than the conclusion and a reviewer trained to read for drift and silent mismatch rather than for surface fluency.
 
 Without those changes, presence in the loop produces a signature on outputs whose failure profile the signer cannot see.
 
@@ -353,7 +353,7 @@ Sixth, iterative assessment. Approval at launch is not enough. Iterative assessm
 
 Seventh, after-action accountability. When a failure, near miss or unexpected behavior occurs, the organization must be able to reconstruct the causal chain, identify where human judgment was preserved or displaced and revise the system, controls or authority model accordingly. This is not blame-seeking. It is governance learning.
 
-That is the military-grade standard for enterprise AI Governance, Risk Management and Compliance.
+That is the military-grade standard for enterprise AI governance, risk management and compliance.
 
 Not command and control for its own sake.
 
@@ -365,7 +365,7 @@ Ask whether human judgment remains part of the causal story.
 
 If the answer is no, the loop has become decoration. The person may have been in the process. The judgment was not in the outcome.
 
-AI Governance, Risk Management and Compliance should not worship the loop. It should test the loop.
+AI governance, risk management and compliance should not worship the loop. It should test the loop.
 
 ## The Loop Must Be Designed Around the Decision
 
@@ -551,7 +551,7 @@ This is where Slow AI, Informed Intent and Final Liability become one doctrine r
 
 Slow AI creates the inspection point.
 
-Informed Intent defines what the human must understand at that point.
+Informed Intent defines the authorization that must exist at that point and the conditions the human giving it must meet.
 
 Final Liability names who owns the decision made at that point.
 
