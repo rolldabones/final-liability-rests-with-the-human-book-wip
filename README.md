@@ -47,7 +47,7 @@ Appendices D, E, F, H, K and L are included in the manuscript. They are working 
 
 `Final_Liability_Rests_with_the_Human.md` is the manuscript and the file of record: cite it and download it from there. GitHub does not render a markdown file of this size in the browser, so for reading it is published in parts under [manuscript/](manuscript/README.md), one file per chapter, derived from the manuscript and verified to rebuild it byte for byte.
 
-[`AI_GRC_Master_Reference_v7_13.md`](AI_GRC_Master_Reference_v7_13.md) is Appendix J and is likewise the file of record: cite it and download it from there. It sits above the account's 240,000-byte splitting ceiling, so for reading it is published in parts under [master-reference/](master-reference/README.md), derived from it and verified to rebuild it byte for byte. [`AI_Audit_Due_Diligence_Checklist_v5_2.md`](AI_Audit_Due_Diligence_Checklist_v5_2.md) is Appendix I, 199 questions in 11 domains, each with a stable ID (0.01 to 10.16, cited as "Checklist ID 1.07") and the Master Reference Part that states its control, and renders as it is.
+[`AI_GRC_Master_Reference_v7_14.md`](AI_GRC_Master_Reference_v7_14.md) is Appendix J and is likewise the file of record: cite it and download it from there. It sits above the account's 240,000-byte splitting ceiling, so for reading it is published in parts under [master-reference/](master-reference/README.md), derived from it and verified to rebuild it byte for byte. [`AI_Audit_Due_Diligence_Checklist_v5_3.md`](AI_Audit_Due_Diligence_Checklist_v5_3.md) is Appendix I, 199 questions in 11 domains, each with a stable ID (0.01 to 10.16, cited as "Checklist ID 1.07") and the Master Reference Part that states its control, and renders as it is.
 
 ## How it was written
 
