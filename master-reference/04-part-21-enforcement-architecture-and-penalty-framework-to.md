@@ -35,7 +35,7 @@ Fines under the EU AI Act are structured in three tiers. All tiers use a “high
 
 ### 21.3 Regulatory Sandbox Safe Harbor
 
-EU AI Act Articles 57 to 59 establish a framework for AI regulatory sandboxes; Articles 60 and 61 cover testing in real-world conditions outside sandboxes. Supervisory authorities in Member States may establish sandboxes providing a controlled environment for providers and prospective providers to develop, train, test and validate innovative AI systems under regulatory supervision before market placement. Participating in a sandbox does not provide immunity from liability for harm caused during testing, but does provide access to regulatory guidance and a degree of regulatory engagement that can reduce compliance uncertainty for novel AI applications. Organizations developing innovative AI systems that are uncertain about their regulatory classification should consider sandbox participation as part of their compliance strategy.
+EU AI Act Articles 57 to 59 establish a framework for AI regulatory sandboxes; Articles 60 and 61 cover testing in real-world conditions outside sandboxes. Under Article 57(1), as amended by Regulation (EU) 2026/1744, national competent authorities must ensure that at least one AI regulatory sandbox is operational at national level by 2 August 2027; Article 57(3a) adds a Union-level sandbox. Sandboxes provide a controlled environment for providers and prospective providers to develop, train, test and validate innovative AI systems under regulatory supervision before market placement. Participating in a sandbox does not provide immunity from liability for harm caused during testing, but does provide access to regulatory guidance and a degree of regulatory engagement that can reduce compliance uncertainty for novel AI applications. Organizations developing innovative AI systems that are uncertain about their regulatory classification should consider sandbox participation as part of their compliance strategy.
 
 ## PART 22: AI GOVERNANCE MATURITY MODEL
 
@@ -335,7 +335,6 @@ The following tables map key governance framework elements to applicable regulat
 | Documentation keeping                   | Art. 18           | Part 14                     |
 | Conformity assessment                   | Art. 43           | Part 5                      |
 | EU database registration                | Art. 49           | Part 6.8                    |
-| Fundamental Rights Impact Assessment    | Art. 27           | Part 20                     |
 | Post-market surveillance                | Art. 72           | Part 6.6                    |
 | Serious incident reporting (three-tier) | Art. 73           | Part 8.3                    |
 

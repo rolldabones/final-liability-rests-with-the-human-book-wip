@@ -33,7 +33,7 @@ A service is an outcome delivered to customers, staff or partners. It is not a t
 
 ### L.2.2 Time-based impact tolerances
 
-Impact tolerance is the maximum tolerable disruption before harm becomes unacceptable. It is defined in time and severity terms so it can be used as an execution deadline. Tolerances are business commitments, not only technical RTO or RPO. They must distinguish between down and degraded states when the distinction matters. They anchor pass and fail outcomes for exercises and incident retrospectives. Without tolerances, teams cannot prioritize. With tolerances, incident response becomes a series of decisions against a clock: detect, decide, execute and prove.
+Impact tolerance is the maximum tolerable level of disruption to a service, measured by a length of time and any other relevant metrics, at the point beyond which harm becomes intolerable (FCA SYSC 15A.2.5R; PRA SS1/21, paragraph 3.1). This book uses it as an execution deadline. Tolerances are business commitments, not only technical RTO or RPO. They must distinguish between down and degraded states when the distinction matters. They anchor pass and fail outcomes for exercises and incident retrospectives. Without tolerances, teams cannot prioritize. With tolerances, incident response becomes a series of decisions against a clock: detect, decide, execute and prove.
 
 ### L.2.3 Pipes
 

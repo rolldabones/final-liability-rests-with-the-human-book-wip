@@ -11,7 +11,7 @@
 
 **A human in the loop is not governance. It is a place in a diagram.**
 
-**Governance begins only when the human has the knowledge, authority, time, evidence and permission to change what the system is about to do.**
+**Governance begins only when the human has the knowledge, evidence, authority, time and permission to change what the system is about to do.**
 
 There is a comforting phrase in artificial intelligence governance: human in the loop.
 
@@ -85,7 +85,7 @@ Without those conditions, the human is not in the loop in any meaningful sense.
 
 The human is merely at the end of the loop.
 
-This is why the DILEMA project’s move from meaningful human control to human agency is so important. Control can be treated as binary: the human could intervene or could not. Agency requires a better question: did the human retain a meaningful capacity to understand, deliberate and alter the outcome? The issue is not whether a person appears in the process map. The issue is whether the person still has qualitative influence over the decision.
+This is why the DILEMA project’s move from meaningful human control to human agency is so important. Control can be treated as binary: the human could intervene or could not. Agency requires a better question: did the human retain a meaningful capacity to understand, deliberate and alter the outcome? The issue is not whether a person appears in the process map. The issue is whether the person still retains qualitative control over the decision, the DILEMA project’s framing of human agency: meaningful influence over its outcome.
 
 That is the right question for enterprise governance.
 
@@ -117,7 +117,7 @@ Article 14 of the European Union AI Act requires high-risk AI systems to be desi
 
 That is an important shift. The law does not merely ask whether a human exists somewhere in the process. It asks whether the system is designed so the human can oversee it effectively.
 
-The National Institute of Standards and Technology AI Risk Management Framework points in the same practical direction. Its core functions, Govern, Map, Measure and Manage, are designed to help organizations create dialogue, understanding and activities for managing AI risks across the lifecycle. The Generative AI Profile adds that policies and procedures should define and differentiate roles and responsibilities for human-AI configurations and oversight of AI systems.
+The National Institute of Standards and Technology AI Risk Management Framework points in the same practical direction. Its Core, made up of four functions (Govern, Map, Measure and Manage), provides outcomes and actions that enable dialogue, understanding and activities to manage AI risks and responsibly develop trustworthy AI systems. Under subcategory GOVERN 3.2, which calls for policies defining and differentiating roles and responsibilities for human-AI configurations and oversight, the Generative AI Profile suggests actions such as defining acceptable use policies for generative AI interfaces, modalities and human-AI configurations (GV-3.2-003).
 
 These frameworks are not identical. They do not solve the problem by themselves. But they share a useful premise: human oversight is not a slogan. It must be designed, assigned, documented, tested and maintained.
 
@@ -137,7 +137,7 @@ A system can displace the human by framing the facts. It can decide which facts 
 
 A human may retain the theoretical power to disagree. The practical structure makes disagreement rare.
 
-The military AI literature identifies this risk directly. AI-driven decision-support systems can become de facto decision makers as they become more complex, fast and adaptive. In high-stakes, time-sensitive situations, operators may defer to recommendations without fully understanding them or weighing alternatives. Automation bias then erodes genuine human judgment even where formal oversight remains.
+The military AI literature identifies this risk directly. As the DILEMA project observes, AI-driven decision-support systems can inadvertently become de facto decision makers; as they grow more complex, fast and adaptive, the boundary between human-controlled and machine-assisted decisions blurs. Particularly in high-stakes, time-sensitive situations, operators may defer to AI recommendations without fully comprehending them or weighing alternatives. This automation bias creates the risk that AI systems undermine human decision making despite formal oversight, and it can deepen the erosion of genuine human judgment (Boutin, Woodcock and Soltanzadeh 2026, ch. 1).
 
 This is not a military problem.
 
@@ -255,7 +255,7 @@ The argument against shaman oversight needs an empirical taxonomy of what shaman
 
 The literature now supplies one.
 
-Potts and Sudhof, working with the WildChat dataset of one hundred thousand human-AI interactions, found that seventy-nine percent of AI failures in the corpus were invisible. Something went wrong and the user gave no overt indication that there was a problem.
+Potts and Sudhof (2026), analyzing a random sample of one hundred thousand interactions from the WildChat dataset, found that seventy-nine percent of AI failures in the corpus were invisible. Something went wrong and the user gave no overt indication that there was a problem.
 
 The visible failures, the ones a human in the loop might catch on contemporaneous review, were outnumbered by each of the top two invisible-failure archetypes alone.
 
@@ -285,7 +285,7 @@ The shaman blessing the output sees fluent prose and a satisfied counterparty.
 
 The eight archetypes operate underneath both surfaces.
 
-Counterfactual analysis on the same corpus, replacing the older responses with frontier-model output, found that failure rates dropped substantially but the distribution of archetypes remained stable.
+A counterfactual analysis of prompts from the same corpus, re-answered by present-day frontier models, found that the overall failure rate fell while the distribution of archetypes appeared largely stable.
 
 The model gets better.
 
@@ -299,7 +299,7 @@ The five components of agency named earlier in the chapter, epistemic access, in
 
 The reviewer must be looking for failures that do not announce themselves.
 
-The chapter has already located this requirement structurally.
+The book locates this requirement structurally elsewhere, in Chapters 13 and 21.
 
 Documentation is not transparency unless it enables the next human in the chain to act in time.
 
@@ -463,7 +463,7 @@ That is why Final Liability rests with the Human.
 
 Not because the human knows every parameter.
 
-Because the human institution chose the system, defined the purpose, set the limits, accepted the residual risk and took the benefit.
+Because a named human, acting for the institution, chose the system, defined the purpose, set the limits, accepted the residual risk and took the benefit.
 
 ## Iteration Is Not Optional After Deployment
 

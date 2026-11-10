@@ -13,7 +13,7 @@
 >
 > *Soetsu Yanagi, The Unknown Craftsman*
 
-A note on authority. The fifty questions that follow are not this author’s invention of what governance should require. They are derived from the governance architecture this book develops across twenty-one chapters, the AI Audit and Due Diligence Checklist in Appendix I, ForHumanity’s CORE Governance, Oversight and Accountability pillars and the requirements of ISO 42001, the NIST AI RMF and the EU AI Act. They are also, notably, the questions that NIST AI 800-4, the March 2026 publication from the Center for AI Standards and Innovation cataloging the gaps, barriers and open questions in post-deployment AI system monitoring, drawing on workshops totaling over 250 participants from government, industry, academia and civil society, found that organizations cannot currently answer. NIST’s open questions ask: were performance baselines established; who is responsible for monitoring; who is responsible for remediating incidents; what is the right cadence for monitoring; how do we enable ongoing external and third-party testing. These are not aspirational governance goals. They are the specific questions that experienced practitioners reported they cannot answer about their own deployed AI systems. The Punchlist converts those open questions into binary governance tests. Either the answer exists as documented evidence with a named owner, or the item is open.
+A note on authority. The fifty questions that follow are not this author’s invention of what governance should require. They are derived from the governance architecture this book develops across the preceding twenty-one chapters, the AI Audit and Due Diligence Checklist in Appendix I, ForHumanity’s CORE AAA System Governance certification scheme (version 1.5), in particular its Top Management Governance, Oversight, Accountability pillar, and the requirements of ISO 42001, the NIST AI RMF and the EU AI Act. They are also, notably, the questions that NIST AI 800-4, the March 2026 publication from the Center for AI Standards and Innovation cataloging the gaps, barriers and open questions in post-deployment AI system monitoring, drawing on workshops totaling over 250 participants from government, industry, academia and civil society, identified as open questions that the field has not yet resolved or reached consensus on. Among them (Table 4, and section 3.2.1 for baselines): whether performance baselines were established; who is responsible for monitoring; who is responsible for remediating incidents; what the right cadence for monitoring is; and “How to enable ongoing external/third-party testing?” These are not aspirational governance goals. They are open questions raised by workshop participants and in the literature that NIST reports the field has not yet resolved. The Punchlist converts those open questions into binary governance tests. Either the answer exists as documented evidence with a named owner, or the item is open.
 
 **The ship does not sail until the Punchlist is complete.** That is not a metaphor. It is a contractual and operational reality that anyone who has managed large-scale projects learns the hard way, or learns from someone who did.
 
@@ -61,7 +61,7 @@ The governance test has a simple organizational diagnostic embedded in it. If ev
 
 ## The Punchlist: Fifty Questions
 
-The questions below are organized by governance layer: board and leadership, policy and management system, operations and deployment, evidence and audit, and fairness and non-discrimination. Each question requires a Yes or No. Yes requires a document reference, a named owner and a review date. An answer that exists only in someone’s memory is not a Yes. An owner who is not named is not an owner. A review date that has passed without a new review is not current. The item is No until all three exist.
+The questions below are organized by governance layer: board and leadership, policy and management system, operations and deployment, evidence and audit, and fairness and non-discrimination. Each question requires a Yes or No. Yes requires a document reference, a named owner and a review date. An answer that exists only in someone’s memory is not a Yes. An owner who is not named is not an owner, and a committee is not an owner: where a committee appears below, the owner is its chair by role and incumbent, and the committee is the forum. A review date that has passed without a new review is not current. The item is No until all three exist.
 
 **Board and Leadership (Questions 1–10)**
 
@@ -69,9 +69,9 @@ The questions below are organized by governance layer: board and leadership, pol
 
 **2.** Has the board received a briefing in the past twelve months on the organization’s AI risk profile, including the specific systems deployed, their risk tier and their current governance status? \[Owner: Chief Risk Officer / Chief AI Officer\]
 
-**3.** Has the board approved a documented risk appetite statement for AI, specifying what categories and levels of AI-related risk the organization is willing to accept? \[Owner: Board Risk Committee\]
+**3.** Has the board approved a documented risk appetite statement for AI, specifying what categories and levels of AI-related risk the organization is willing to accept? \[Owner: Chair of the Board Risk Committee\]
 
-**4.** Is there a named executive who is accountable for the organization’s AI governance program, with that accountability reflected in their performance objectives and compensation structure? \[Owner: CEO / Board Compensation Committee\]
+**4.** Is there a named executive who is accountable for the organization’s AI governance program, with that accountability reflected in their performance objectives and compensation structure? \[Owner: CEO / Chair of the Board Compensation Committee\]
 
 **5.** Has the organization established an expert oversight function, committee or role with the mandate, competence and access to oversee AI systems, including demonstrable influence on deployment decisions? \[Owner: Chief AI Officer / General Counsel\]
 
@@ -83,7 +83,7 @@ The questions below are organized by governance layer: board and leadership, pol
 
 **9.** Has the organization allocated budget for its AI governance program as a named line item, reflecting the actual cost of the governance work the policy requires? \[Owner: CFO / Chief AI Officer\]
 
-**10.** Has the board conducted or commissioned an independent assessment of the organization’s AI governance maturity in the past twenty-four months? \[Owner: Board Audit Committee\]
+**10.** Has the board conducted or commissioned an independent assessment of the organization’s AI governance maturity in the past twenty-four months? \[Owner: Chair of the Board Audit Committee\]
 
 **Policy and Management System (Questions 11–20)**
 
@@ -93,7 +93,7 @@ The questions below are organized by governance layer: board and leadership, pol
 
 **13.** Has the organization documented a lifecycle management procedure for AI systems specifying the stages from concept through decommissioning, the accountability at each stage and the governance artifacts required before each stage-gate? \[Owner: Chief AI Officer\]
 
-**14.** Does the organization’s AI management system align with ISO 42001 and NIST AI RMF requirements, and has that alignment been assessed by a qualified reviewer? \[Owner: Chief Compliance Officer / Chief Risk Officer\]
+**14.** Does the organization’s AI management system conform to ISO/IEC 42001 and align with the voluntary NIST AI RMF, and has that conformity and alignment been assessed by a qualified reviewer? \[Owner: Chief Compliance Officer / Chief Risk Officer\]
 
 **15.** Are all personnel who interact with AI systems trained at a level appropriate to their role, with training records maintained and refresh cycles defined? \[Owner: Chief People Officer / Chief AI Officer\]
 
@@ -105,7 +105,7 @@ The questions below are organized by governance layer: board and leadership, pol
 
 **19.** Are vendor and third-party AI providers subject to governance requirements equivalent to those applied internally, enforced through contractual obligations with audit rights? \[Owner: Chief Procurement Officer / General Counsel\]
 
-**20.** Does the organization conduct scheduled internal audits of its AI management system with documented findings, corrective actions and management review? \[Owner: Chief Audit Executive / Board Audit Committee\]
+**20.** Does the organization conduct scheduled internal audits of its AI management system with documented findings, corrective actions and management review? \[Owner: Chief Audit Executive / Chair of the Board Audit Committee\]
 
 **Operations and Deployment (Questions 21–30)**
 
@@ -137,7 +137,7 @@ The questions below are organized by governance layer: board and leadership, pol
 
 **33.** Are engagement letters for AI audit and assurance engagements drafted to explicitly exclude scope items the audit does not cover, prohibit certification language and define permitted use of the resulting report? \[Owner: General Counsel / Chief Audit Executive\]
 
-**34.** Does the organization’s AI assurance model follow the indirect engagement structure in which the organization prepares the subject matter information and the auditor provides independent assurance, with remediation support scoped separately? \[Owner: General Counsel / Chief Audit Executive\]
+**34.** Does the organization’s AI assurance model follow the attestation engagement structure of ISAE 3000 (Revised), in which the organization measures or evaluates the subject matter and prepares the subject matter information and the practitioner provides independent assurance on it, with remediation support scoped separately? \[Owner: General Counsel / Chief Audit Executive\]
 
 **35.** Do AI vendor contracts include explicit audit rights covering operational log access, testing and validation record access, personnel interview rights and advance change notification? \[Owner: General Counsel / Chief Procurement Officer\]
 
@@ -145,11 +145,11 @@ The questions below are organized by governance layer: board and leadership, pol
 
 **37.** Is the organization’s sampling methodology for generative AI systems statistically defensible, with the acceptable error rate defined in the specification, sample sizes justified against that rate and subgroup analysis conducted for any system where differential performance creates differential harm? \[Owner: Chief AI Officer / Chief Risk Officer\]
 
-**38.** Does the organization’s adversarial testing program draw on established threat taxonomies including the OWASP Top 10 for Large Language Model Applications, the OWASP Top 10 for Agentic AI Applications and the MITRE ATLAS framework, and is the testing conducted by personnel independent of the development team? \[Owner: Chief Technology Officer / Chief Audit Executive\]
+**38.** Does the organization’s adversarial testing program draw on established threat taxonomies including the OWASP Top 10 for LLM Applications 2025, the OWASP Top 10 for Agentic Applications for 2026 and MITRE ATLAS, and is the testing conducted by personnel independent of the development team? \[Owner: Chief Technology Officer / Chief Audit Executive\]
 
 **39.** Does the organization maintain an ecosystem of assurance that covers certification, independent audit, insurance, regulatory compliance and enterprise client due diligence requirements, with each relationship governed by a contract that allocates risk and forces explicit statement of expectations? \[Owner: General Counsel / Chief Risk Officer\]
 
-**40.** Does the organization’s ForHumanity CORE assessment, or equivalent organizational governance baseline, confirm that the twenty Governance, Oversight and Accountability pillars are in place as a precondition for system-level certification and audit? \[Owner: Chief AI Officer / Board Audit Committee\]
+**40.** Does the organization’s ForHumanity CORE assessment, or equivalent organizational governance baseline, confirm that the sixteen CORE AAA System Governance pillars are in place as a prerequisite for ForHumanity’s other certification schemes and audits? \[Owner: Chief AI Officer / Chair of the Board Audit Committee\]
 
 **Fairness and Non-Discrimination (Questions 41–50)**
 
@@ -173,7 +173,7 @@ The fairness cluster is the final and in some jurisdictions the most immediately
 
 **49.** Has the organization assessed the deployment context of each system used in high-stakes decisions for conditions that could produce disparate impact even where the system itself passes fairness metrics, including differences between the deployment population and the training population? \[Owner: Chief AI Officer / Chief Risk Officer\]
 
-**50.** Is the organization’s approach to AI fairness subject to ongoing board-level oversight, with fairness-related incidents, regulatory developments and assessment results reported through the same governance channels as other material compliance matters? \[Owner: Board Risk Committee / General Counsel\]
+**50.** Is the organization’s approach to AI fairness subject to ongoing board-level oversight, with fairness-related incidents, regulatory developments and assessment results reported through the same governance channels as other material compliance matters? \[Owner: Chair of the Board Risk Committee / General Counsel\]
 
 ## The Governance Test Is Not the Punchlist
 
@@ -183,7 +183,7 @@ Fifty Yes or No answers with named owners is a necessary condition for AI govern
 
 The feudal governance pattern described earlier in this chapter is not a marginal failure mode: authority flows upward, liability flows downward, strategic ambiguity protects those at the top and specific accountability burdens those at the bottom. It is the default organizational response to governance requirements that impose costs without clear near-term enforcement. The Punchlist exists to make that pattern visible. If the named owners on the fifty questions are the people who built the system, who are evaluated on its launch and who lack the institutional protection to refuse sign-off, the Punchlist is documentation of compliance theater. The governance test fails not because the questions were not answered but because the answers cannot be trusted.
 
-The AI GRC Master List of Questions and the AI GRC Copilot at github.com/rolldabones/AI-GRC-Copilot can be used to build the governance artifacts the fifty questions require. The AI Audit Due Diligence Checklist in Appendix I stress-tests what the Copilot built. The Slow AI Kitchen methodology trains the people who operate within the resulting governance system. The Punchlist in this chapter tells you whether any of it is working.
+The AI GRC Master List of Minimum Questions and the AI GRC Copilot at github.com/rolldabones/AI-GRC-Copilot can be used to build the governance artifacts the fifty questions require. The AI Audit Due Diligence Checklist in Appendix I stress-tests what the Copilot built. The Slow AI Kitchen methodology trains the people who operate within the resulting governance system. The Punchlist in this chapter tells you whether any of it is working.
 
 ## What This Chapter Has Done
 
