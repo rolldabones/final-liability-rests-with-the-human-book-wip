@@ -20,7 +20,7 @@ Derived from [Final_Liability_Rests_with_the_Human.md](../Final_Liability_Rests_
 | 14 | [CHAPTER 12: The Human in the Loop Is Not a Shaman](13-chapter-12-the-human-in-the-loop-is-not-a-shaman.md) | 43 |
 | 15 | [CHAPTER 13: Agents Have No Reputational Skin in the Game](14-chapter-13-agents-have-no-reputational-skin-in-the-game.md) | 25 |
 | 16 | [CHAPTER 14: The Three Lines and the Trust Boundary](15-chapter-14-the-three-lines-and-the-trust-boundary.md) | 28 |
-| 17 | [CHAPTER 15: Principal-Agent Risk at Machine Speed](16-chapter-15-principal-agent-risk-at-machine-speed.md) | 35 |
+| 17 | [CHAPTER 15: Principal-Agent Risk at Machine Speed](16-chapter-15-principal-agent-risk-at-machine-speed.md) | 38 |
 | 18 | [CHAPTER 16: Running the Governance](17-chapter-16-running-the-governance.md) | 13 |
 | 19 | [PART IV: THE CONTRACT WAS ALWAYS THE WORKFLOW · CHAPTER 17: A Contract Is Not Paper. It Is a Mechanism for Future Performance.](18-chapter-17-a-contract-is-not-paper-it-is-a-mechanism-for.md) | 19 |
 | 20 | [CHAPTER 18: A Contract Is a Set of Clocks](19-chapter-18-a-contract-is-a-set-of-clocks.md) | 14 |

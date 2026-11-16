@@ -2,6 +2,17 @@
 
 All notable changes to this repository are documented here. Versioning follows [Semantic Versioning](https://semver.org/). The README and this file version in lockstep; prior versions are superseded, never silently overwritten.
 
+## v1.12.3 (2026-11-16)
+
+Patch release, 16 November 2026 (KST): Chapter 15 corrected for *In re The Boeing Co. Derivative Litigation*, Consol. C.A. No. 2024-1210-MTZ (Del. Ch. Aug. 13, 2026), read in full in the slip opinion at [courts.delaware.gov](https://courts.delaware.gov/opinions/download.aspx?id=399780) on 16 November 2026 (KST). Approved at the weekly sweep of 16 November 2026 and ruled the same day in its remediation session (`account-maintenance` `DECISIONS.md` section A). Prepared with Claude, approved by Michael Paik.
+
+- **The 2026 decision added.** Two paragraphs after the *Sanford* commentary: the court granted the motion to dismiss under Rule 23.1 because the plaintiffs had not pleaded that a majority of the board faced a substantial likelihood of liability (slip op. at 21–22, 43–44); the board's reporting after the first settlement (5–6, 29); the red-flag test (30–31, 35–36); production targets as business decisions (36–39); and, labeled as the author's reading, what the distinction between business risk and compliance with positive law (26–27) means for AI. Every statement carries its slip opinion pinpoint.
+- **Statements the decision made untrue, corrected.** The count of decisions in the trajectory; *Sanford* no longer described as the latest development; the trajectory paragraph now says where the duty stops as well as how far it reaches; the three later references to Boeing name the 2021 or the 2026 decision; the chapter summary names both.
+- **The scienter standard restated.** The disclosure-reality paragraph no longer rests *Caremark* on what the board ought to have known: the directors must know they were not discharging their obligations, and gross negligence is not enough (slip op. at 23–24, citing *Stone v. Ritter*, 911 A.2d 362, 370 (Del. 2006)).
+- **Glossary and index:** the *Boeing* sub-entry names both decisions.
+- The struck claims registered in `account-maintenance/tools/supersession-register.json` before propagation. The Korean edition carries the same correction in translation (final-liability-rests-with-the-human-ko-wip v0.2.3). The 2021 decision, *Sanford* and *Stone* were not re-read for this release.
+- `manuscript/` regenerated with `split_markdown.py` at the 240,000-byte ceiling: 34 parts, verified to rebuild the manuscript byte for byte (866,910 bytes). README and CITATION.cff to 1.12.3, in lockstep.
+
 ## v1.12.2 (2026-11-10)
 
 Patch release, 10 November 2026 (KST): the glossary and index added as back matter, the board reading guide linked and the v1.13 plan completed. Decided by Michael Paik on 10 November 2026 (Session 4 of the review of that date); prepared with Claude, approved by Michael Paik.

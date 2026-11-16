@@ -5,7 +5,7 @@
 **Son-U Michael Paik**
 CEO, GRC Solutions Korea.
 
-**v1.12.2 · 10 November 2026 · License: [CC BY-NC-SA 4.0](LICENSE.md) · Changes: [CHANGELOG.md](CHANGELOG.md) · 한국어판: [최종 책임은 인간에게 있다](https://github.com/rolldabones/final-liability-rests-with-the-human-ko-wip)**
+**v1.12.3 · 16 November 2026 · License: [CC BY-NC-SA 4.0](LICENSE.md) · Changes: [CHANGELOG.md](CHANGELOG.md) · 한국어판: [최종 책임은 인간에게 있다](https://github.com/rolldabones/final-liability-rests-with-the-human-ko-wip)**
 
 ---
 
@@ -76,16 +76,17 @@ The book leans on doctrine that does not depend on which regulation is in force 
 | 20 October 2026 | Further legal, factual and citation points corrected in the manuscript and both instruments | Checklist v5.1, Master Reference v7.12 |
 | 2 November 2026 | Part 12 completed by C.R.S. 6-1-1707, and one Checklist question added against it | Master Reference v7.13, Checklist v5.2 |
 | 10 November 2026 | Book and instruments review: the *X.AI LLC v. Weiser* stay stated in the order's words and shown to reach SB 26-189; Korea's Enforcement Decree No. 36580 current; 132 legal and factual corrections and 47 High findings ruled and applied; dated regulatory status boxes in Chapter 3 | Master Reference v7.14, Checklist v5.3 |
+| 16 November 2026 | Chapter 15 corrected for *In re The Boeing Co. Derivative Litigation* (Del. Ch. Aug. 13, 2026), read in full in the slip opinion at the court’s site | Book v1.12.3; instruments unchanged |
 
 Each reissue carries a dated amendment note that itemizes its changes, and the CHANGELOG lists every change. The manuscript's regulatory statements outside those corrections carry their original dates. Versioned documents are never edited in place; each carries its own dated currency note, and points that the published text leaves open are recorded as Unknown with a counsel flag rather than resolved in-house. Time-sensitive legal points still move, so confirm any specific obligation against current sources before relying on it. Nothing here is legal advice, and reading it creates no attorney-client relationship.
 
 ## Status
 
-First edition, June 2026. Revised July 2026; corrected 15 and 18 October 2026; revised 10 November 2026 (v1.12.0), with the Korean edition linked the same day (v1.12.1) and the glossary and index added, with the board reading guide linked (v1.12.2). Revisions are tracked through this repository's commit history.
+First edition, June 2026. Revised July 2026; corrected 15 and 18 October 2026; revised 10 November 2026 (v1.12.0), with the Korean edition linked the same day (v1.12.1) and the glossary and index added, with the board reading guide linked (v1.12.2); Chapter 15 corrected 16 November 2026 for the 2026 *Boeing* decision (v1.12.3). Revisions are tracked through this repository's commit history.
 
 ## How to Cite
 
-> Paik, Son-U Michael. *Final Liability Rests with the Human*, v1.12.2. GRC Solutions Korea, 2026. https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip
+> Paik, Son-U Michael. *Final Liability Rests with the Human*, v1.12.3. GRC Solutions Korea, 2026. https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip
 
 A machine-readable citation is in [CITATION.cff](CITATION.cff).
 
