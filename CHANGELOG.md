@@ -2,6 +2,16 @@
 
 All notable changes to this repository are documented here. Versioning follows [Semantic Versioning](https://semver.org/). The README and this file version in lockstep; prior versions are superseded, never silently overwritten.
 
+## v1.12.6 (2026-11-16)
+
+Patch release, 16 November 2026 (KST): `PLAN-v1.13.md` items 15 to 17, as the plan proposes, on Michael Paik's ruling of 16 November 2026 (account-maintenance `OPEN-ITEMS.md` item 45(e)); the changes approved at the halt of the remediation session of the same day. Prepared with Claude, approved by Michael Paik.
+
+- **Item 15, the pre-deployment specification.** Chapter 9 states that its field list, mapped to the four elements of Informed Intent, is the book's one list. Chapter 5 (which listed what, on what data, for what users, thresholds and response criteria), Chapter 11 (purpose, thresholds, action scope, escalation conditions, exit) and Chapter 21 (performance requirements to oversight mode, with no exit) now point to it; Chapter 21's specification includes the exit, and keeps the performance requirements as what the thresholds test. Appendix E says the Registry records the system against the specification and does not restate it.
+- **Item 16, Punchlist Question 51.** The owner is the Chief Technology Officer, with the accountable executive for the deployment, who alone signs for it, as Chapter 7 allocates; the pairing previously read as two co-owners of the deployment.
+- **Item 17, the risk appetite.** One sentence in Chapter 7: the board approves the appetite and the management body owns it; one body does both where they are one, and in a two-tier structure the supervisory board approves and the management board owns. Punchlist Question 3 asks about the board's approval and is unchanged.
+- Not changed, reported: Appendix I's ID 1.04 field list and `DOCTRINE.md` section 3's altitude restatement, which says the management body owns the risk appetite and does not mention approval.
+- `manuscript/` regenerated at the 240,000-byte ceiling: 34 parts, verified byte for byte (868,732 bytes). README, CITATION.cff and `PLAN-v1.13.md` items 15 to 17 to 1.12.6, in lockstep. The Korean edition's mirror lines are reported, not edited.
+
 ## v1.12.5 (2026-11-16)
 
 Patch release, 16 November 2026 (KST): `PLAN-v1.13.md` item 12, the United States federal, Texas and New York City status re-verified at primary sources (account-maintenance `OPEN-ITEMS.md` item 45(c)). Approved for work by Michael Paik on 10 November 2026; the changes approved at the halt of the remediation session of 16 November 2026. Prepared with Claude, approved by Michael Paik.

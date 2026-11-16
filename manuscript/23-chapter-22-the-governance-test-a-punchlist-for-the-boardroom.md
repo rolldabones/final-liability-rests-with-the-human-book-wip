@@ -177,7 +177,7 @@ The fairness cluster is, in some jurisdictions, the most immediately enforceable
 
 **Stopping (Question 51)**
 
-**51.** For each AI system in production, are pause and rollback each assigned to a named human by role and incumbent and tested at the cadence its impact tier requires, and is the time from the decision to stop to the system actually stopping measured, recorded and within the target the deployment record sets? \[Owner: Accountable executive for the deployment / Chief Technology Officer\]
+**51.** For each AI system in production, are pause and rollback each assigned to a named human by role and incumbent and tested at the cadence its impact tier requires, and is the time from the decision to stop to the system actually stopping measured, recorded and within the target the deployment record sets? \[Owner: Chief Technology Officer, with the accountable executive for the deployment, who alone signs for it\]
 
 ## The Governance Test Is Not the Punchlist
 

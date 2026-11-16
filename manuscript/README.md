@@ -12,7 +12,7 @@ Derived from [Final_Liability_Rests_with_the_Human.md](../Final_Liability_Rests_
 | 6 | [CHAPTER 4: Agentic AI Will Make Weak GRC Fail Fast](05-chapter-4-agentic-ai-will-make-weak-grc-fail-fast.md) | 17 |
 | 7 | [CHAPTER 5: You Cannot Audit What You Cannot Slow Down](06-chapter-5-you-cannot-audit-what-you-cannot-slow-down.md) | 26 |
 | 8 | [PART II: THE DOCTRINE · CHAPTER 6: What Slow AI Means (And What It Does Not)](07-chapter-6-what-slow-ai-means-and-what-it-does-not.md) | 27 |
-| 9 | [CHAPTER 7: What Final Liability Means](08-chapter-7-what-final-liability-means.md) | 17 |
+| 9 | [CHAPTER 7: What Final Liability Means](08-chapter-7-what-final-liability-means.md) | 18 |
 | 10 | [CHAPTER 8: The Standard Is a Clock, Not a Stopwatch](09-chapter-8-the-standard-is-a-clock-not-a-stopwatch.md) | 29 |
 | 11 | [CHAPTER 9: Informed Intent](10-chapter-9-informed-intent.md) | 22 |
 | 12 | [PART III: THE PRINCIPAL WAS ALWAYS HUMAN · CHAPTER 10: Culture as Code: How Agentic AI Reshapes the Organizational Operating System](11-chapter-10-culture-as-code-how-agentic-ai-reshapes-the.md) | 44 |

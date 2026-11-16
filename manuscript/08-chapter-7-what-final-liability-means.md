@@ -51,7 +51,7 @@ Engineering owns enforcement and evidence: the controls that hold the system ins
 
 Internal audit assures the join: that the authority as designed, the enforcement as built and the evidence as recorded are the same thing, for the deployment as it actually runs.
 
-The management body owns the risk appetite: what kinds and levels of AI-related risk the organization will accept, including the ratio of agents to human oversight that Chapter 14 treats as a threshold. A deployment outside the appetite cannot be signed for, however complete the record.
+The management body owns the risk appetite: what kinds and levels of AI-related risk the organization will accept, including the ratio of agents to human oversight that Chapter 14 treats as a threshold. A deployment outside the appetite cannot be signed for, however complete the record. The board approves the appetite and the management body owns it: where the two are one body, it does both, and where a supervisory board sits over a separate management board, the supervisory board approves the appetite and the management board owns it.
 
 The five owners are not interchangeable, and none of them can carry another’s part. A committee can be the forum for any of them; it cannot be the owner. Chapter 16 sets out how the allocation runs.
 
