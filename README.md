@@ -5,7 +5,7 @@
 **Son-U Michael Paik**
 CEO, GRC Solutions Korea.
 
-**v1.12.3 · 16 November 2026 · License: [CC BY-NC-SA 4.0](LICENSE.md) · Changes: [CHANGELOG.md](CHANGELOG.md) · 한국어판: [최종 책임은 인간에게 있다](https://github.com/rolldabones/final-liability-rests-with-the-human-ko-wip)**
+**v1.12.4 · 16 November 2026 · License: [CC BY-NC-SA 4.0](LICENSE.md) · Changes: [CHANGELOG.md](CHANGELOG.md) · 한국어판: [최종 책임은 인간에게 있다](https://github.com/rolldabones/final-liability-rests-with-the-human-ko-wip)**
 
 ---
 
@@ -82,11 +82,11 @@ Each reissue carries a dated amendment note that itemizes its changes, and the C
 
 ## Status
 
-First edition, June 2026. Revised July 2026; corrected 15 and 18 October 2026; revised 10 November 2026 (v1.12.0), with the Korean edition linked the same day (v1.12.1) and the glossary and index added, with the board reading guide linked (v1.12.2); Chapter 15 corrected 16 November 2026 for the 2026 *Boeing* decision (v1.12.3). Revisions are tracked through this repository's commit history.
+First edition, June 2026. Revised July 2026; corrected 15 and 18 October 2026; revised 10 November 2026 (v1.12.0), with the Korean edition linked the same day (v1.12.1) and the glossary and index added, with the board reading guide linked (v1.12.2); Chapter 15 corrected 16 November 2026 for the 2026 *Boeing* decision (v1.12.3); Chapters 7 and 16 read against the Chapter 7 allocation (v1.12.4). Revisions are tracked through this repository's commit history.
 
 ## How to Cite
 
-> Paik, Son-U Michael. *Final Liability Rests with the Human*, v1.12.3. GRC Solutions Korea, 2026. https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip
+> Paik, Son-U Michael. *Final Liability Rests with the Human*, v1.12.4. GRC Solutions Korea, 2026. https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip
 
 A machine-readable citation is in [CITATION.cff](CITATION.cff).
 

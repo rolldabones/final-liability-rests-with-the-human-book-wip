@@ -2,6 +2,18 @@
 
 All notable changes to this repository are documented here. Versioning follows [Semantic Versioning](https://semver.org/). The README and this file version in lockstep; prior versions are superseded, never silently overwritten.
 
+## v1.12.4 (2026-11-16)
+
+Patch release, 16 November 2026 (KST): `PLAN-v1.13.md` item 14, Chapters 7 and 16 read line by line against the Chapter 7 allocation and the `DOCTRINE.md` section 8 short forms (account-maintenance `OPEN-ITEMS.md` item 45(c)). Approved for work by Michael Paik on 10 November 2026; the changes approved at the halt of the remediation session of 16 November 2026. Prepared with Claude, approved by Michael Paik.
+
+- **Chapter 7, What Final Liability Is Not:** the doctrine "changes who carries the obligation" said no one; it now assigns the obligation to the accountable executive named for each deployment, inside an authority the General Counsel designs.
+- **Chapter 7, The Sign-For Verb:** the elements no single function binds are authority, risk, evidence and consequence, the four Chapter 16 names; the chapter listed three.
+- **Chapter 7, AI Widens What the GC Must Sign For:** the General Counsel is no longer said to sign for something operational, which Chapter 7's allocation gives to the accountable executive; the failure named is leaving the design of the authority to the technology function.
+- **Chapter 7 summary:** the four components, in the words Chapter 16 uses, replace a three-item list that matched neither the components nor the five authorizer conditions.
+- **Chapter 16, The Five Owners:** a deployment outside the appetite cannot be signed for, as Chapter 7 says; "by anyone below the management body" implied that the management body could sign for one. The three attributes are given in the section 8 list form, and the General Counsel sentence follows Chapter 7's.
+- Read and not changed, reported for a ruling: Chapter 7's "It does not transfer risk to a single named individual who can then carry the loss", beside the doctrine's named human owner; Chapter 16's "Earlier versions of this book argued"; and Chapter 7's negations, which speak of the General Counsel only.
+- `manuscript/` regenerated with `split_markdown.py` at the 240,000-byte ceiling: 34 parts, verified to rebuild the manuscript byte for byte (867,015 bytes). README, CITATION.cff and `PLAN-v1.13.md` item 14 to 1.12.4, in lockstep. The Korean edition's mirror lines are reported, not edited.
+
 ## v1.12.3 (2026-11-16)
 
 Patch release, 16 November 2026 (KST): Chapter 15 corrected for *In re The Boeing Co. Derivative Litigation*, Consol. C.A. No. 2024-1210-MTZ (Del. Ch. Aug. 13, 2026), read in full in the slip opinion at [courts.delaware.gov](https://courts.delaware.gov/opinions/download.aspx?id=399780) on 16 November 2026 (KST). Approved at the weekly sweep of 16 November 2026 and ruled the same day in its remediation session (`account-maintenance` `DECISIONS.md` section A). Prepared with Claude, approved by Michael Paik.

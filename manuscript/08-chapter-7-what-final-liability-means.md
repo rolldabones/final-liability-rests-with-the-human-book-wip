@@ -17,7 +17,7 @@ Earlier chapters set out the doctrine. This chapter operationalizes it. It state
 
 Final Liability is not vicarious liability. The General Counsel does not absorb the personal consequence of every decision made downstream by every employee, system or vendor under the legal entity’s control. The doctrine of Final Liability does not require that.
 
-Final Liability is not delegation reversed. The General Counsel does not unilaterally pull responsibility away from the operating units who made the decisions. Operating units own their decisions. The Final Liability doctrine does not change that. It changes who carries the obligation to ensure that the decisions were authorized, evidenced and capable of being defended.
+Final Liability is not delegation reversed. The General Counsel does not unilaterally pull responsibility away from the operating units who made the decisions. Operating units own their decisions. The Final Liability doctrine does not change that. It assigns the obligation to ensure that the decisions were authorized, evidenced and capable of being defended: to the accountable executive named for each deployment, inside an authority the General Counsel designs.
 
 Final Liability is not a board insurance policy. It does not exempt directors and officers from their fiduciary obligations, although it interacts with those obligations in important ways. It does not transfer risk to a single named individual who can then carry the loss. It does not function as an indemnity.
 
@@ -37,7 +37,7 @@ Final Liability operates through the sign-for verb rather than the authorize ver
 
 The distinction matters because the failure mode of authorization without sign-for is widespread. A board authorizes an AI strategy. A committee authorizes a procurement. A vendor authorizes a deployment configuration. Each authorization is documented. None of the authorizations binds anyone to the operational adequacy of what was authorized. When the consequence arrives, each authorizing party can point to the others. Each can cite the policy under which they were authorized to authorize. The chain of authorization is intact. The chain of sign-for does not exist, because no one signed for it.
 
-Operating units sign for their decisions but not for the governance architecture around them. Risk management functions sign for the registers but not for the operational controls. Compliance functions sign for the filings but not for whether the filings are connected to operational reality. Internal audit signs for the audit but operates retrospectively. No single function binds authority, evidence and consequence on its own. The binding is done by an allocation, and the allocation has to be stated before any deployment can be signed for.
+Operating units sign for their decisions but not for the governance architecture around them. Risk management functions sign for the registers but not for the operational controls. Compliance functions sign for the filings but not for whether the filings are connected to operational reality. Internal audit signs for the audit but operates retrospectively. No single function binds authority, risk, evidence and consequence on its own. The binding is done by an allocation, and the allocation has to be stated before any deployment can be signed for.
 
 ## One Allocation
 
@@ -65,7 +65,7 @@ Corporate authority must include the question of whether the agentic system was 
 
 Each of these expansions is not optional. They arrive whether the GC chooses to engage with them or not. The choice the GC has is whether to engage with them deliberately, building the governance architecture and the sign-for capability at the front end, or to engage with them retrospectively, after a material incident has surfaced the gap. The first approach is governance. The second is litigation defense.
 
-This is what is meant by AI widens what the GC must sign for. The verb is not metaphorical. The GC who treats AI deployment as a technical procurement issue, leaves the governance to the technology function and signs for nothing operational about it, is signing for the governance gap that results. The signature is not visible until a regulator, a litigant or a Client asks for it. The signature is on file regardless.
+This is what is meant by AI widens what the GC must sign for. The verb is not metaphorical. The GC who treats AI deployment as a technical procurement issue and leaves the design of the authority to the technology function has left the accountable executive nothing to sign inside, and is signing for the governance gap that results. The signature is not visible until a regulator, a litigant or a Client asks for it. The signature is on file regardless.
 
 ## The Name-the-Human Test
 
@@ -103,7 +103,7 @@ This chapter has set out only the doctrine itself, because the doctrine is what 
 
 The chapter has set out the doctrine of Final Liability on its own, because the doctrine is what governs. It is not what the organization says about its AI. It is the name it can produce when the question is asked.
 
-The chapter has named the name-the-human test and the conditions, authority, evidence and operational capability, that make the name real rather than decorative. It has stated the one allocation the book uses: Final Liability attaches to the accountable executive named per deployment; the General Counsel owns the authority design; engineering owns enforcement and evidence; internal audit assures the join; and the management body owns the risk appetite.
+The chapter has named the name-the-human test and the four components that make the name real rather than decorative: the named human, the Informed Intent record, the capability to stop and the evidence pipeline. It has stated the one allocation the book uses: Final Liability attaches to the accountable executive named per deployment; the General Counsel owns the authority design; engineering owns enforcement and evidence; internal audit assures the join; and the management body owns the risk appetite.
 
 The chapter has set only the doctrine. The work it implies, long where the doctrine is short, is what the chapters that follow specify.
 

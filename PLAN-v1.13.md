@@ -48,7 +48,7 @@ Approved by Michael Paik on 10 November 2026 to be picked up in the weekly sweep
 |---|---|---|---|---|
 | 12 | US federal, Texas and New York City status carried from Appendix J, not re-verified against primary sources | Read the Executive Order of 11 December 2025 and any later federal action, Texas HB 149 as in force and NYC Local Law 144 with the State Comptroller's audit of 2 December 2025; re-date the Chapter 3 United States box and Appendix J item by item | Chapter 3 (United States box), Chapter 22 fairness note, Appendix J | One session |
 | 13 | Length: 836,197 bytes, 1.7% longer than v1.11.3; the reviewers' one-fifth cut was not a ruling and was not done | Michael Paik to decide whether a cut is wanted and at what target; if so, propose cuts chapter by chapter, longest first (Chapter 21 is 70 KB), each for approval before it is made | Whole book | Decision first; then two to three sessions |
-| 14 | Chapters 7 and 16, rewritten in v1.12.0, not re-read in the full pass | A line-by-line read of both against the Chapter 7 allocation and the DOCTRINE.md section 8 short forms, with the same scripted checks | Chapters 7 and 16 | Under one session |
+| 14 | Chapters 7 and 16, rewritten in v1.12.0, not re-read in the full pass | A line-by-line read of both against the Chapter 7 allocation and the DOCTRINE.md section 8 short forms, with the same scripted checks. **Shipped in v1.12.4 (16 November 2026).** | Chapters 7 and 16 | Under one session |
 
 
 ## Found by the glossary rebuild, 10 November 2026
