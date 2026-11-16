@@ -2,6 +2,30 @@
 
 All notable changes to this repository are documented here. Versioning follows [Semantic Versioning](https://semver.org/). The README and this file version in lockstep; prior versions are superseded, never silently overwritten.
 
+## v1.12.5 (2026-11-16)
+
+Patch release, 16 November 2026 (KST): `PLAN-v1.13.md` item 12, the United States federal, Texas and New York City status re-verified at primary sources (account-maintenance `OPEN-ITEMS.md` item 45(c)). Approved for work by Michael Paik on 10 November 2026; the changes approved at the halt of the remediation session of 16 November 2026. Prepared with Claude, approved by Michael Paik.
+
+### Primary reads, 16 November 2026 (KST)
+Executive Order 14365 (90 Fed. Reg. 58499) and Executive Order 14409 (91 Fed. Reg. 34565), in the Federal Register text on govinfo.gov; Texas H.B. 149 as enrolled, Business and Commerce Code chapter 552 as codified and the bill history, on capitol.texas.gov; the Department of Consumer and Worker Protection's AEDT page on nyc.gov; the State Comptroller's audit 2024-N-6 summary page on osc.ny.gov. Seven reads of the eight allowed; the eighth, the audit report itself (a PDF behind the same site), could not be extracted and is not relied on.
+
+### Corrections (struck and registered in `account-maintenance/tools/supersession-register.json` before propagation)
+- **Appendix J, Part 12, Texas.** ~~Substantial compliance with the NIST AI RMF provides an affirmative defense against enforcement.~~ The statute's safe harbor is narrower: no liability where the defendant discovers the violation through feedback, testing, state-agency guidelines or, if it substantially complies with the NIST AI RMF Generative Artificial Intelligence Profile or another recognized framework, an internal review process (§ 552.105(e)). The 60-day cure period applies to every noticed violation (§ 552.104), not only curable ones; the applicability test (§ 551.002), the intent elements, the governmental-entity limits and the curable penalty tier are stated from the text, with a status tag, pinpoints and an as-at date.
+- **Appendix J, Part 1.** ~~most recently the December 11, 2025 order~~: Executive Order 14409 of June 2, 2026 is later; it does not address state law.
+- **Chapter 22, fairness note.** ~~found specific weaknesses in the quality of bias audits and the adequacy of independence documentation~~: not supported by the Comptroller's published summary, which finds the complaint process ineffective and at least 17 instances of potential non-compliance among the 32 companies where the Department found one; the note now says that, and that the full report was not read.
+
+### Re-dated and restated
+- **Chapter 3, United States, federal box.** Executive Order 14365 stated by its sections: it does not by its terms preempt any state law; its effect turns on the litigation, rulemaking and legislation it sets in motion. Executive Order 14409 added. Whether the Commerce evaluation has been published is Unknown. The NIST line is as recorded, not re-verified.
+- **Chapter 3, United States, states box.** Texas and New York City verified on 16 November 2026 (KST); the box introduction allows a later date than 10 November 2026. Colorado is unchanged, as verified on 10 November 2026.
+- **Appendix J, Part 12, federal and New York City.** Executive Order 14365 section by section, Executive Order 14409 and the Unknowns; the New York City entry tagged with what was and was not re-read.
+
+### Instruments
+- `AI_GRC_Master_Reference_v7_14.md` reissued as `AI_GRC_Master_Reference_v7_15.md`, with a dated amendment note, Version 7.15. `AI_Audit_Due_Diligence_Checklist_v5_3.md` reissued as `AI_Audit_Due_Diligence_Checklist_v5_4.md`, synchronized with v7.15, with a dated amendment note, v5.4.0; no question changes. Superseded versions removed, per the convention; they remain in the tag chain.
+- `master-reference/` regenerated at the 60,000-byte ceiling: six parts, verified to rebuild the source byte for byte (275,823 bytes); the first part renamed for Version 7.15, and Part 20 now opens the fifth part, so the fourth and fifth parts are renamed. No link in the account points to a renamed part.
+
+### Lockstep
+- `manuscript/` regenerated at the 240,000-byte ceiling: 34 parts, verified byte for byte (868,150 bytes). README (file links, accuracy table, Status, How to Cite), CITATION.cff and `PLAN-v1.13.md` item 12 to 1.12.5. The Korean edition's mirror lines are reported, not edited; it translates v7.14 and v5.3, and its file names stay.
+
 ## v1.12.4 (2026-11-16)
 
 Patch release, 16 November 2026 (KST): `PLAN-v1.13.md` item 14, Chapters 7 and 16 read line by line against the Chapter 7 allocation and the `DOCTRINE.md` section 8 short forms (account-maintenance `OPEN-ITEMS.md` item 45(c)). Approved for work by Michael Paik on 10 November 2026; the changes approved at the halt of the remediation session of 16 November 2026. Prepared with Claude, approved by Michael Paik.
