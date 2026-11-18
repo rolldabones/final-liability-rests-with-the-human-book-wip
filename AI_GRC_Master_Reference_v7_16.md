@@ -1,8 +1,8 @@
-# AI GRC Master Reference File: Version 7.15
+# AI GRC Master Reference File: Version 7.16
 
 ## Knowledge Base for AI-Assisted Governance, Risk Management and Compliance Drafting
 
-*Released July 2026, amended 17 August 2026 and 15 October 2026, restructured 18 October 2026, corrected 20 October 2026, Part 12 completed 2 November 2026, corrected 10 November 2026, United States federal, Texas and New York City entries re-verified 16 November 2026. Supersedes Version 7.14 (November 2026).*
+*Released July 2026, amended 17 August 2026 and 15 October 2026, restructured 18 October 2026, corrected 20 October 2026, Part 12 completed 2 November 2026, corrected 10 November 2026, United States federal, Texas and New York City entries re-verified 16 November 2026, completed from the AI Index 2026 responsible AI chapter 18 November 2026. Supersedes Version 7.15 (November 2026).*
 
 ## CURRENCY AND OPEN POINTS
 
@@ -21,6 +21,20 @@
 **C6. Colorado.** SB 26-189 (signed 14 May 2026, effective 1 January 2027) repeals and reenacts SB 24-205. Enforcement of both is stayed in *X.AI LLC v. Weiser*, No. 1:26-cv-01515-DDD-CYC (D. Colo. Apr. 27, 2026) (minute order, ECF No. 24): the defendant shall not initiate enforcement, including an investigation, for alleged violations of SB24-205 "(or any legislation replacing or amending SB24-205 enacted during this legislative session)" that occurred or may occur on or before 14 days after the court rules on xAI's forthcoming motion for a preliminary injunction. SB 26-189 was enacted in that session to replace SB 24-205, so it is within the stay. xAI is to file that motion within 28 days after final adoption of the rules implementing SB24-205 or any replacement legislation. No such motion appears on the docket as last updated 9 November 2026 (read 10 November 2026 (KST) through the Civil Rights Litigation Clearinghouse). Source: the minute order as entered, read 10 November 2026 (KST). The Chatbot Safety Act, HB 26-1263, was signed 29 May 2026 (corrected 15 October 2026); the act took effect 12 August 2026 and its operator duties apply from 1 January 2027 (corrected 20 October 2026). See Part 12.
 
 **C7. EU AI Liability Directive.** Withdrawn; the withdrawal notice was published in the Official Journal on 6 October 2025 (C/2025/5423). The revised Product Liability Directive (Directive (EU) 2024/2853) is the operative EU liability instrument for AI-enabled products. See Part 12.
+
+### Amendment note, 18 November 2026 (KST), Version 7.16
+
+*Completions drawn from the Stanford AI Index Report 2026, Chapter 3 (Responsible AI), read in full on 18 November 2026 (KST) with its 92 links checked. Each completion cites the primary source, opened that day; the AI Index is cited only for its own analysis. Michael Paik reopened the no-further-additions rule for this work behind a Phase 0 gate and approved the plan on 18 November 2026. Version 7.15 is superseded and is not edited in place.*
+
+- **Part 1.3.** AI Hazard defined, and the definitions of AI Incident and AI Hazard identified as working definitions for internal reporting, with OECD (2024), *OECD Artificial Intelligence Papers*, No. 16, as the international reference for external reporting and the EU AI Act's narrower serious incident (Article 3(49)) distinguished. The OECD paper was read in its PDF on 18 November 2026 (KST), pages 11 and 13; it heads both definitions "Draft definition" and calls them working definitions, and this reference paraphrases them rather than quoting.
+- **Part 4.4.** Human interaction risks added to the taxonomy, for conversational systems.
+- **Part 4.6.** Cross-dimension effects of a control: re-test the dimensions a control may degrade, record the trade-off as residual risk, and have the named owner accept it.
+- **Part 5.2.** Performance in each language and regional variety a system serves.
+- **Part 5.6.** Two further documented divergences between test and deployed conditions, adversarial (AILuminate Jailbreak v0.5) and framing (KaBLE), with the TEVV implication.
+- **Part 8.5.** The AI Incident Database and the OECD AI Incidents and Hazards Monitor named and their methods distinguished; figures from them are recorded with source and retrieval date.
+- **Part 10.1.** Vendor disclosure of results on externally comparable responsible AI benchmarks, normal-use and adversarial, and developer-level transparency indices as dated inputs.
+- **Not adopted from the AI Index chapter:** the seventeen points recorded as errata in account-maintenance (`reviews/2026-11-18-ai-index-2026-ch3/README.md`), among them its statements on the Korean, French and United States AI safety institutes and its Foundation Model Transparency Index mean (40; the index's own page states 41).
+- **Not re-verified:** every other entry, which keeps the date of its own note. The Checklist v5.5 adds the six questions that test these controls (IDs 1.29, 2.17, 3.14, 5.20, 7.17 and 8.18).
 
 ### Amendment note, 16 November 2026 (KST), Version 7.15
 
@@ -250,6 +264,10 @@ Drafters should note that additional jurisdiction-specific requirements may appl
 **AI Incident.** Any event where an AI system operates outside its intended parameters, produces harmful or incorrect outputs, impacts stakeholders in unintended ways or violates policy or legal requirements. Includes near-misses where harm did not materialize but the conditions for harm were present.
 
 **Near-Miss.** An unplanned event involving an AI system that did not result in harm but had the potential to do so. Near-misses must be reported and treated as learning opportunities.
+
+**AI Hazard.** An event, circumstance or series of events in which the development, use or malfunction of an AI system could plausibly lead to an AI Incident but has not done so.
+
+The definitions of AI Incident, Near-Miss and AI Hazard in this reference are working definitions for internal reporting. For external reporting and for comparison with public incident monitors (Part 8.5), the international reference is OECD (2024), "Defining AI incidents and related terms", *OECD Artificial Intelligence Papers*, No. 16 (https://doi.org/10.1787/d1a8d965-en). Its working definitions, headed "Draft definition" in the paper (pages 11 and 13), are in substance these. An AI incident is an event, circumstance or series of events where the development, use or malfunction of one or more AI systems directly or indirectly leads to harm of four kinds: injury or harm to the health of a person or groups of people; disruption of the management and operation of critical infrastructure; violations of human rights or a breach of obligations under the applicable law intended to protect fundamental, labor and intellectual property rights; or harm to property, communities or the environment. An AI hazard is an event of the same kind where the development, use or malfunction of one or more AI systems could plausibly lead to an AI incident. The EU AI Act's "serious incident" (Article 3(49)) is narrower and governs the Article 73 duty in Part 8.3.
 
 **Risk.** The combination of the likelihood of an event and its potential consequences that could adversely affect organizational objectives or cause harm to customers, employees or other stakeholders.
 
@@ -713,6 +731,8 @@ AI risks must be identified systematically, beginning at the ideation or proposa
 
 - *Societal and reputational risks:* Systemic harm to affected populations, labor displacement without adequate mitigation and public trust erosion.
 
+- *Human interaction risks (conversational systems):* The system presenting itself as human, agreeing with the user against the facts, encouraging emotional reliance or withdrawal from other relationships, and failing to direct a user to human help. These behaviors can be measured: on a benchmark of 31 such behaviors, companionship-reinforcing responses outnumbered boundary-maintaining ones in each of the four models tested (Kaffee, Pistilli and Jernite, "INTIMA: A Benchmark for Human-AI Companionship Behavior", arXiv:2508.09998, 2025). A taxonomy of the relational harms they produce, from 35,390 conversation excerpts of companion-app users, is in Zhang et al., "The Dark Side of AI Companionship: A Taxonomy of Harmful Algorithmic Behaviors in Human-AI Relationships", arXiv:2410.20130, https://doi.org/10.1145/3706598.3713429.
+
 - *Supply chain risks:* Risks inherited from third-party models, datasets, components or GPAI model providers.
 
 **Recommended Identification Methods:**
@@ -758,6 +778,8 @@ For all risks rated Moderate or higher, appropriate control measures must be sel
 *Organizational controls.* Role-based access to AI systems and training data. Mandatory training by role and system classification. Escalation procedures with named recipients and response timeframes. System Owner accountability and periodic accountability reviews.
 
 *Third-party and supply chain controls.* Contractual SLAs covering performance, fairness and security. Audit rights and right to information. Incident notification obligations. Restrictions on vendor use of organizational data for model training. Vendor AI governance assessment before procurement. Ongoing monitoring of vendor compliance and system updates.
+
+**Cross-dimension effects of a control.** A control that improves one responsible AI dimension can degrade another, and no shared method yet measures the trade. In a controlled study on facial-analysis datasets, differential privacy improved privacy but reduced explainability, fairness and accuracy, and fairness-targeted training improved fairness only for the most biased models while reducing fairness, explainability and robustness in the other cases (Kemmerzell and Schreiner, "Quantifying the Trade-Offs Between Dimensions of Trustworthy AI", in *KI 2024: Advances in Artificial Intelligence*, LNAI 14992, pp. 128 to 146, https://doi.org/10.1007/978-3-031-70893-0_10). In federated learning, differential privacy can reduce fairness, while encryption-based alternatives preserved fairness better under data skew at higher computational cost (Wasif et al., "Empirical Analysis of Privacy-Fairness-Accuracy Trade-offs in Federated Learning", arXiv:2503.16233, 2025). Among large language models, the model that led on robustness and accuracy was not the one that led on toxicity (Cecchini et al., "Holistic Evaluation of Large Language Models: Assessing Robustness, Accuracy, and Toxicity for Real-World Applications", TrustNLP 2024, pp. 109 to 117, https://aclanthology.org/2024.trustnlp-1.11/). After any control that targets one dimension, the System Owner must re-test the dimensions it may degrade (at minimum fairness, privacy, explainability, robustness and accuracy, where they apply), record any trade-off in the Risk Register as part of residual risk and obtain acceptance at the threshold that applies to the system. The trade-off is a decision, and a decision has a named owner.
 
 Where mitigation is not feasible, risks may be escalated for acceptance or avoidance decisions under defined approval thresholds. Residual risk after controls must be reassessed and recorded. Risk acceptance for High Impact systems requires AI Governance Committee approval.
 
@@ -810,6 +832,8 @@ Evaluation assesses whether the AI system, as tested, meets organizational and r
 - Review of test results against acceptance criteria.
 
 - Bias and fairness evaluation including subgroup performance analysis.
+
+- Performance in each language and regional variety the system actually serves, where it serves more than one; results in a standard or dominant variety do not establish performance in its dialects (Checklist ID 2.17).
 
 - Stakeholder impact assessment (required for Medium and High Impact systems).
 
@@ -872,6 +896,8 @@ A foundational assumption in TEVV practice is that a system’s behavior under c
 **TEVV implication.** Benchmark performance and deployed performance may diverge in dimensions the benchmark cannot itself surface. A test plan that treats benchmark conditions and operational conditions as interchangeable is asserting an empirical claim that the early research suggests may not hold across all conditions. The implication is structural: the validity of the evidence the audit relies on is a function of the relationship between the test environment and the production environment, not a property of the test alone.
 
 **Operational requirements for High Impact systems.** The TEVV plan must distinguish performance claims supported by benchmark evidence from performance claims supported by real-usage evidence, and must not treat the former as a substitute for the latter where the governance question is whether the system performs as authorized in deployment. The pre-deployment specification must explicitly identify which acceptance thresholds are being assessed under benchmark conditions, which under real-usage conditions and what evidence supports each. The monitoring and re-validation program must include real-usage sampling distinct from benchmark re-runs, with sampling cadence proportionate to the system’s risk profile and with the gap between benchmark and real-usage performance documented at each re-validation.
+
+**Further documented divergences.** Two further results show test conditions that do not transfer. *Adversarial conditions:* on MLCommons' AILuminate Jailbreak benchmark v0.5, 35 of 39 de-identified systems received a lower grade under jailbreak attempts than under the benchmark's naive safety baseline, 29 by one grade and 6 by two (https://ailuminate.mlcommons.org/benchmarks/security/0.5-en_us-official-ensemble; the safety benchmark is described in Ghosh et al., arXiv:2503.05731). A safety rating obtained under normal use is not evidence of safety under deliberate misuse. *Framing:* on the KaBLE benchmark, all 24 language models tested systematically failed to acknowledge first-person false beliefs; GPT-4o's accuracy fell from 98.2% to 64.4% and DeepSeek R1's from over 90% to 14.4%, and third-person false beliefs were handled with substantially higher accuracy (95% for newer models) than first-person ones (62.6%) (Suzgun et al., "Language models cannot reliably distinguish belief from knowledge and fact", *Nature Machine Intelligence* 7, 1780 to 1790 (2025), https://doi.org/10.1038/s42256-025-01113-8). A system evaluated on neutral prompts may confirm a user's mistaken premise in deployment, which matters most where users state premises: legal intake, clinical support and complaints handling. *TEVV implication:* for High Impact generative systems, the TEVV plan must include adversarial conditions and user-premise framings representative of the deployment, and must record results under each condition separately (Checklist IDs 3.14 and 5.09).
 
 **Drafting note.** This is an active research area. The methodology is statistical rather than deterministic and the early findings do not establish that all benchmark performance is structurally compromised. The doctrinal point is durable: where the test condition is itself a feature the system can detect, the evidence produced under test conditions does not automatically transfer to claims about deployed conditions. The named human under Final Liability cannot delegate the validity question to the benchmark.
 
@@ -1113,7 +1139,7 @@ Significant incidents must undergo root cause analysis, with findings documented
 
 ### 8.5 Learning and Improvement
 
-Incident findings must feed back into governance. This includes updating controls, monitoring thresholds, risk assessments and training where appropriate. The Governance Committee reviews significant incidents to identify systemic issues and endorse improvements. The organization should also monitor external AI incident databases and regulatory publications for lessons applicable to its own systems and incorporate those lessons into the risk taxonomy and control catalog. Governance must operate as a documented feedback loop rather than a one-time implementation exercise, with lessons from incidents, audits, user feedback, vendor changes and regulatory developments feeding into policy updates, technical controls, oversight design and training priorities.
+Incident findings must feed back into governance. This includes updating controls, monitoring thresholds, risk assessments and training where appropriate. The Governance Committee reviews significant incidents to identify systemic issues and endorse improvements. The organization should also monitor external AI incident databases and regulatory publications for lessons applicable to its own systems and incorporate those lessons into the risk taxonomy and control catalog. Two public monitors differ in method and are best read together. The AI Incident Database (https://incidentdatabase.ai), a project of the Responsible AI Collaborative, admits incidents through submissions that human editors review. The OECD AI Incidents and Hazards Monitor (https://oecd.ai/en/incidents) detects incidents and hazards from news articles aggregated by Event Registry, classifies them with language models in a pipeline that runs daily, and does not independently verify the information it displays (https://oecd.ai/en/incidents-methodology). Counts in either change as records are added and reclassified, so any figure taken from them is recorded with its source and retrieval date, and an external incident relevant to the organization's systems is logged against the AI Risk Register (Checklist ID 8.18). Governance must operate as a documented feedback loop rather than a one-time implementation exercise, with lessons from incidents, audits, user feedback, vendor changes and regulatory developments feeding into policy updates, technical controls, oversight design and training priorities.
 
 ## PART 9: AGENTIC AI GOVERNANCE
 
@@ -1187,7 +1213,13 @@ AI vendors must be assessed against established technical and responsible AI cri
 
 - Testing methodology for bias, harmful outputs and adversarial robustness.
 
+- Results on externally comparable responsible AI benchmarks (for example safety refusals, jailbreak robustness, factuality and bias), each with the benchmark's name, version and date, or a written statement that the vendor publishes none. Frontier developers rarely report results against a shared external set of responsible AI benchmarks (Stanford HAI, *AI Index Report 2026*, Chapter 3, Figure 3.2.4, https://hai.stanford.edu/ai-index/2026-ai-index-report/responsible-ai), so the absence is common and is itself a finding to record.
+
+- For safety results, both normal-use and adversarial (jailbreak) results, since the first does not predict the second (Part 5.6).
+
 - Transparency about system capabilities, limitations and failure modes.
+
+- Developer-level transparency indices as a dated input, not a certification of the system procured. The Foundation Model Transparency Index scores developers, not models; its December 2025 edition reports a mean of 41 across 13 developers, a 17-point decrease from the prior year, with training data continuing to be opaque (Stanford CRFM, https://crfm.stanford.edu/fmti/December-2025/index.html).
 
 - The vendor’s own AI governance practices and track record.
 

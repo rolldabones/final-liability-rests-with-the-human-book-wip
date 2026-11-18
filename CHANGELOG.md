@@ -2,6 +2,20 @@
 
 All notable changes to this repository are documented here. Versioning follows [Semantic Versioning](https://semver.org/). The README and this file version in lockstep; prior versions are superseded, never silently overwritten.
 
+## v1.12.7 (2026-11-18)
+
+Patch release, 18 November 2026 (KST): Appendices I and J completed from the Stanford AI Index Report 2026, Chapter 3 (Responsible AI), read in full with its 92 links checked, under Michael Paik's reopening of the no-further-additions rule for this work behind a Phase 0 gate (plan approved 18 November 2026; account-maintenance `DECISIONS.md` section A). Each completion cites the primary source; the AI Index is cited only for its own analysis. The manuscript is unchanged. Prepared with Claude, approved by Michael Paik.
+
+### Instruments
+- `AI_GRC_Master_Reference_v7_15.md` reissued as `AI_GRC_Master_Reference_v7_16.md`, with a dated amendment note, Version 7.16: Part 1.3 (AI Hazard; the OECD working definitions as the international reference, the EU AI Act's serious incident distinguished), Part 4.4 (human interaction risks), Part 4.6 (cross-dimension effects of a control), Part 5.2 (each language and variety served), Part 5.6 (adversarial and framing divergences: AILuminate Jailbreak v0.5, KaBLE), Part 8.5 (the AI Incident Database and the OECD AI Incidents and Hazards Monitor) and Part 10.1 (vendor responsible AI benchmark results; transparency indices as dated inputs).
+- `AI_Audit_Due_Diligence_Checklist_v5_4.md` reissued as `AI_Audit_Due_Diligence_Checklist_v5_5.md`, synchronized with v7.16, with a dated amendment note, v5.5.0: six questions added (IDs 1.29, 2.17, 3.14, 5.20, 7.17 and 8.18), 199 to 205. Superseded versions removed, per the convention; they remain in the tag chain.
+- Not adopted from the AI Index chapter: seventeen points recorded as errata in account-maintenance `reviews/2026-11-18-ai-index-2026-ch3/README.md`.
+- The OECD definitions in Part 1.3 are paraphrased from the paper's PDF, read on 18 November 2026 (KST) at pages 11 and 13, where they are headed "Draft definition".
+
+### Lockstep
+- `master-reference/` regenerated at the 60,000-byte ceiling and verified to rebuild the source byte for byte. The completions move two part boundaries, so four parts are renamed: the first for Version 7.16, and the third, fourth and fifth, which now run from Part 4 to Part 7, from Part 8 to Part 18 and from Part 19 to Appendix G. No link in the account points to a renamed part; a dated evidence snapshot in `slow-ai-kitchen/lean-ai/evidence/` records the old names as history, and the Korean edition has parts of its own.
+- README (file links and counts, accuracy table, Status, How to Cite) and CITATION.cff to 1.12.7. The Korean edition's mirror lines are reported, not edited; it translates v7.14 and v5.3.
+
 ## v1.12.6 (2026-11-16)
 
 Patch release, 16 November 2026 (KST): `PLAN-v1.13.md` items 15 to 17, as the plan proposes, on Michael Paik's ruling of 16 November 2026 (account-maintenance `OPEN-ITEMS.md` item 45(e)); the changes approved at the halt of the remediation session of the same day. Prepared with Claude, approved by Michael Paik.
