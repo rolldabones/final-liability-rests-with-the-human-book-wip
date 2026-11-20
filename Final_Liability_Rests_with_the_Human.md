@@ -8,6 +8,14 @@ CEO, GRC Solutions Korea
 
 # Table of Contents
 
+**PREFACE: Four Years. Daily.**
+
+A note on the shape of this book
+
+A note on AI and this book
+
+A note on where this began
+
 **PART I: THE PROBLEM**
 
 Chapter 1: When AI Eliminates Coordination Work, It Reveals Your Governance Gap
@@ -222,6 +230,22 @@ The lyrics that follow compress the three doctrines this book develops, **Slow A
 > *Listen: https://suno.com/song/126610f0-15e1-4f0e-9161-23b0b599f062*
 
 The song says in three minutes what the rest of this book explores in detail. If the doctrine reaches you through the lyrics, the rest is the working out.
+
+## A note on where this began
+
+Long before AI was the question, I wrote a handbook for in-house lawyers. It was called *Ten Tools for In-House Lawyers*, and I wrote it, and used it, to train lawyers coming into corporate practice from law firms or straight out of law school. It was a field guide rather than a treatise. It did not try to teach law, which it assumed the reader knew, and it offered instead a toolbox the reader could augment with tools of his own. Its purpose was narrow and practical: to help a lawyer be useful inside an organization that is not a law firm, quickly, and without pretending to know what he does not (Ten Tools, pp. 1 to 3). We ran the ten tools as a short workshop and left the rest for independent reading, so the method could be taught in an afternoon and then practiced over a year.
+
+The handbook opened with three problems particular to working inside a Client rather than advising one from outside. The Information Problem: the internal Client understands the subject matter far better than the lawyer, because the Client lives in it every day. The Baggage Problem: you see the same Clients again and again, and the history you build with each of them becomes either an asset or a weight you cannot set down. The Swiss Army Knife Problem: you are expected to handle alone what a whole firm would distribute across its practice groups. None of the three is solved by knowing more law. Each is solved by a way of working.
+
+The first tool was the simplest. Ask who does what, when and where, why and how. The why is the question most often skipped and the one that matters most, because an activity that cannot be tied to how the business creates and captures value is an activity worth questioning at the root. I was teaching lawyers to interrogate the business before advising it, to write the questions and not only answer them.
+
+The second tool sorted risk. I took the known-knowns grid and set the organization’s work against it. Known knowns go to Systems. Unknown knowns, the risks a silo holds but never surfaces, go to Communications. Known unknowns go to Training for the legal team and Education for the internal Client. For the unknown unknowns there is no system, only the discipline of holding slack capacity in reserve and letting “good enough is good enough” (Ten Tools, p. 17) govern the work that does not need perfection, so that something is kept back for the day no one can foresee.
+
+I read these pages again while writing this book, and I was struck by how much of the present argument was already sitting in them, unnamed.
+
+Two of those connections are close enough to state as lineage. The handbook already made the business decision maker sign here and acknowledge the risk in writing, with a memo to files where it was needed, so that a risk was owned rather than swept under the rug (Ten Tools, p. 17). I did not have the words for it then, but that is the instinct Final Liability later states as a rule: a named person, on the record, carrying the consequence. The handbook also insisted that legal work run as Systems built in three stages, how the work comes in, how it is processed and how it goes out, each stage recorded so the output could be re-used and so that improvement was, in the handbook’s own phrase, “forced to occur” (Ten Tools, pp. 8 and 27). That is the discipline Slow AI later names as audited: the evidence exists before anyone asks for it, because the system was built to leave it behind.
+
+I will not claim more than that. An old handbook did not forecast a new doctrine, and I am wary of reading one back into the other. The point is simpler, and it is the point of this whole book. The problem has not changed. The named human, the recorded decision and the preserved evidence were the work before these tools arrived, and they are the work now.
 
 **Final Liability rests with the Human.**
 

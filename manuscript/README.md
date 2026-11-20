@@ -5,7 +5,7 @@ Derived from [Final_Liability_Rests_with_the_Human.md](../Final_Liability_Rests_
 | Part | Title | Size (KB) |
 |---|---|---|
 | 1 | [Final Liability Rests with the Human · Table of Contents](00-table-of-contents.md) | 3 |
-| 2 | [PREFACE: Four Years. Daily.](01-preface-four-years-daily.md) | 10 |
+| 2 | [PREFACE: Four Years. Daily.](01-preface-four-years-daily.md) | 13 |
 | 3 | [PART I: THE PROBLEM · CHAPTER 1: When AI Eliminates Coordination Work, It Reveals Your Governance Gap](02-chapter-1-when-ai-eliminates-coordination-work-it-reveals.md) | 23 |
 | 4 | [CHAPTER 2: Fast AI Creates Compliance Debt. Slow AI Builds Compliance Capital.](03-chapter-2-fast-ai-creates-compliance-debt-slow-ai-builds.md) | 12 |
 | 5 | [CHAPTER 3: The Compliance Theater Problem](04-chapter-3-the-compliance-theater-problem.md) | 25 |

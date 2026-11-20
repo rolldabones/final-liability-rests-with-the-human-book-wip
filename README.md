@@ -5,7 +5,7 @@
 **Son-U Michael Paik**
 CEO, GRC Solutions Korea.
 
-**v1.12.7 · 18 November 2026 · License: [CC BY-NC-SA 4.0](LICENSE.md) · Changes: [CHANGELOG.md](CHANGELOG.md) · 한국어판: [최종 책임은 인간에게 있다](https://github.com/rolldabones/final-liability-rests-with-the-human-ko-wip)**
+**v1.12.8 · 20 November 2026 · License: [CC BY-NC-SA 4.0](LICENSE.md) · Changes: [CHANGELOG.md](CHANGELOG.md) · 한국어판: [최종 책임은 인간에게 있다](https://github.com/rolldabones/final-liability-rests-with-the-human-ko-wip)**
 
 ---
 
@@ -84,11 +84,11 @@ Each reissue carries a dated amendment note that itemizes its changes, and the C
 
 ## Status
 
-First edition, June 2026. Revised July 2026; corrected 15 and 18 October 2026; revised 10 November 2026 (v1.12.0), with the Korean edition linked the same day (v1.12.1) and the glossary and index added, with the board reading guide linked (v1.12.2); Chapter 15 corrected 16 November 2026 for the 2026 *Boeing* decision (v1.12.3); Chapters 7 and 16 read against the Chapter 7 allocation (v1.12.4); United States federal, Texas and New York City status re-verified and Appendices I and J reissued as v5.4 and v7.15 (v1.12.5); the pre-deployment specification stated once, Punchlist Question 51 and the approval of the risk appetite aligned with Chapter 7 (v1.12.6); Appendices I and J completed from the AI Index 2026 responsible AI chapter and reissued as v5.5 and v7.16 (v1.12.7). Revisions are tracked through this repository's commit history.
+First edition, June 2026. Revised July 2026; corrected 15 and 18 October 2026; revised 10 November 2026 (v1.12.0), with the Korean edition linked the same day (v1.12.1) and the glossary and index added, with the board reading guide linked (v1.12.2); Chapter 15 corrected 16 November 2026 for the 2026 *Boeing* decision (v1.12.3); Chapters 7 and 16 read against the Chapter 7 allocation (v1.12.4); United States federal, Texas and New York City status re-verified and Appendices I and J reissued as v5.4 and v7.15 (v1.12.5); the pre-deployment specification stated once, Punchlist Question 51 and the approval of the risk appetite aligned with Chapter 7 (v1.12.6); Appendices I and J completed from the AI Index 2026 responsible AI chapter and reissued as v5.5 and v7.16 (v1.12.7); a note on where this began added to the Preface, tracing the book's lineage to the author's handbook *Ten Tools for In-House Lawyers* (v1.12.8). Revisions are tracked through this repository's commit history.
 
 ## How to Cite
 
-> Paik, Son-U Michael. *Final Liability Rests with the Human*, v1.12.7. GRC Solutions Korea, 2026. https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip
+> Paik, Son-U Michael. *Final Liability Rests with the Human*, v1.12.8. GRC Solutions Korea, 2026. https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip
 
 A machine-readable citation is in [CITATION.cff](CITATION.cff).
 

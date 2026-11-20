@@ -11,6 +11,14 @@ CEO, GRC Solutions Korea
 
 # Table of Contents
 
+**PREFACE: Four Years. Daily.**
+
+A note on the shape of this book
+
+A note on AI and this book
+
+A note on where this began
+
 **PART I: THE PROBLEM**
 
 Chapter 1: When AI Eliminates Coordination Work, It Reveals Your Governance Gap
