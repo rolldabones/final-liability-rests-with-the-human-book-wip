@@ -2,6 +2,13 @@
 
 All notable changes to this repository are documented here. Versioning follows [Semantic Versioning](https://semver.org/). The README and this file version in lockstep; prior versions are superseded, never silently overwritten.
 
+## v1.12.9 (2026-11-23)
+
+Patch release, 23 November 2026 (KST): the Preface's note on where this began gains one paragraph naming the predecessor of *Ten Tools for In-House Lawyers*, the author's handbook *Building the Global Legal Function at Korean Conglomerates* (PDF dated November 2008), which he wrote and released for free copying and distribution. A lineage citation only, under Michael Paik's reopening of the no-further-additions rule for this one item on 23 November 2026 (Guild House evaluation, ruling 3; account-maintenance `DECISIONS.md` section A). Written from the handbook's front matter and contents; the manuscript's argument is unchanged. Prepared with Claude, approved by Michael Paik.
+
+- **Preface, A note on where this began (one paragraph, about 100 words).** The handbook's subject (how Korean multinationals could establish a global legal and compliance function), its free-copying grant, its sequence (identification, diagnosis by interview and document review, mitigation by prevention and triage, management in-house, with human resources and political support) and its opening image of the legal department as the company's goalie; then the distinction drawn: Ten Tools taught the lawyer, the earlier handbook designed the department. The year rests on the PDF's creation date (6 November 2008); the handbook carries no printed date.
+- `manuscript/` regenerated with `split_markdown.py` at the 240,000-byte ceiling, verified to rebuild the manuscript byte for byte. README (masthead, Status, How to Cite) and CITATION.cff to 1.12.9, in lockstep. The Korean edition's mirror lines are reported, not edited.
+
 ## v1.12.8 (2026-11-20)
 
 Patch release, 20 November 2026 (KST): a note on where this began added to the Preface, after the note on AI and this book, tracing the book's lineage to the author's handbook *Ten Tools for In-House Lawyers*, which he wrote and holds the rights to (account-maintenance `DECISIONS.md` section A, 20 November 2026). Written from the handbook only; the manuscript's argument is unchanged. Under Michael Paik's reopening of the no-further-additions rule for exactly two additions, this Preface section and a new method file in `grc`. Prepared with Claude, approved by Michael Paik.
