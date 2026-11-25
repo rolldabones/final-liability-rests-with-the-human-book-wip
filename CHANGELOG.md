@@ -2,6 +2,13 @@
 
 All notable changes to this repository are documented here. Versioning follows [Semantic Versioning](https://semver.org/). The README and this file version in lockstep; prior versions are superseded, never silently overwritten.
 
+## v1.12.10 (2026-11-25)
+
+Patch release, 25 November 2026 (KST): the Korean edition's new title carried in this README. On feedback from a Korean reader, Michael Paik ruled on 25 November 2026 that the Korean title become 최종 책임은 인간이 진다 (previously 최종 책임은 인간에게 있다), released as Korean edition v0.3.0. Prepared with Claude (claude-opus-5-5), approved by Michael Paik.
+
+- README: the masthead's 한국어판 link and the Korean edition paragraph carry the new title; the Status line records the change. No manuscript or instrument text changes, so `manuscript/` is not regenerated.
+- README (masthead, Status, How to Cite) and CITATION.cff to 1.12.10, in lockstep.
+
 ## v1.12.9 (2026-11-23)
 
 Patch release, 23 November 2026 (KST): the Preface's note on where this began gains one paragraph naming the predecessor of *Ten Tools for In-House Lawyers*, the author's handbook *Building the Global Legal Function at Korean Conglomerates* (PDF dated November 2008), which he wrote and released for free copying and distribution. A lineage citation only, under Michael Paik's reopening of the no-further-additions rule for this one item on 23 November 2026 (Guild House evaluation, ruling 3; account-maintenance `DECISIONS.md` section A). Written from the handbook's front matter and contents; the manuscript's argument is unchanged. Prepared with Claude, approved by Michael Paik.
