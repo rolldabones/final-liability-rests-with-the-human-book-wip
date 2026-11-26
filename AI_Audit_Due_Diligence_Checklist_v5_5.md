@@ -1,5 +1,7 @@
 # AI Audit and Due Diligence Checklist
 
+> **A dated edition from 26 November 2026.** Version 5.5 is the last: this file is not updated after it. It states the law as verified on the dates it and the AI GRC Master Reference v7.16 carry, and no later. Verify every statement of law, regulation or standard against a current primary source before relying on it. The maintained statement of law in this account is the ai-governance-for-boards repository; DISPOSITION.md in the profile repository records the disposition.
+
 *Risk-Tiered Control Framework \| EU AI Act Article 6 Classification \| Deployment Context-Sensitive \| Version 5.5, Final*
 
 11 domains \| 205 audit and due diligence questions, each with a stable ID \| 1 Master Reference Part column \| 4 checklist tier tags (3 EU AI Act risk tiers + GPAI Ch. V) \| 5 deployment contexts \| Synchronized with the AI GRC Master Reference v7.16 (18 November 2026 (KST)); currency positions in its Currency and Open Points section

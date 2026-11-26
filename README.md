@@ -5,7 +5,7 @@
 **Son-U Michael Paik**
 CEO, GRC Solutions Korea.
 
-**v1.12.10 · 25 November 2026 · License: [CC BY-NC-SA 4.0](LICENSE.md) · Changes: [CHANGELOG.md](CHANGELOG.md) · 한국어판: [최종 책임은 인간이 진다](https://github.com/rolldabones/final-liability-rests-with-the-human-ko-wip)**
+**v1.12.11 · 26 November 2026 · License: [CC BY-NC-SA 4.0](LICENSE.md) · Changes: [CHANGELOG.md](CHANGELOG.md) · 한국어판: [최종 책임은 인간이 진다](https://github.com/rolldabones/final-liability-rests-with-the-human-ko-wip)**
 
 ---
 
@@ -88,7 +88,7 @@ First edition, June 2026. Revised July 2026; corrected 15 and 18 October 2026; r
 
 ## How to Cite
 
-> Paik, Son-U Michael. *Final Liability Rests with the Human*, v1.12.10. GRC Solutions Korea, 2026. https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip
+> Paik, Son-U Michael. *Final Liability Rests with the Human*, v1.12.11. GRC Solutions Korea, 2026. https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip
 
 A machine-readable citation is in [CITATION.cff](CITATION.cff).
 
@@ -108,8 +108,10 @@ Nearest neighbors:
 - [grc-workbook](https://github.com/rolldabones/grc-workbook): applies the book's three doctrines in its Part II and is maintained as the book's Appendix M in standalone form
 - [slow-ai-kitchen](https://github.com/rolldabones/slow-ai-kitchen): the operating instantiation of Slow AI for task and team work
 - [ai-governance-for-boards](https://github.com/rolldabones/ai-governance-for-boards): the board-altitude formulation of the three doctrines, with jurisdiction guides
-- [definition-of-done](https://github.com/rolldabones/definition-of-done): the acceptance doctrine that closes the loop the book's Evidence Problem (Part V) opens: no reliance until a named human confirms the work against tests defined in advance
+- [definition-of-done](https://github.com/rolldabones/definition-of-done) (archived edition): the acceptance doctrine that closes the loop the book's Evidence Problem (Part V) opens: no reliance until a named human confirms the work against tests defined in advance
 - [computational-drafting](https://github.com/rolldabones/computational-drafting): the drafting layer that writes the named human into the specification an agent executes
+
+Entries marked archived edition are dated editions that receive no corrections; [DISPOSITION.md](https://github.com/rolldabones/rolldabones/blob/main/DISPOSITION.md) lists them.
 
 ---
 

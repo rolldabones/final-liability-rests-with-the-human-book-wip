@@ -2,6 +2,15 @@
 
 All notable changes to this repository are documented here. Versioning follows [Semantic Versioning](https://semver.org/). The README and this file version in lockstep; prior versions are superseded, never silently overwritten.
 
+## v1.12.11 (2026-11-26)
+
+Patch release: the two instruments stated as dated editions. On Michael Paik's rulings of 26 November 2026, recorded in DISPOSITION.md in the profile repository: thirteen repositories of the account were archived that day as dated editions. Prepared with Claude, approved by Michael Paik.
+
+- **`AI_GRC_Master_Reference_v7_16.md` and `AI_Audit_Due_Diligence_Checklist_v5_5.md`:** a note under each title says the file is a dated edition from 26 November 2026, that its version is the last, and that every statement of law is verified against a current primary source before it is relied on. No Part, question, ID, heading or filename changes, and neither version moves. The same note is in the first derived part under `master-reference/`, which `split_markdown.py --verify` confirms rebuilds the Master Reference byte for byte.
+- **The manuscript is unchanged** and remains in development.
+- `README.md`, Part of the ecosystem: the archived neighbor is marked "archived edition". README and `CITATION.cff` to v1.12.11.
+- No file is added, removed, renamed or moved.
+
 ## v1.12.10 (2026-11-25)
 
 Patch release, 25 November 2026 (KST): the Korean edition's new title carried in this README. On feedback from a Korean reader, Michael Paik ruled on 25 November 2026 that the Korean title become 최종 책임은 인간이 진다 (previously 최종 책임은 인간에게 있다), released as Korean edition v0.3.0. Prepared with Claude (claude-opus-5-5), approved by Michael Paik.

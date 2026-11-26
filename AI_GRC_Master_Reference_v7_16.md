@@ -1,5 +1,7 @@
 # AI GRC Master Reference File: Version 7.16
 
+> **A dated edition from 26 November 2026.** Version 7.16 is the last: this file is not updated after it. It states the law as verified on the dates it carries, and no later. Verify every statement of law, regulation or standard against a current primary source before relying on it. The maintained statement of law in this account is [ai-governance-for-boards](https://github.com/rolldabones/ai-governance-for-boards); see [DISPOSITION.md](https://github.com/rolldabones/rolldabones/blob/main/DISPOSITION.md).
+
 ## Knowledge Base for AI-Assisted Governance, Risk Management and Compliance Drafting
 
 *Released July 2026, amended 17 August 2026 and 15 October 2026, restructured 18 October 2026, corrected 20 October 2026, Part 12 completed 2 November 2026, corrected 10 November 2026, United States federal, Texas and New York City entries re-verified 16 November 2026, completed from the AI Index 2026 responsible AI chapter 18 November 2026. Supersedes Version 7.15 (November 2026).*
